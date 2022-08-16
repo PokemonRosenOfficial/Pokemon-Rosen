@@ -1,0 +1,113 @@
+https://soundcloud.com/skittlesbeats/eternal-eterna-eterna-forest-remix?in=skittlesbeats/sets/remixes - Eterna Forest remix
+https://www.deviantart.com/kyogremaster/art/All-Pokemon-Trainer-Sprites-137787432 - Base Trainer Sprites
+https://www.spriters-resource.com/ - Ripped Tilesets
+https://www.pokecommunity.com/showthread.php?t=333021 - Lava Autotiles
+https://www.reddit.com/r/PokemonRMXP/comments/q6lhog/updated_gen_3_fall_edits_free_to_use_in_your_games/ - Autumn Tiles - KodaKodama
+https://www.deviantart.com/pokejosh/art/Nurse-Joy-853178063 - Nurse Sprite - PokeJosh
+https://reliccastle.com/resources/823/ - FRLG Style Mega Pack - Individual Credits on link
+
+https://reliccastle.com/resources/401/ - Encounter List UI
+raZ, Nuri Yuri, Vendily for main script
+Savordez, Marin for helping with the code
+Zaffre for the v1.2 update
+ThatWelshOne_ for the v1.3 update
+
+https://reliccastle.com/resources/371/ - Gen VIII Item Descriptions UI
+Boondeez
+
+https://reliccastle.com/resources/411/ - FRLG Party Screen
+Seyuna, Golispod User
+
+https://reliccastle.com/resources/411/ - FRLG Summary Screen
+Seyuna, TechSkylander (fixing Shadow script bug)
+
+Name Windows Script - Mr.Gela
+Better Bitmaps - Maruno (installed by unused)
+
+HM Items - Marin
+Updated to V18.1 by Reddit user u/Kobi2604
+
+Set Party to Lv50 Script - NettoHikari
+https://www.pokecommunity.com/showthread.php?t=420588
+
+==========================================
+#           GEN VIII BACKSPRITES         #
+==========================================
+leparagon - Original artwork and resource
+	
+Z-nogyroP, French-Cyndaquil - Unspecified contribuition and resizing on the original sprite sheet.
+	
+Prodigal96 - GMAX Eevee and Lapras Backsprites
+	
+Smogon Gen 8 Sprite Project - Reference
+
+VanillaSunshine - For the original idea. Check her Gen 6 and 7 packs with the same format.
+
+TheLuiz - Formatting back sprites for use with Pokémon Essentials.
+
+TPick2211 - Hisuian Backsprites, commissioned by offered for use with the community, Pokemon Acceptance.
+
+Gen 8 Back Sprites by:
+leparagon
+Z-nogyroP
+French-Cyndaquil
+Prodigal96 
+TheLuiz
+
+==========================================
+#           EKATS PUBLIC TILESETS        #
+==========================================
+1. Ekat
+2. Heartless Dragoon
+3. Morlockhater
+4. Nemu
+5. Ross Hawkins
+6. Pokemon Dawn
+7. Slimshady
+8. Thedeadheroalistar
+9. The-Red-Ex
+10. Vurtax
+11. Zein
+12. Redblueyellow
+13. Fabnt
+14. War8
+15. Dragoon
+16. Silverdeoxys563
+17. SteamyJ
+18. Anonalpaca
+19. Pokémon Rejuvenation
+20. Puggsoy
+21. Aveontrainer
+22. Idillio
+23. Dasani
+24. Shyin
+
+=========================================================
+#           Arceus Expansion for Gen VIII Project       #
+=========================================================
+
+-StCooler (Original script for Gen 8 Project in v18 and Status sprites)
+
+-PorousMist and curryofthepast (Adapting the script for v19.1 use)
+
+-AztecCroc (Item icons)
+
+-KingOfThe-X-Roads (Pokemon Sprites)
+
+-Morningdew (Pokemon cries ripped)
+
+-LuigiTKO (Pokemon icons)
+
+-Ezerart (Follower sprites)
+
+=========================================================
+#               Gen 8 Animation Projects                #
+=========================================================
+
+Project lead by StCooler.
+Contributors: StCooler, DarryBD99, WolfPP, ardicoozer, riddlemeree.
+Thanks to the Reborn team for letting people use their resources. You are awesome.
+Thanks to BellBlitzKing for his Pokemon Sound Effects Pack: Gen 1 to Gen 7 - All Attacks SFX.
+
+
+

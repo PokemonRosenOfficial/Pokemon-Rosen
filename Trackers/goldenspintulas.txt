@@ -1,0 +1,37 @@
+Golden Spintula Locations
+--------------------------
+#001 - Enigma Town/ Behind Beacon
+#002 - Enigma Town/ Enigma Beacon
+#003 - Enigma Town/ Oceanway (Requires Surf)
+#004 - Jaboca Town/ In front of Adrian's House (Night)
+#005 - Jaboca Gym/ Adrian's Room (Requires Badge #1)
+#006 - Jaboca Town - Adrian's House
+#007 - Route Tunnels - Island in cave corner (Requires Surf)
+#008 - Route 3 - Infront of Bug House (Requires Rock Smash)
+#009 - Route 3 - Middle Waterfall (Requires Surf/Waterfall)
+#010 - Route 4 - Access by Route 3 Right Waterfall (Requires Surf/Waterfall)
+#011 - Route 4 - Access by Route 3 Left Waterfall (Requires Surf/Waterfall/Rocksmash)
+#012 - Kee Town - By Cycling Road Entrance
+#013 - Kee Town - Gold Meeting Room (Must have beaten Team Null in Kee Mines)
+#014 - Tranquility Hill - Before ??? Location (Requires Surf/Waterfall)
+#015 - Tranquility Forest - In front of Shrine (Requires Cut)
+#016 - Route 5 - Down river (Requires Surf/Night)
+#017 - Rindo City - Behind topmost leftmost building
+#018 - Rindo Card Kingdom - Secret Kingdom
+#019 - Rindo City - Ghost Apartment (Day)
+#020 - Berry Grand - Strange Cave (Requires Strength)
+#021 - Berry Grand - Player Room
+#022 - Crystal Clear - Storage Room
+#023 - Crystal Clear - B1F, Leftmost Room, Cage just before Admin
+#024 - Rindo City - Top Clearing, Berry Pot 50 Cheri Berry Reward
+#025 - Route 1 - Behind Abandoned House (Night)
+#026 - Route 7 - Exclusive Exchange (Night)
+#027 - Cut Master's House
+#028 - Oran Town - Black Apricorn bush grown
+#029 - Oran Town - Behind house (Night)
+#030 - Crystal Clear - B1F, center room accessed from Big Gen 3
+#031 - Cycling Road - Go through cave on Route 4 (Requires Surf)
+#032 - Route 4 - Near Cycling Gate (Night)
+#033 - Route 3 - Scientist event leading to Bug House
+#034 - Miraculum Hospital - Storage Room
+#035 - Grumble Ruins - Behind a wall

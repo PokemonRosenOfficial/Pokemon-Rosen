@@ -1,0 +1,36 @@
+#-----------------------------------------------#
+#                    TUTOR LIST                 #
+#-----------------------------------------------#
+Slack Off - Swimmer on beach in Jaboca Town
+Uproar - Route 3 Cave (after Rindo City Events)
+
+#-----------------------------------------------#
+#                    TM LIST                    #
+#-----------------------------------------------#
+TM02 - Pay Day - Oran Town, Shopkeeper Quest
+TM06 - Poison Gas - Behind Grimer, Crystal Clear
+TM19 - Flame Burst - Route 4 after Rival Battle
+TM24 - Lovely Kiss - Route 7 Kiss Chase
+TM26 - Headbutt - Tranquility Forest near Crystal
+TM27 - Synthesis - Route 23 behind Cut tree
+TM47 - Safeguard - Nurse in Advent Lab 1F
+TM48 - Rock Tomb - Kee Mines B3F
+TM50 - Dream Eater - Miraculum Hospital
+TM56 - Alchemise - Gym #1
+TM69 - Psychocut - Cut Masters House, Route 27
+TM70 - Trick Room - Berry Grand Basement
+TM75 - Beat Dance - Gym #3
+TM79 - Aromelody - Gym #2
+TM81 - Bulldoze - Route 3 Caves behind Rock Smash boulder
+TM85 - Flash - Flash Master
+TM99 - Cryosleep - Nurse in Advent Lab 1F (1st return)
+
+HM07 - Rocksmash - Prof. Rosen post Rindo City
+ 
+#-----------------------------------------------#
+#                    TR LIST                    #
+#-----------------------------------------------#
+TR02 - Volt Switch - 10000G - Enigma Mall (2nd Visit)
+TR07 - Overheat - 10000G - Kee Town Mall
+TR23 - Spikes - Route Tunnels (Slime Sonic)
+TR43 - Heal Bell - 10000G - Rindo City Mall
