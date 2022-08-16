@@ -1,0 +1,120 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Route 3 (28) - Route 3 (27)
+28,West,0,27,East,0
+# Route 3 (Left) (29) - Route 3 (27)
+29,East,0,27,West,0
+# Route 4 (36) - Route 3 (27)
+36,South,18,27,North,0
+# Route 4 (36) - Route 3 (28)
+36,South,83,28,North,0
+# Route 4 (36) - Route 3 (Left) (29)
+36,South,0,29,North,12
+# Advent Glade (32) - Treescape Glade (84)
+32,North,0,84,South,0
+# Advent Glade (32) - Treescapes (Top) (79)
+32,West,0,79,East,21
+# Advent Glade (32) - Treescapes (Bottom) (81)
+32,West,21,81,East,0
+# Advent Shrine (76) - Advent Glade (32)
+76,East,0,32,West,0
+# Route 4 (37) - Route 4 (36)
+37,South,0,36,North,0
+# Tranquility Forest (56) - Tranquility Hill (55)
+56,North,0,55,South,0
+# Tranquility Forest (58) - Tranquility Hill (55)
+58,West,0,55,East,25
+# Tranquility Forest (58) - Tranquility Forest (56)
+58,West,0,56,East,0
+# Route 5 (59) - Tranquility Forest (New) (202)
+59,North,0,202,South,20
+# Route 5 (60) - Route 5 (59)
+60,East,0,59,West,0
+# Tranquility Forest (62) - Route 5 (59)
+62,South,60,59,North,0
+# Route 5 (60) - Tranquility Forest (New) (202)
+60,North,0,202,South,0
+# Route 5 (61) - Route 5 (60)
+61,East,0,60,West,0
+# Tranquility Forest (62) - Route 5 (60)
+62,East,65,60,West,0
+# Route 5 (61) - Tranquility Forest (New) (202)
+61,North,41,202,South,0
+# Tranquility Forest (62) - Route 5 (61)
+62,South,0,61,North,1
+# Tranquility Forest (62) - Tranquility Forest (New) (202)
+62,East,0,202,West,90
+# Rindo City (73) - Rindo City (72)
+73,West,1,72,East,0
+# Rindo (LEFT) (98) - Rindo City (72)
+98,East,0,72,West,0
+# Advent Shrine (76) - Treescape Glade (84)
+76,North,21,84,South,0
+# Advent Shrine (76) - Treescapes (Top) (79)
+76,North,0,79,South,4
+# Advent Shrine (76) - Treescapes (Left) (80)
+76,West,0,80,East,0
+# Advent Shrine (76) - Treescapes (Bottom) (81)
+76,South,0,81,North,0
+# Treescapes (Top) (79) - Treescape Glade (84)
+79,East,6,84,West,0
+# Treescapes (Left) (80) - Treescapes (Top) (79)
+80,North,17,79,South,0
+# Treescapes (Left) (80) - Treescape Glade (84)
+80,North,42,84,South,0
+# Treescapes (Bottom) (81) - Treescapes (Left) (80)
+81,West,0,80,East,21
+# Treescapes (Bottom) (81) - Treescape Glade (84)
+81,East,0,84,West,36
+# Route 7 (112) - Route 7 (111)
+112,West,10,111,East,0
+# Route 7 (113) - Route 7 (112)
+113,West,0,112,East,0
+# Route 8 (114) - Route 7 (113)
+114,West,0,113,East,3
+# Route 23 (117) - Route 23 (WEST) (121)
+117,West,56,121,East,0
+# Route 23 (118) - Route 23 (117)
+118,North,0,117,South,0
+# Route 23 (NORTH) (120) - Route 23 (117)
+120,South,0,117,North,0
+# Route 23 (118) - Route 23 (WEST) (121)
+118,West,6,121,East,0
+# Route 23 (NORTH) (120) - Route 23 (WEST) (121)
+120,West,71,121,East,0
+# Oran Town (124) - Berry Orchard (123)
+124,West,0,123,East,0
+# Cycling Road (142) - Cycling Road (152)
+142,South,0,152,North,0
+# Cycling Road (144) - Cycling Road (143)
+144,North,0,143,South,0
+# Cycling Road (152) - Cycling Road (143)
+152,South,0,143,North,0
+# Route 4 (146) - Route 4 (148)
+146,South,0,148,North,0
+# Route 1 (2) - Boundary (West) (219)
+2,North,0,219,South,0
+# Enigma Town (3) - Boundary (West) (219)
+3,West,0,219,East,0
+# Treescapes (Left) (11) - Boundary (West) (219)
+11,North,0,219,South,58
+# Route 1 (Up) (185) - Boundary (West) (219)
+185,East,0,219,West,45
+# Route 1 (182) - Boundary (West) (219)
+182,North,40,219,South,0
+# Enigma Town (3) - Route 1 (2)
+3,South,0,2,North,27
+# Treescapes (Left) (11) - Route 1 (2)
+11,West,0,2,East,0
+# Route 1 (Up) (185) - Route 1 (2)
+185,East,15,2,West,0
+# Route 1 (182) - Route 1 (2)
+182,East,0,2,West,0
+# Treescapes (Left) (11) - Enigma Town (3)
+11,North,0,3,South,31
+# Route 1 (182) - Enigma Town (3)
+182,North,67,3,South,0
+# Route 1 (Up) (185) - Treescapes (Left) (11)
+185,South,98,11,North,0
+# Route 1 (182) - Route 1 (Up) (185)
+182,North,0,185,South,0

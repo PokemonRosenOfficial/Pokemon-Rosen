@@ -1,0 +1,4182 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#  0  => :POKEBALL,
+#  1  => :GREATBALL,
+#  2  => :SAFARIBALL,
+#  3  => :ULTRABALL,
+#  4  => :MASTERBALL,
+#  5  => :NETBALL,
+#  6  => :DIVEBALL,
+#  7  => :NESTBALL,
+#  8  => :REPEATBALL,
+#  9  => :TIMERBALL,
+#  10 => :LUXURYBALL, PKMN Trainer Jordan
+#  11 => :PREMIERBALL,
+#  12 => :DUSKBALL,
+#  13 => :HEALBALL,
+#  14 => :QUICKBALL,
+#  15 => :CHERISHBALL,
+#  16 => :FASTBALL,
+#  17 => :LEVELBALL,
+#  18 => :LUREBALL,
+#  19 => :HEAVYBALL,
+#  20 => :LOVEBALL, Gym Leader Maria
+#  21 => :FRIENDBALL,
+#  22 => :MOONBALL,
+#  23 => :SPORTBALL, Gym Leader Leyya
+#  24 => :DREAMBALL, PKMN Trainer Haydn
+#  25 => :BEASTBALL, Gym Leader Adrian
+#-------------------------------
+[LEADER_Maria,Test]
+LoseText = "..."
+Pokemon = CRADILY,1
+	Moves = SCREECH,BOOMBURST
+	Ability = 0
+	Shadow = Yes
+	Form = 1
+#-------------------------------
+[OAKAIDE,Shilae]
+LoseText = "It seems the Prof knew what he was doing with you!"
+Pokemon = TAILLOW,5
+	Moves = PECK,GROWL,FOCUSENERGY
+	Ability = 1
+	Form = 1
+	IV= 10
+Pokemon = ZIGZAGOON,5
+	Moves = TACKLE,LEER,SANDATTACK
+	Ability = 0
+	Form = 1
+	IV= 10
+#-------------------------------
+[RESEARCHER,Rebecca]
+LoseText = "Certain Pokemon suddenly evolve into Rosen formes, but my Bugs don't..."
+Pokemon = CATERPIE,5
+	Moves = TACKLE,STRINGSHOT
+	Ability = 0
+	IV= 10
+Pokemon = WEEDLE,5
+	Moves = POISONSTING,STRINGSHOT
+	Ability = 0
+	IV= 10
+Pokemon = WURMPLE,5
+	Moves = POISONSTING,STRINGSHOT
+	Ability = 0
+	IV= 10
+#-------------------------------
+[OAKAIDE,Smith]
+LoseText = "The physiology of even regular Pokemon is just, well, odd here."
+Pokemon = BURMY,5
+	Moves = LEAFAGE,PROTECT
+	Ability = 1
+	IV= 10
+Pokemon = UNOWN,6
+	Moves = HIDDENPOWER,INNERPOWER,FORESIGHT
+	Ability = 0
+	IV= 10
+#-------------------------------
+[OAKAIDE,Sheldon]
+LoseText = "Your fighting style really is outta this world!"
+Pokemon = TAILLOW,5
+	Moves = PECK,GROWL,FOCUSENERGY,SUPERSONIC
+	Ability = 0
+	IV= 10
+Pokemon = PICHU,6
+	Moves = PAYDAY,CHARM,TAILWHIP
+	Ability = 0 
+	Form = 1
+	IV= 10
+#-------------------------------
+[POKEMANIAC,Bebe]
+LoseText = "I'm sure I sure a strange Pachirisu around here, where is it?!"
+Pokemon = MAREEP,6
+	Moves = GUST,BABYDOLLEYES
+	Ability = 0
+	Form = 2
+	IV= 10
+Pokemon = PACHIRISU,6
+	Moves = GROWL,BIDE,QUICKATTACK,COVET
+	Ability = 2
+	IV= 15
+#-------------------------------
+[FISHERMAN,Costas]
+LoseText = "Bad luck in battle, good luck on the line!"
+Pokemon = CATERPIE,5
+	Moves = TACKLE,STRINGSHOT
+	Ability = 0
+	IV= 10
+Pokemon = FEEBAS,5
+	Moves = SPLASH,TICKLE
+	Ability = 1
+	IV= 10
+Pokemon = FEEBAS,6
+	Moves = SPLASH,DRAGONBREATH
+	Ability = 2
+	IV= 10
+#-------------------------------
+[SUPERNERD,Ben]
+LoseText = "I guess you're not any old trainer huh? Troubling."
+Pokemon = FOONGUS,7
+	Moves = ACID,ASTONISH,FAKETEARS
+	Form = 1
+	Ability = 1
+	IV= 5
+Pokemon = MAGBY,8
+	Moves = SMOG,LEER,EMBER,SMOKESCREEN
+	IV= 5
+#-------------------------------
+[SCIENTIST,Baldwin]
+LoseText = "Curiosity killed the cat you know..."
+Pokemon = GULPIN,6
+	Moves = POUND,YAWN,MUDSLAP,SMOG
+	Ability = 0
+	IV= 5
+Pokemon = ZIGZAGOON,6
+	Moves = LICK,SNARL,SANDATTACK,LEER
+	Ability = 0
+	Form = 1
+	IV= 5
+Pokemon = DROWZEE,7 
+	Moves = CONFUSION,POUND,DISABLE,ASSIST
+	Ability = 1
+	IV= 5
+#-------------------------------
+[SUPERNERD,Reagan]
+LoseText = "The Proto Gym is no place for rookie trainers! Keep away!"
+Pokemon = DRIFLOON,7
+	Moves = CONSTRICT,MINIMIZE,GUST,TAILWIND
+	Ability = 0
+	IV= 5
+Pokemon = BONSLY,8
+	Moves = SMOG,CLEARSMOG,FLAIL,COPYCAT	
+	Ability = 2
+	Form = 1
+	IV= 5
+#-------------------------------
+[SCIENTIST,Trump]
+LoseText = "That battle must have shaken your memory!"	
+Pokemon = DITTO,8
+	Moves = TRANSFORM
+	Ability = 0
+	IV= 5
+Pokemon = KLINK,8
+	Moves = VICEGRIP,WATERSPORT
+	Ability = 1
+	Form = 1
+	IV= 5
+#-------------------------------
+[HIKER,Brody]
+LoseText = "I also happen to like to hike, sue me!"
+Pokemon = ELEKID,7
+	Moves = QUICKATTACK,THUNDERSHOCK,LOWKICK,BARRIER
+	Ability = 0
+	IV= 5
+Pokemon = KOFFING,6
+	Moves = POISONGAS,SMOG,TACKLE
+	Ability = 1
+	IV= 5
+Pokemon = GRIMER,7
+	Moves = BRANCHPOKE,HARDEN,DISABLE,SANDTOMB
+	Ability = 0
+	Form = 2
+	IV= 5
+#-------------------------------
+[ENGINEER,Rhodes]
+LoseText = "You left me feeling shocked! I'm tingling."
+Pokemon = VOLTORB,7
+	Moves = CHARGE,TACKLE,THUNDERSHOCK,EERIEIMPULSE
+	Ability = 0
+	IV = 5
+Pokemon = KLINK,7
+	Moves = VICEGRIP,SPARK,ASSURANCE
+	IV = 5
+#-------------------------------
+[COLLECTOR,Callum]
+LoseText = "My err... Pokemon couldn't hear my commands..."
+Pokemon = VENIPEDE,6
+	Moves = ROLLOUT,POISONSTING,SCREECH
+	Ability = 0
+	IV = 5
+Pokemon = DRATINI,7
+	Moves = ABSORB,BITE,LEER
+	Ability = 0
+	Form = 1
+	IV = 5
+Pokemon = SLOWPOKE,7
+	Moves = TACKLE,CURSE,ACID,YAWN
+	Ability = 1
+	Form = 1
+	IV = 5
+#-------------------------------
+[COLLECTOR,Raisen]
+LoseText = "Ooh err. Look at YOU! Do you even need to train here?"
+Pokemon = PORYGON,8
+	Moves = TACKLE,THUNDERSHOCK,PSYBEAM
+	Ability = 2
+	IV = 5
+Pokemon = EXEGGCUTE,9
+	Moves = ABSORB,HYPNOSIS,REFLECT
+	Ability = 1
+	Item = ORANBERRY
+	IV = 5
+#-------------------------------
+[ENGINEER,Jamie]
+LoseText = "Justie won't like you messing with his machines. Get lost yeah?"
+Pokemon = DIGLETT,8
+	Moves = SCRATCH,GROWL,SPARK
+	Ability = 1
+	Form = 1
+	IV = 5
+Pokemon = KLINK, 9
+	Moves = VICEGRIP,CHARGE,THUNDERSHOCK
+	Ability = 1
+	IV = 5
+#-------------------------------
+[PROTOLEADER_Justy,Justy]
+Items = POTION,POTION,ANTIDOTE
+LoseText = "I do think I recall where that key was - my pocket perhaps?"
+Pokemon = LOTAD, 10
+	Moves = ASTONISH,ABSORB,SMOG
+	Ability = 2
+	Form = 1
+	IV = 20
+	Ball = 12
+Pokemon = KOFFING, 12
+	Moves = POISONGAS,SMOG,SMOKESCREEN
+	IV = 20
+	Ball = 12
+Pokemon = CORPHISH, 11
+	Moves = ACUPRESSURE,VICEGRIP,DOUBLEHIT
+	Ability = 0
+	IV = 20
+	Ball = 12
+Pokemon = LOMBRE, 14
+	Moves = TOXICSPIKES,FIERYDANCE,DRAGONDANCE,FURYSWIPES
+	Ability = 2
+	Form = 1
+	Item = SHELLBELL
+	Shadow = Yes
+	IV = 20
+	Ball = 12
+#-------------------------------
+[RISINGSTAR_Reina,Reina,1]
+LoseText = "Heh, you have some skill at least dontcha? Not too much though."
+Items = SITRUSBERRY
+Pokemon = NIDORINO,14
+	Moves = POISONSTING,VENOMDRENCH,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = ROOKIDEE,13
+	Moves = DRAGONBREATH,FURYATTACK,FAKETEARS,UTURN
+	Ability = 1
+	Form = 1
+	IV = 20
+Pokemon = CLEFAIRY,14
+	Moves = HEALPULSE,SWEETKISS,DOUBLESLAP,MAGICALLEAF
+	Ability = 2
+	IV = 20
+Pokemon = SOLOSIS,16
+	Moves = POWDERSNOW,HIDDENPOWER,ROLLOUT,DEFENSECURL
+	Ability = 1
+	Form = 1
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Reina,Reina,2]
+LoseText = "Heh, you have some skill at least dontcha? Not too much though."
+Items = SITRUSBERRY
+Pokemon = NIDORINO,14
+	Moves = POISONSTING,VENOMDRENCH,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = ROOKIDEE,13
+	Moves = DRAGONBREATH,FURYATTACK,FAKETEARS,UTURN
+	Ability = 1
+	Form = 1
+	IV = 20
+Pokemon = CLEFAIRY,14
+	Moves = HEALPULSE,SWEETKISS,DOUBLESLAP,MAGICALLEAF
+	Ability = 2
+	IV = 20
+Pokemon = MAREEP,16
+	Moves = COTTONSPORE,SPARK,GUST,BABYDOLLEYES
+	Ability = 1
+	Form = 2
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Reina,Reina,3]
+LoseText = "Heh, you have some skill at least dontcha? Not too much though."
+Items = SITRUSBERRY
+Pokemon = NIDORINO,14
+	Moves = POISONSTING,VENOMDRENCH,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = ROOKIDEE,13
+	Moves = DRAGONBREATH,FURYATTACK,FAKETEARS,UTURN
+	Ability = 1
+	Form = 1
+	IV = 20
+Pokemon = CLEFAIRY,14
+	Moves = HEALPULSE,SWEETKISS,DOUBLESLAP,MAGICALLEAF
+	Ability = 2
+	IV = 20
+Pokemon = PORYGON,16
+	Moves = MACHPUNCH,SHARPEN,HORNATTACK,FORESIGHT
+	Ability = 1
+	Form = 1
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Reina,Reina,4]
+LoseText = "Heh, you have some skill at least dontcha? Not too much though."
+Items = SITRUSBERRY
+Pokemon = NIDORINO,14
+	Moves = POISONSTING,VENOMDRENCH,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = ROOKIDEE,13
+	Moves = DRAGONBREATH,FURYATTACK,FAKETEARS,UTURN
+	Ability = 1
+	Form = 1
+	IV = 20
+Pokemon = CLEFAIRY,14
+	Moves = HEALPULSE,SWEETKISS,DOUBLESLAP,MAGICALLEAF
+	Ability = 2
+	IV = 20
+Pokemon = EEVEE,16
+	Moves = TICKLE,BITE,WISH,COVET
+	Ability = 1
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Valian,Valian,1]
+LoseText = "Heh, you have some skill at least dontcha? Not too much though."
+Items = SITRUSBERRY
+Pokemon = NIDORINA,14
+	Moves = POISONSTING,VENOMDRENCH,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = ROOKIDEE,13
+	Moves = DRAGONBREATH,FURYATTACK,FAKETEARS,UTURN
+	Ability = 2
+	Form = 1
+	IV = 20
+Pokemon = JIGGLYPUFF,14
+	Moves = HEALPULSE,SWEETKISS,BOUNCE,ENCORE
+	Ability = 2
+	IV = 20
+Pokemon = SOLOSIS,16
+	Moves = POWDERSNOW,HIDDENPOWER,ROLLOUT,DEFENSECURL
+	Ability = 1
+	Form = 1
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Valian,Valian,2]
+LoseText = "Heh, you have some skill at least dontcha? Not too much though."
+Items = SITRUSBERRY
+Pokemon = NIDORINA,14
+	Moves = POISONSTING,VENOMDRENCH,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = ROOKIDEE,13
+	Moves = DRAGONBREATH,FURYATTACK,FAKETEARS,UTURN
+	Ability = 2
+	Form = 1
+	IV = 20
+Pokemon = JIGGLYPUFF,14
+	Moves = HEALPULSE,SWEETKISS,BOUNCE,ENCORE
+	Ability = 2
+	IV = 20
+Pokemon = MAREEP,16
+	Moves = COTTONSPORE,SPARK,GUST,BABYDOLLEYES
+	Ability = 1
+	Form = 2
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Valian,Valian,3]
+LoseText = "Heh, you have some skill at least dontcha? Not too much though."
+Items = SITRUSBERRY
+Pokemon = NIDORINA,14
+	Moves = POISONSTING,VENOMDRENCH,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = ROOKIDEE,13
+	Moves = DRAGONBREATH,FURYATTACK,FAKETEARS,UTURN
+	Ability = 2
+	Form = 1
+	IV = 20
+Pokemon = JIGGLYPUFF,14
+	Moves = HEALPULSE,SWEETKISS,BOUNCE,ENCORE
+	Ability = 2
+	IV = 20
+Pokemon = PORYGON,16
+	Moves = MACHPUNCH,SHARPEN,HORNATTACK,FORESIGHT
+	Ability = 1
+	Form = 1
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Valian,Valian,4]
+LoseText = "Heh, you have some skill at least dontcha? Not too much though."
+Items = SITRUSBERRY
+Pokemon = NIDORINA,14
+	Moves = POISONSTING,VENOMDRENCH,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = ROOKIDEE,13
+	Moves = DRAGONBREATH,FURYATTACK,FAKETEARS,UTURN
+	Ability = 2
+	Form = 1
+	IV = 20
+Pokemon = JIGGLYPUFF,14
+	Moves = HEALPULSE,SWEETKISS,BOUNCE,ENCORE
+	Ability = 2
+	IV = 20
+Pokemon = EEVEE,16
+	Moves = TICKLE,BITE,WISH,COVET
+	Ability = 1
+	IV = 20
+#-------------------------------
+[TUBER_M,David]
+LoseText = "Woah, mister! You almost washed me away!"
+Pokemon = WINGULL,14
+	Moves = ROOST,WINGATTACK,AQUARING,WATERPULSE
+	Ability = 0
+	IV = 10
+Pokemon = REMORAID,14
+	Moves = WATERGUN,PSYBEAM,AURORABEAM,MUDSHOT
+	Ability = 0
+	IV = 10
+Pokemon = CHEWTLE,15
+	Moves = DRAGONTAIL,PROTECT,HORNATTACK,BUBBLE
+	Ability = 1
+	IV = 10
+#-------------------------------
+[TUBER_F,Darcie]
+LoseText = "Wowie, guy! You almost swept me away!"
+Pokemon = WINGULL,14
+	Moves = ROOST,WINGATTACK,TWISTER,WATERPULSE
+	Ability = 0
+	IV = 10
+Pokemon = REMORAID,14
+	Moves = WATERGUN,PSYBEAM,AURORABEAM,MUDSHOT
+	Ability = 0
+	IV = 10
+Pokemon = SQUIRTLE,14
+	Moves = FAKEOUT,WITHDRAW,AQUAJET,BUBBLE
+	Ability = 1
+	IV = 10
+#-------------------------------
+[SAILOR,Craig]
+LoseText = "CRASH! The waves coming slamming down!"
+Pokemon = FRILLISH,14
+	Moves = BUBBLEBEAM,NIGHTSHADE,ABSORB,WATERSPORT
+	Ability = 0
+	IV = 10
+Pokemon = MACHOP,12
+	Moves = ICEPUNCH,KARATECHOP,LOWKICK,FOCUSENERGY
+	Ability = 0
+	IV = 10
+Pokemon = BINACLE,13
+	Moves = TICKLE,HELPINGHAND,WATERGUN,SLASH
+	Ability = 1
+	IV = 10
+Pokemon = TAILLOW,14
+	Moves = DEFOG,WHIRLWIND,WINGATTACK,GROWL
+	Ability = 0
+	IV = 10
+#-------------------------------
+[SISANDBRO,Izzy & Gabriel]
+LoseText = "No! Our sibling bond... shattered!"
+Pokemon = DWEBBLE,12
+	Moves = SANDTOMB,FURYCUTTER,FAINTATTACK,ROCKBLAST
+	Ability = 1
+	IV = 10
+Pokemon = MANTYKE,12
+	Moves = CONFUSERAY,BUBBLEBEAM,WINGATTACK,WIDEGUARD
+	Ability = 2
+	IV = 10
+Pokemon = SANDYGAST,14
+	Moves = AMNESIA,SANDTOMB,ASTONISH,SANDATTACK
+	Ability = 0
+	IV = 10
+Pokemon = KRABBY,14
+	Moves = BULLETSEED,COTTONSPORE,LEECHSEED,CLAMP
+	Ability = 1
+	Form = 1
+	IV = 10
+#-------------------------------
+[PICNICKER,Samira]
+LoseText = "When the grasses grow here, I won't have to worry about itchy sand!"
+Pokemon = NIDORANmA,14
+	Moves = DOUBLEKICK,POISONSTING,TAILWHIP,TAKEDOWN
+	Ability = 0
+	IV = 10
+Pokemon = CHERUBI,15
+	Moves = MORNINGSUN,LEECHSEED,HELPINGHAND,RAZORLEAF
+	Ability = 0
+	IV = 10
+Pokemon = TAILLOW,14
+	Moves = FAIRYWIND,BULLETSEED,WINGATTACK,FOCUSENERGY
+	Ability = 0
+	Form = 1
+	IV = 10
+#-------------------------------
+[CAMPER,Adnan]
+LoseText = "I can't show my skills in the sand, obviously..."
+Pokemon = NIDORANfE,14
+	Moves = DOUBLEKICK,POISONSTING,TAILWHIP,TAKEDOWN
+	Ability = 0
+	IV = 10
+Pokemon = APPLIN,15
+	Moves = ASTONISH,DEFENSECURL,ROLLOUT,SUCKERPUNCH
+	Ability = 2
+	IV = 10
+Pokemon = TAILLOW,14
+	Moves = FAIRYWIND,BULLETSEED,WINGATTACK,FOCUSENERGY
+	Ability = 0
+	Form = 1
+	IV = 10
+#-------------------------------
+[SAILOR,Mark]
+LoseText = "Avast! Me crew mate Craig would be so disappointed!"
+Pokemon = CRABRAWLER,14
+	Moves = PURSUIT,BUBBLEBEAM,ROCKSMASH,WIDEGUARD
+	Ability = 2
+	IV = 10
+Pokemon = MACHOP,15
+	Moves = ROLLINGKICK,SEISMICTOSS,MEDITATE,LOWKICK
+	Ability = 0
+	IV = 10
+Pokemon = CORSOLA,16
+	Moves = WATERPULSE,ASTONISH,CONFUSERAY,SPITE
+	Ability = 2
+	Form = 1
+	IV = 10
+#-------------------------------
+[GAMBLER,Kevin]
+LoseText = "They're all corrupt, they banned gambling!"
+Pokemon = MEOWTH,14
+	Moves = PAYDAY,FURYSWIPES,FAKEOUT,COVET
+	Ability = 1
+	Form = 2
+	IV = 10 
+Pokemon = CHATOT,16
+	Moves = PAYDAY,PECK,MIRRORMOVE,SING
+	Ability = 1
+	IV = 10
+Pokemon = VOLTORB,14
+	Moves = SONICBOOM,CHARGE,CHARGEBEAM,ROLLOUT
+	Ability = 2
+	IV = 10 
+#-------------------------------
+[POKEFAN,Mel]
+LoseText = "MY BABIES! Even Adrian wouldn't do that to them!"
+Pokemon = PIKACHU,16
+	Moves = DISARMINGVOICE,ELECTROBALL,PLAYNICE,QUICKATTACK
+	Ability = 0
+	IV = 10
+Pokemon = PICHU,13
+	Moves = NUZZLE,CHARM,LOVELYKISS,WISH
+	Ability = 0
+	Form = 1
+	IV = 10
+Pokemon = MUNCHLAX,16
+	Moves = METRONOME,SWEETKISS,PRESENT,DISARMINGVOICE	
+	Ability = 1
+	Form = 1
+	IV = 10
+#-------------------------------
+[SWIMMER_M,Attila]
+LoseText = "Way to harsh my buzz even worse than those Tentacool..."
+Pokemon = CLAMPERL,15
+	Moves = MUDDYWATER,CLAMP,WHIRLPOOL,IRONDEFENSE
+	Ability = 2
+	IV = 10
+Pokemon = TIRTOUGA,15
+	Moves = BITE,AQUAJET,ROLLOUT,BODYSLAM
+	Ability = 0
+	IV = 10
+Pokemon = OMANYTE,15
+	Moves = WATERPULSE,BITE,ROLLOUT,WITHDRAW
+	Ability = 0
+	IV = 10
+#-------------------------------
+[HIKER,Kharon]
+LoseText = "You've shown me a path, a path to this loss!"
+Pokemon = ROLYCOLY,14
+	Moves = RAPIDSPIN,SPIKES,AUTOTOMIZE,SMACKDOWN
+	Ability = 2
+	IV = 10
+Pokemon = ONIX,13
+	Moves = ROCKCLIMB,ROCKTOMB,RAGE,BIND
+	Ability = 1
+	IV = 10
+Pokemon = TAILLOW,14
+	Moves = FAIRYWIND,BULLETSEED,WINGATTACK,FOCUSENERGY
+	Ability = 1
+	Form = 1
+	IV = 10
+Pokemon = SKIDDO,13
+	Moves = MILKDRINK,RAZORLEAF,LEECHSEED,ROLLOUT
+	Ability = 0
+	IV = 10
+#-------------------------------
+[YOUNGSTER,Joe]
+LoseText = "He hasn't made a way for me to beat strong trainers..."
+Pokemon = VOLTORB,16
+	Moves = CHARGE,SPARK,GYROBALL,IRONDEFENSE
+	Ability = 0
+	IV = 10
+Pokemon = GRIMER,16
+	Moves = SHADOWSNEAK,ALCHEMISE,ACIDSPRAY,POISONGAS
+	Ability = 2
+	Form = 1
+	Item = POISONGEM
+	IV = 10
+Pokemon = TIMBURR,17
+	Moves = ROCKTHROW,LOWKICK,POWERUPPUNCH,COUNTER
+	Ability = 2
+	IV = 10
+#-------------------------------
+[LASS,Rachel]
+LoseText = "This Gym isn't what I expected when signed on either!"
+Pokemon = IGGLYBUFF,15
+	Moves = PRESENT,BOUNCE,SWEETKISS,ALCHEMISE
+	Ability = 1
+	Item = ORANBERRY
+	IV = 10
+Pokemon = CLEFFA,15
+	Moves = PRESENT,MAGICALLEAF,LOVELYKISS,ALCHEMISE
+	Ability = 2
+	Item = ORANBERRY
+	IV = 10
+Pokemon = JIGGLYPUFF,17
+	Moves = BOUNCE,DISARMINGVOICE,DOUBLESLAP,ALCHEMISE
+	Ability = 2
+	Item = SITRUSBERRY
+	IV = 10
+#-------------------------------
+[ENGINEER,Reese]
+LoseText = "The floor - be careful it doesn't fall out beneath you!"
+Pokemon = SPOINK,15
+	Moves = SHOCKWAVE,SIMPLEBEAM,CHARM
+	Form = 1
+	IV = 10
+Pokemon = DIGLETT,16
+	Moves = METALCLAW,BULLDOZE,FAINTATTACK,METALSOUND
+	Ability = 1
+	Form = 2
+	IV = 10
+Pokemon = MAGNEMITE,16
+	Moves = MAGNETBOMB,THUNDERSHOCK,LIGHTSCREEN,SUPERSONIC
+	Ability = 2
+	IV = 10
+#-------------------------------
+[LASS,Serena]
+LoseText = "The only thing not sustainable here? My losses!"
+Pokemon = MINCCINO,17
+	Moves = ALCHEMISE,WORKUP,DOUBLESLAP,HELPINGHAND
+	Ability = 1
+	Item = NORMALGEM
+	IV = 10
+Pokemon = MEOWTH,17
+	Moves = FAKEOUT,FURYSWIPES,COVET,METALCLAW
+	Ability = 1
+	Form = 2
+	IV = 10
+#-------------------------------
+[YOUNGSTER,Bobby]
+LoseText = "Did you like the cool Pokemon Adrian gave me?"
+Pokemon = KLINK,16
+	Moves = COGCRUSH,VICEGRIP,WATERSPORT,ASSIST
+	Form = 1
+	Ability = 1
+	IV = 10
+Pokemon = DITTO,16
+	Moves = GYROBALL,MAGICCOAT,RAPIDSPIN,ALCHEMISE	
+	Form = 1
+	Ability = 1
+	Item = STEELGEM
+	IV = 10
+Pokemon = DUNSPARCE,16
+	Moves = SANDTOMB,SPITE,PURSUIT,AGILITY
+	Ability = 2
+	Shadow = Yes
+	Form = 1
+	IV = 10
+#-------------------------------
+[ENGINEER,Riktor]
+LoseText = "After seeing it, did something seem off about it to you too?"
+Pokemon = TIMBURR,15
+	Moves = ROCKTHROW,LOWKICK,POWERUPPUNCH,COUNTER
+	Ability = 2
+	IV = 10
+Pokemon = KLINK, 15
+	Moves = VICEGRIP,CHARGE,SPARK,GEARGRIND
+	Ability = 1
+	IV= 10
+Pokemon = MUNCHLAX,17
+	Moves = PSYCHUP,CELEBRATE,SWEETKISS,DISARMINGVOICE
+	Ability = 1
+	Form = 1
+	Shadow = Yes
+	Item = SITRUSBERRY
+	IV = 10
+Pokemon = VOLTORB,16
+	Moves = ALCHEMISE,SPARK,GYROBALL,IRONDEFENSE
+	Ability = 0
+	Item = SHUCABERRY
+	IV = 10
+#-------------------------------
+[LEADER_Adrian,Adrian]
+LoseText = "You halted my production line. Congratulations."
+Items = SUPERPOTION,SUPERPOTION,FULLHEAL
+Pokemon = VOLTORB,17
+	Moves = ALCHEMISE,SPARK,LIGHTSCREEN,GYROBALL
+	Ability = 2 
+	Item = REDCARD
+	IV = 15
+	Ball = 25
+Pokemon = TRUBBISH,18
+	Moves = AUTOTOMIZE,SLUDGE,TOXICSPIKES,ALCHEMISE
+	Ability = 1
+	Item = SITRUSBERRY
+	IV = 15
+	Ball = 25
+Pokemon = GURDURR,18
+	Moves = COMETPUNCH,ROCKTHROW,MACHPUNCH,WORKUP
+	Ability = 2
+	Item = WEAKNESSPOLICY
+	IV = 15
+	Ball = 25
+Pokemon = MAGNEMITE,17
+	Moves = MAGNETBOMB,LIGHTSCREEN,THUNDERWAVE,ALCHEMISE	
+	Ability = 1 
+	Item = ELECTRICGEM
+	IV = 15
+	Ball = 25
+Pokemon = KLANG,21
+	Moves = COGCRUSH,FLIPTURN,WORKUP,ALCHEMISE
+	Ability = 0
+	Item = GRASSGEM
+	Form = 1
+	IV = 15
+	Ball = 25
+Pokemon = EEVEE,20
+	Moves = CELEBRATE,AQUAJET,WONDERRUSH,CHARM
+	Ability = 1
+	Form = 1
+	Shadow = Yes
+	Item = EONCOLLAR
+	IV = 15
+	Ball = 25
+#-------------------------------
+[LASS,Stella]
+LoseText = "You beat me who beat Adrian - will you be my Mum's favourite now?"
+Pokemon = MACHOP,18	
+	Moves = KNOCKOFF,REVENGE,ENCORE,KARATECHOP
+	Ability = 0
+	IV = 10
+Pokemon = LICKITUNG,19
+	Moves = KNOCKOFF,BELLYDRUM,STOMP,SUPERSONIC	
+	Ability = 1
+	IV = 10
+Pokemon = SHUPPET,18
+	Moves = EMBARGO,WILLOWISP,HEX,FAINTATTACK
+	Ability = 1
+	IV = 10
+#-------------------------------
+[CAMPER,Moh]
+LoseText = "Umm, uhh, how do you pitch a tent, actually?"
+Pokemon = SENTRET,19
+	Moves = CHARM,HELPINGHAND,FURYSWIPES,IRONTAIL
+	Ability = 1
+	IV = 10
+Pokemon = ZIGZAGOON,19
+	Moves = CHARM,HELPINGHAND,PINMISSILE,HEADBUTT
+	Ability = 2
+	IV = 10
+Pokemon = FURRET,20
+	Moves = CAPTIVATE,COIL,FURYSWIPES,IRONTAIL
+	Ability = 1
+	IV = 10
+#-------------------------------
+[PICNICKER,Wana]
+LoseText = "No, YOU'RE bad at camping!"
+Pokemon = WOOLOO,18
+	Moves = COPYCAT,TACKLE,SPARK,DOUBLEKICK
+	Ability = 0
+	IV = 10
+Pokemon = PIKIPEK,20
+	Moves = TAILWIND,ROOST,ROCKSMASH,PLUCK
+	Ability = 0
+	IV = 10
+Pokemon = SILICOBRA,20
+	Moves = BULLDOZE,HEADBUTT,POISONTAIL,MINIMIZE
+	Ability = 1
+	IV = 10
+#-------------------------------
+[BLACKBELT,Reese]
+LoseText = "Hoo-HAH! I'll give my trivia to someone else..."
+Pokemon = VIGOROTH,20
+	Moves = TICKLE,REVERSAL,PURSUIT,SLASH
+	Ability = 0
+	IV = 10
+Pokemon = MANKEY,18
+	Moves = SEISMICTOSS,LOWKICK,FURYSWIPES,BEATUP	
+	Ability = 1
+	IV = 10
+Pokemon = NIDORINO,20
+	Moves = COUNTER,DOUBLEKICK,FURYATTACK,POISONTAIL
+	Ability = 2
+	IV = 10
+#-------------------------------
+[CRUSHGIRL,Maynard]
+LoseText = "Sigh... I was always better at maths than battle!"
+Pokemon = BUNEARY,20
+	Moves = CIRCLETHROW,JUMPKICK,BOUNCE,RETURN
+	Ability = 2
+	IV = 10
+Pokemon = MANKEY,20
+	Moves = SEISMICTOSS,LOWKICK,FURYSWIPES,BEATUP	
+	Ability = 1
+	IV = 10
+Pokemon = NIDORINA,18
+	Moves = COUNTER,DOUBLEKICK,FURYATTACK,POISONTAIL
+	Ability = 2
+	IV = 10
+#-------------------------------
+[COLLECTOR,Scott]
+LoseText = "Now they're not in mint condition, their value goes down!"
+Pokemon = PIKACHU,31
+	Moves = DISARMINGVOICE,FAKEOUT,ELECTROBALL,QUICKATTACK
+	Ability = 0
+	IV = 12
+Pokemon = CRUSTLE,34
+	Moves = POWERGEM,FLAMEBURST,STEALTHROCK,IRONDEFENSE
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = IVYSAUR,34
+	Moves = DOUBLEEDGE,LEECHSEED,SLEEPPOWDER,MAGICALLEAF
+	Ability = 0
+	IV = 12
+Pokemon = WIMPOD,31
+	Moves = AQUAJET,STRUGGLEBUG,METALCLAW,SPIKES
+	Ability = 1
+	IV = 12
+#-------------------------------
+[FISHERMAN,Ishy]
+LoseText = "You still couldn't beat me in a fishing battle, pssht."
+Pokemon = TENTACOOL,32
+	Moves = SPIKES,ACIDSPRAY,BITE,WATERPULSE
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = OMANYTE,31
+	Moves = SUPERSONIC,KNOCKOFF,WATERGUN,ROLLOUT
+	Ability = 2
+	IV = 12 
+Pokemon = GYARADOS,36
+	Moves  = BITE,ICEFANG,TWISTER,AQUATAIL
+	Ability = 1
+	IV = 12
+#-------------------------------
+[FISHERMAN,Ameen]
+LoseText = "I can't beat you, but I can beat Ishy! Just watch."
+Pokemon = TENTACRUEL,36
+	Moves = TICKLE,TOXICSPIKES,POISONSTING,WATERPULSE
+	Ability = 0
+	IV = 12
+Pokemon = KABUTO,31
+	Moves = SCREECH,KNOCKOFF,MUDSHOT,RAPIDSPIN
+	Ability = 1
+	IV = 12
+Pokemon = MAGIKARP,32
+	Moves  = SPLASH,TACKLE,HYDROPUMP
+	Ability = 1
+	IV = 12
+#-------------------------------
+[FISHERMAN,Aeden]
+LoseText = "If I can't beat you, my friends can! Probably."
+Pokemon = TENTACOOL,32
+	Moves = TICKLE,TOXICSPIKES,POISONSTING,WATERPULSE
+	Ability = 0
+	IV = 12
+Pokemon = TENTACRUEL,36
+	Moves = SPIKES,ACIDSPRAY,CRUNCH,WATERPULSE
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = MAGIKARP,31
+	Moves  = SPLASH,TACKLE,BOUNCE
+	Ability = 1
+	IV = 12
+#-------------------------------
+[BUGMANIAC,Vinod]
+LoseText = "ACHOO! A bug is busting me...!"
+Pokemon = PARASECT,34
+	Moves = SPORE,FELLSTINGER,METALCLAW,PURSUIT
+	Ability = 0 
+	IV = 12
+Pokemon = AIPOM,34
+	Moves = NIGHTSLASH,STRENGTHSAP,STUNSPORE,COVET
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = ANORITH,35
+	Moves = SCREECH,KNOCKOFF,METALCLAW,XSCISSOR
+	Ability = 0
+	IV = 12
+#-------------------------------
+[SISANDBRO,Gabby & Izra]
+LoseText = "What is this feeling of deja vu?"
+Pokemon = DWEBBLE,32
+	Moves = WIDEGUARD,FURYCUTTER,FAINTATTACK,SMACKDOWN
+	Ability = 1
+	IV = 12
+Pokemon = HUNTAIL,33
+	Moves = CONFUSERAY,CLAMP,FAINTATTACK,SUCKERPUNCH
+	Ability = 0
+	IV = 12
+Pokemon = SANDYGAST,32
+	Moves = AMNESIA,BULLDOZE,ANCIENTPOWER,MEGADRAIN
+	Ability = 0
+	IV = 12
+Pokemon = KINGLER,33
+	Moves = SLACKOFF,LEAFBLADE,COTTONGUARD,FURYCUTTER
+	Ability = 1
+	Form = 1
+	IV = 12
+#-------------------------------
+[COOLTRAINER_F,Hamasa]
+LoseText = "Weren't you stunned by my looks?"
+Pokemon = CHARMELEON,34
+	Moves = AIRCUTTER,METALCLAW,DRAGONRAGE,FLAMEBURST
+	Ability = 0 
+	IV = 12
+Pokemon = DUNSPARCE,35
+	Moves = ANCIENTPOWER,BODYSLAM,HEX,YAWN
+	Ability = 0
+	IV = 12
+#-------------------------------
+[GENTLEMAN,Marshall]
+LoseText = "Well, I suppose that's my retirement calling."
+Pokemon = JUMPLUFF,34
+	Moves = MEGADRAIN,FAIRYWIND,STUNSPORE,STRENGTHSAP
+	Ability = 1
+	Item = MIRACLESEED
+	IV = 12
+Pokemon = CHATOT,35
+	Moves = CHATTER,STEELWING,NIGHTSHADE,MIRRORMOVE
+	Ability = 1
+	IV = 12
+#-------------------------------
+[COOLTRAINER_M,Dariush]
+LoseText = "Didn't my great hair stop you in your tracks?"
+Pokemon = WARTORTLE,21
+	Moves = YAWN,AQUARING,BITE,RAPIDSPIN
+	Ability = 0
+	IV = 10	
+Pokemon = RUFFLET,21
+	Moves = AERIALACE,SCARYFACE,HONECLAWS,FURYATTACK
+	Ability = 1
+	IV = 10
+Pokemon = CUFANT,21
+	Moves = DEFENSECURL,ROLLOUT,BULLDOZE,STOMP
+	Ability = 1
+	IV = 10
+#-------------------------------
+[TRAINER_Leigh,???]
+LoseText = "Hmph. Still a ways to go."
+Items = SUPERPOTION
+Pokemon = FLETCHINDER,21
+	Moves = FLAMECHARGE,ACROBATICS,TAILWIND,QUICKGUARD
+	Ability = 0
+	IV = 20
+	Ball = 10
+Pokemon = VULPIX,22
+	Moves = EXTRASENSORY,BABYDOLLEYES,WILLOWISP,FIERYTERRAIN	
+	Ability = 2
+	Item = HEATROCK
+	IV = 20
+	Ball = 10
+Pokemon = LILEEP,23
+	Moves = ANCIENTPOWER,TARSHOT,EMBER,SMOKESCREEN	
+	Ability = 1
+	Form = 1
+	IV = 20
+	Ball = 10
+Pokemon = PORYGON,23
+	Moves = WONDERRUSH,PSYBEAM,THUNDERSHOCK,CONVERSION
+	Ability = 2
+	IV = 20
+	Ball = 10
+Pokemon = FLAREON,24
+	Moves = ACCELEROCK,INCINERATE,SMACKDOWN,METALCLAW
+	Ability = 1
+	Form = 1
+	IV = 20
+	Ball = 10
+#-------------------------------
+[BLACKSMITH,Ricardo]
+LoseText = "My potential can't be recognised out here in the cold!"
+Pokemon = PHANTUMP,20
+	Moves = WILLOWISP,HEX,SUCKERPUNCH,SCREECH
+	Ability = 0
+	IV = 10
+Pokemon = MAKUHITA,20
+	Moves = ARMTHRUST,FLAMECHARGE,BIDE,WORKUP
+	Ability = 1
+	Form = 1
+	IV = 10
+Pokemon = CARKOL,21
+	Moves = FLAMECHARGE,ANCIENTPOWER,GYROBALL,SMOKESCREEN
+	Ability = 1
+	IV = 10
+#-------------------------------
+[BLACKSMITH,Brandon]
+LoseText = "Some goon told me not to use the lava though!"
+Pokemon = MACHOP,20
+	Moves = FIREPUNCH,KNOCKOFF,MEDITATE,KARATECHOP
+	Ability = 0
+	IV = 10
+Pokemon = ROLYCOLY,20
+	Moves = RAPIDSPIN,GYROBALL,ANCIENTPOWER,SMACKDOWN
+	Ability = 1 
+	IV = 10	
+Pokemon = MAGBY,22
+	Moves = MACHPUNCH,FAINTATTACK,SMOKESCREEN,FLAMEBURST
+	Ability = 0
+	IV = 10
+#-------------------------------
+[LILEEPNEST,Cradily]
+LoseText = "Craaaadilyyy...!"
+Pokemon = LILEEP,22
+	Moves = ANCIENTPOWER,TARSHOT,EMBER,SMOKESCREEN	
+	Ability = 1
+	Form = 1
+	IV = 15
+Pokemon = LILEEP,22
+	Moves = ROCKBLAST,TARSHOT,EMBER,RAGEPOWDER
+	Ability = 0
+	Form = 1
+	IV = 15
+Pokemon = LILEEP,23
+	Moves = ANCIENTPOWER,TARSHOT,EMBER,SMOKESCREEN	
+	Ability = 0
+	Form = 1
+	IV = 15
+Pokemon = LILEEP,23
+	Moves = ROCKBLAST,TARSHOT,EMBER,RAGEPOWDER
+	Ability = 1
+	Form = 1
+	IV = 15
+Pokemon = LILEEP,24
+	Moves = ANCIENTPOWER,TARSHOT,EMBER,FIRSTIMPRESSION	
+	Ability = 0
+	Form = 1
+	IV = 15
+Pokemon = CRADILY,25
+	Moves = ERUPTION,RECOVER,FIRELASH,STEALTHROCK
+	Ability = 1
+	Form = 1
+	Shadow = Yes
+	IV = 15
+#-------------------------------
+[TEAMNULL_F1,Grunt,1]
+LoseText = "You won't escape, so this defeat is meaningless."
+Pokemon = GRIMER,22
+	Moves = MINIMIZE,POISONGAS,SHADOWSNEAK,POISONFANG
+	Ability = 2
+	Form = 1
+	IV = 10
+Pokemon = ZUBAT,22
+	Moves = HYPNOSIS,CONFUSERAY,FAINTATTACK,WINGATTACK
+	Ability = 1
+	IV = 10
+Pokemon = PERSIAN,24
+	Moves = FAKEOUT,TAUNT,ASSURANCE,HYPNOSIS
+	Ability = 0 
+	Form = 1
+	IV = 10
+#-------------------------------
+[TEAMNULL_M1,Grunt,1]
+LoseText = "I am but one of many pawns, if I must fall I must."
+Pokemon = TRUBBISH,22
+	Moves = INCINERATE,POISONGAS,FOULPLAY,SMOG	
+	Ability = 1
+	Form = 1
+	IV = 10
+Pokemon = POOCHYENA,23
+	Moves = FIREFANG,BITE,HOWL,SWAGGER	
+	Ability = 1
+	IV = 10
+Pokemon = KOFFING,22
+	Moves = POISONGAS,SELFDESTRUCT,SLUDGE,ASSURANCE
+	Ability = 0 
+	IV = 10
+#-------------------------------
+[TEAMNULL_M1,Grunt,2]
+LoseText = "Your resistance is futile. All will fall to Null."
+Pokemon = PURRLOIN,23
+	Moves = FAINTATTACK,FAKEOUT,TORMENT,FURYSWIPES
+	Ability = 0 
+	IV = 10
+Pokemon = RATICATE,24
+	Moves = DIG,CRUNCH,HYPERFANG,QUICKATTACK	
+	Ability = 0
+	Form = 1
+	IV = 10
+Pokemon = STUNKY,24
+	Moves = ACIDSPRAY,BITE,POISONGAS,FLAMEBURST
+	Ability = 1
+	IV = 10
+#-------------------------------
+[TEAMNULL_M1,Grunt,3]
+LoseText = "Try as you might, you cannot stem the will of Null."
+Pokemon = LILEEP,23
+	Moves = GROWTH,ANCIENTPOWER,TARSHOT,EMBER
+	Ability = 1
+	IV = 10
+	Form = 1
+Pokemon = GOLBAT,24
+	Moves = SCREECH,QUICKATTACK,WINGATTACK,CONFUSERAY
+	Ability = 1
+	IV = 10
+#-------------------------------
+[TEAMNULL_F1,Grunt,2]
+LoseText = "Team Null will coerce you with any means neccesary."
+Pokemon = TRUBBISH,23
+	Moves = INCINERATE,POISONGAS,FOULPLAY,SMOG	
+	Ability = 2
+	Form = 1
+	IV = 10
+Pokemon = MIGHTYENA,25
+	Moves = SNARL,FIREFANG,ASSURANCE,SWAGGER
+	Ability = 1
+	IV = 10
+#-------------------------------
+[TEAMNULL_M1,Grunt,4]
+LoseText = "Null will overcome you, have we not worn you down?"
+Pokemon = RATICATE,22
+	Moves = DIG,CRUNCH,HYPERFANG,QUICKATTACK	
+	Ability = 0
+	Form = 1
+	IV = 10
+Pokemon = HOUNDOUR,23
+	Moves = BITE,FIREFANG,FIRESPIN,PURSUIT
+	Ability = 1
+	IV = 10
+Pokemon = NUMEL,24
+	Moves = GROWTH,LAVAPLUME,MAGNITUDE,YAWN
+	Ability = 1
+	IV = 10
+#-------------------------------
+[TEAMNULL_F1,Grunt,3]
+LoseText = "...Null has failed. Retreat."
+Pokemon = SIZZLIPEDE,21
+	Moves = KNOCKOFF,STRUGGLEBUG,FLAMEWHEEL,WRAP
+	Ability = 2
+	IV = 10
+Pokemon = BONSLY,23
+	Moves = SHELLSMASH,POISONGAS,MAGNETBOMB,IRONDEFENSE
+	Ability = 0
+	Form = 1
+	IV = 10
+Pokemon = TORRACAT,23
+	Moves = REVENGE,FAKEOUT,DOUBLEKICK,BITE
+	Ability = 1
+	IV = 10
+#-------------------------------
+[TEAMNULL_F1,Grunt,4]
+LoseText = "Keep walking down this way... that's it."
+Pokemon = MEOWTH,22
+	Moves = FAKEOUT,TAUNT,ASSURANCE,HYPNOSIS
+	Ability = 0 
+	Form = 1
+	IV = 10
+Pokemon = RATTATA,22
+	Moves = FLAMEWHEEL,BITE,HYPERFANG,QUICKATTACK	
+	Ability = 0
+	Form = 1
+	IV = 10
+Pokemon = ARON,23
+	Moves = POISONGAS,IRONHEAD,CURSE,SCREECH	
+	Ability = 0
+	Form = 2
+	IV = 10
+#-------------------------------
+[TEAMNULL_F1,Grunt,5]
+LoseText = "...do you think this defeat makes any difference to us?"
+Pokemon = CORVISQUIRE,24
+	Moves = TAILWIND,PLUCK,FURYATTACK,WORKUP
+	Ability = 1 
+	IV = 10
+Pokemon = RATICATE,25
+	Moves = SCARYFACE,QUICKATTACK,ASSURANCE,FOCUSENERGY
+	Ability = 1
+	IV = 10
+#-------------------------------
+[IMITATOR,Agrev]
+LoseText = "Hrrmph. Most displeasing."
+Pokemon = PALPITOAD,24
+	Moves = CAMOUFLAGE,WATERPULSE,MUDSHOT,SUPERSONIC
+	Ability = 1
+	Item = WIDELENS
+	IV = 20
+Pokemon = MURKROW,25
+	Moves = DEEPFOG,AERIALACE,FAINTATTACK,HAZE
+	Ability = 0 
+	IV = 20
+Pokemon = NUZLEAF,24
+	Moves = CAMOUFLAGE,FAINTATTACK,RAZORLEAF,GROWTH
+	Ability = 1
+	Item = BRIGHTPOWDER
+	IV = 20
+Pokemon = PINSIR,25
+	Moves = BOUNCE,FAUXKISS,DRAININGKISS,DOUBLESLAP
+	Ability = 1 
+	Form = 2
+	Shadow = yes
+	IV = 20
+#-------------------------------
+[LASS,Charlotte]
+LoseText = "Oh, bother."
+Pokemon = CLEFFA,23
+	Moves = MAGICALLEAF,LOVELYKISS,FAKETEARS,HEALPULSE
+	Ability = 2 
+	IV = 10
+Pokemon = CLEFAIRY,24
+	Moves = MAGICALLEAF,DISARMINGVOICE,FOLLOWME,CHARM
+	Ability = 2 
+	IV = 10
+Pokemon = CLEFABLE,24
+	Moves = DOUBLESLAP,DISARMINGVOICE,FOLLOWME,MINIMIZE
+	Ability = 2 
+	IV = 10
+#-------------------------------
+[POKEMONRANGER_M,Timothy]
+LoseText = "We must protect it!"
+Pokemon = AIPOM,22
+	Moves = BOUNCE,TICKLE,FURYSWIPES,FAKEOUT
+	Ability = 0
+	IV = 10
+Pokemon = SLOWPOKE,22
+	Moves = ZENHEADBUTT,YAWN,WATERPULSE,STOMP
+	Abilities = 0
+	IV = 10
+Pokemon = SANDSLASH,23
+	Moves = CRUSHCLAW,SANDTOMB,ROLLOUT,RAPIDSPIN
+	Ability = 1
+	IV = 10
+Pokemon = BUTTERFREE,23
+	Moves = HOTWINDS,SILVERWIND,CONFUSERAY,POWDER
+	Ability = 1
+	Form = 1
+	IV = 10
+#-------------------------------
+[POKEMONRANGER_F,Ekhlas]
+LoseText = "I've never seen them myself..."
+Pokemon = VIBRAVA,24
+	Moves = DRAGONBREATH,MUDSHOT,SANDTOMB,BUGBITE
+	Ability = 0
+	IV = 10
+Pokemon = VIGOROTH,25
+	Moves = TICKLE,PURSUIT,SLASH,ENCORE
+	Ability = 0
+	IV = 10
+Pokemon = BEAUTIFLY,24
+	Moves = SHOCKWAVE,INFESTATION,THUNDERWAVE,MAGNETRISE
+	Ability = 1
+	Form = 1
+	IV = 10
+#-------------------------------
+[POKEMONRANGER_F,Emma]
+LoseText = "... hollow..."
+Pokemon = DODUO,25
+	Moves = PLUCK,DOUBLEHIT,MIRRORMOVE,ASSURANCE
+	Ability = 2
+	IV = 10
+Pokemon = CARNIVINE,25
+	Moves = BITE,DUALWINGBEAT,GROWTH,WORRYSEED
+	Ability = 1
+	IV = 10
+Pokemon = MARACTUS,26
+	Moves = SPIKYSHIELD,GROWTH,PINMISSILE,NEEDLEARM
+	Ability = 0
+	IV = 10
+#-------------------------------
+[RESEARCHER,Leigha]
+LoseText = "I'm still dizzy from the concussion!"
+Pokemon = PLUSLE,24
+	Moves = LIGHTSHOWER,HEADBUTT,LOVELYKISS,RAZORLEAF
+	Ability = 0
+	Form = 1
+	IV = 10
+Pokemon = PSYDUCK,25
+	Moves = SCREECH,CONFUSION,WATERPULSE,HEADBUTT
+	Ability = 1
+	IV = 10
+Pokemon = CLEFAIRY,25
+	Moves = DISARMINGVOICE,WAKEUPSLAP,HEALPULSE,HEADBUTT
+	Ability = 1
+	IV = 10
+#-------------------------------
+[POKEMONRANGER_M,Aristo]
+LoseText = "The Pokemon hiding there, they could be more aggressive!"
+Pokemon = BEEDRILL,25
+	Moves = IRONEEDLE,SPIKECANNON,FLAMECHARGE,FOCUSENERGY
+	Ability = 0
+	Form = 1
+	IV = 10
+Pokemon = LOUDRED,24
+	Moves = EXTRASENSORY,STOMP,BITE,FAKETEARS
+	Ability = 1
+	IV = 10
+Pokemon = CORSOLA,25
+	Moves = ANCIENTPOWER,AQUARING,BUBBLEBEAM,ICICLESPEAR
+	Ability = 2
+	IV = 10
+#-------------------------------
+[POKEMONRANGER_F,Alaiya]
+LoseText = "If this were an actual test, you'd have passed!"
+Pokemon = SIMISEAR,24
+	Moves = BOLEROBLAZE,YAWN,DIG,LOWKICK
+	Ability = 1
+	IV = 10
+Pokemon = PASSIMIAN,25
+	Moves = SEISMICTOSS,KNOCKOFF,BEATUP,TAKEDOWN
+	Ability = 1
+	IV = 10
+Pokemon = SIMIPOUR,24
+	Moves = SPLASHSERENADE,DRAININGKISS,ATTRACT,LOWKICK
+	Ability = 1
+	IV = 10
+Pokemon = SIMISAGE,25
+	Moves = AROMELODY,LEECHSEED,ARMTHRUST,LICK
+	Ability = 1
+	IV = 10
+#-------------------------------
+[BUGCATCHER,Jerry]
+LoseText = "I must have calculated my bug's trajectory wrong!"
+Pokemon = DOTTLER,26
+	Moves = STICKYWEB,CONFUSION,STRUGGLEBUG,REFLECT
+	Ability = 2
+	IV = 10
+Pokemon = DOTTLER,26
+	Moves = RECOVER,CONFUSION,STRUGGLEBUG,LIGHTSCREEN
+	Ability = 2
+	IV = 10
+#-------------------------------
+[BEAUTY,Hei]
+LoseText = "I've always found bugs appealing..."
+Pokemon = STEENEE,24
+	Moves = ACUPRESSURE,PLAYROUGH,DOUBLESLAP,RAZORLEAF
+	Ability = 1
+	IV = 10
+Pokemon = LUXIO,25
+	Moves = SPARK,BITE,ICEFANG,NIGHTSLASH
+	Ability = 1
+	IV = 10
+#-------------------------------
+[SUPERNERD,Matteo]
+LoseText = "I shouldn't be gatekeeping? But it's my way of life!"
+Pokemon = NOCTOWL,24
+	Moves = HYPNOSIS,ZENHEADBUTT,PSYCHOSHIFT,PECK
+	Ability = 1
+	IV = 10
+Pokemon = DARTRIX,25
+	Moves = CONFUSERAY,OMINOUSWIND,PLUCK,HAZE
+	Ability = 0 
+	IV = 10
+#-------------------------------
+[ROCKER,Adam]
+LoseText = "I guess you ARE metal enough to get into Rindo City, huh bro?"
+Pokemon = SPOINK,25
+	Moves = LIGHTSCREEN,CHARGE,SHOCKWAVE,MIRRORSHOT
+	Form = 1
+	IV = 10
+Pokemon = ROTOM,26
+	Moves = THUNDERWAVE,CHARGE,ELECTROBALL,DOUBLETEAM
+	IV = 10
+#-------------------------------
+[BIKER,Sean]
+LoseText = "D-don't tell them I'm here, yeah?"
+Pokemon = CLOBBOPUS,25
+	Moves = BULKUP,BIND,SUCKERPUNCH,BRICKBREAK
+	Ability = 1
+	IV = 10
+Pokemon = SCRAGGY,25
+	Moves = LOWKICK,BRICKBREAK,FIREPUNCH,PAYBACK
+	Ability = 2
+	IV = 10
+Pokemon = LOUDRED,27
+	Moves = BITE,ECHOEDVOICE,SCREECH,STOMP
+	Ability = 0
+	IV = 10
+#-------------------------------
+[GENTLEMAN,Russell]
+LoseText = "How dare you ruffle it's coat...!"
+Pokemon = HERDIER,26
+	Moves = FRUSTRATION,PLAYROUGH,BITE,WORKUP
+	Ability = 1
+	IV = 12
+Pokemon = HERDIER,27
+	Moves = RETURN,PLAYROUGH,PSYCHICFANGS,WORKUP
+	Ability = 2
+	Shiny = Yes
+	IV = 12
+#-------------------------------
+[OFFICER,Haydn]
+LoseText = "My first day on the job and everything..."
+Pokemon = GROWLITHE,25
+	Moves = DOUBLEKICK,FLAMEWHEEL,HELPINGHAND,ROAR
+	Ability = 0
+	IV = 12
+Pokemon = RUFFLET,24
+	Moves = SLASH,AERIALACE,HONECLAWS,SCARYFACE
+	Ability = 1
+	IV = 12
+Pokemon = GROWLITHE,25
+	Moves = DOUBLEKICK,FLAMEWHEEL,BITE,ROAR
+	Ability = 0
+	IV = 12
+Pokemon = HERDIER,25
+	Moves = THUNDERFANG,PLAYROUGH,CRUNCH,RETALIATE
+	Ability = 0
+	IV = 12
+#-------------------------------
+[OFFICER,Danny]
+LoseText = "Maybe I could do with toning it down?"
+Pokemon = GROWLITHE,25
+	Moves = HELPINGHAND,FLAMEWHEEL,BITE,ROAR
+	Ability = 0
+	IV = 12
+Pokemon = GUMSHOOS,27
+	Moves = THUNDERFANG,SUPERFANG,MUDSLAP,PURSUIT
+	Ability = 0
+	IV = 12
+Pokemon = YAMPER,26
+	Moves = NUZZLE,FLAMECHARGE,WORKUP,BITE
+	Ability = 2
+	IV = 12
+#-------------------------------
+[OFFICER,Leon]
+LoseText = "I can't stop this outbreak alone!"
+Pokemon = LILLIPUP,25
+	Moves = THUNDERFANG,PLAYROUGH,WORKUP,BITE
+	Ability = 0
+	IV = 12
+Pokemon = SABLEYE,26
+	Moves = FAKEOUT,DETECT,SHADOWSNEAK,SUCKERPUNCH
+	Ability = 0
+	IV = 12
+Pokemon = LEDIAN,27
+	Moves = BURSTPUNCH,DIZZYPUNCH,STORMTHROW,COACHING
+	Ability = 0 
+	Form = 1
+	IV = 12
+#-------------------------------
+[OFFICER,Booker]
+LoseText = "My keen nose - it's failed me!"
+Pokemon = LILLIPUP,26
+	Moves = THUNDERFANG,PLAYROUGH,WORKUP,BITE
+	Ability = 0
+	IV = 12
+Pokemon = YAMPER,25
+	Moves = NUZZLE,FLAMECHARGE,WORKUP,BITE
+	Ability = 2
+	IV = 12
+Pokemon = GROWLITHE,26
+	Moves = HELPINGHAND,FLAMEWHEEL,BITE,ROAR
+	Ability = 0
+	IV = 12
+#-------------------------------
+[POPIDOL,Taylor]
+LoseText = "Why does this feel like a break-up?"
+Pokemon = SPOINK,24
+	Moves = WISH,GYROBALL,MIRRORSHOT,SHOCKWAVE
+	Form = 1
+	IV = 15
+Pokemon = STEENEE,25
+	Moves = GRASSWHISTLE,AROMELODY,SYNTHESIS,PLAYROUGH
+	Ability = 2
+	IV = 15
+Pokemon = JIGGLYPUFF,27
+	Moves = SING,CAPTIVATE,DISARMINGVOICE,ROUND
+	Ability = 2
+	IV = 15
+#-------------------------------
+[COUNTRYDARLING,Dolly]
+LoseText = "Well hun, my career can take the hit to watch yours flourish."
+Pokemon = BAYLEEF,25
+	Moves = GRASSWHISTLE,COUNTER,MAGICALLEAF,SYNTHESIS
+	Ability = 1
+	IV = 15
+Pokemon = SUNFLORA,26
+	Moves = GIGADRAIN,HELPINGHAND,LEECHSEED,FLOWERSHIELD
+	Ability = 1
+	IV = 15
+Pokemon = SKIPLOOM,27
+	Moves = FAIRYWIND,AROMELODY,HELPINGHAND,SYNTHESIS
+	Ability = 0
+	IV = 15
+#-------------------------------
+[ROCKCHICK,Florence]
+LoseText = "No way! The machine will keep on rumbling after this defeat!"
+Pokemon = GLOOM, 26
+	Moves = TEETERDANCE,SLEEPPOWDER,RAZORLEAF,ACID
+	Ability = 1
+	IV = 15
+Pokemon = VULLABY,26
+	Moves = FLATTER,FOULPLAY,FAINTATTACK,PLUCK
+	Ability = 1
+	IV = 15
+Pokemon = TOXEL,26
+	Moves = METALSOUND,SING,ACID,FAKEOUT
+	Ability = 1
+	IV = 15
+#-------------------------------
+[POPIDOL,Ariana]
+LoseText = "Like, do you wanna lick donuts with me one day?"
+Pokemon = PETILIL,26
+	Moves = AROMELODY,HELPINGHAND,GRASSWHISTLE,GROWTH
+	Ability = 1
+	IV = 15
+Pokemon = TAILLOW,25
+	Moves = FAIRYWIND,AROMELODY,DEFOG,ROOST
+	Ability = 0
+	Form = 1
+	IV = 15
+Pokemon = CHINGLING,26
+	Moves = RECOVER,YAWN,AROMELODY,CONFUSION
+	IV = 15
+Pokemon = JIGGLYPUFF,26
+	Moves = SING,CAPTIVATE,AROMELODY,DISARMINGVOICE
+	Ability = 2
+	IV = 15
+#-------------------------------
+[POPIDOL,Britney]
+LoseText = "One more time?"
+Pokemon = SWELLOW,26
+	Moves = FAIRYWIND,AROMELODY,DEFOG,ROOST
+	Ability = 0
+	Form = 1
+	IV = 15
+Pokemon = CHINGLING,25
+	Moves = RECOVER,YAWN,AROMELODY,CONFUSION
+	IV = 15
+Pokemon = CHIMECHO,26
+	Moves = CRAFTYSHIELD,YAWN,AROMELODY,EXTRASENSORY
+	IV = 15
+#-------------------------------
+[ROCKCHICK,Stevie]
+LoseText = "You beat me in the nick of time!"
+Pokemon = TOXEL,25
+	Moves = SCREECH,SING,SUCKERPUNCH,POWERUPPUNCH
+	Ability = 1
+	IV = 15
+Pokemon = LOUDRED,26
+	Moves = ECHOEDVOICE,STOMP,DISARMINGVOICE,HAMMERARM
+	Ability = 0
+	IV = 15
+Pokemon = TOXEL,25
+	Moves = METALSOUND,SING,ACID,FAKEOUT
+	Ability = 1
+	IV = 15
+Pokemon = GLOOM, 27
+	Moves = AROMELODY,SLEEPPOWDER,RAZORLEAF,ACID
+	Ability = 1
+	IV = 15
+#-------------------------------
+[LEADER_Maria,Maria]
+LoseText = "You silenced my song with the dazzling performance that was your style of battle. Here, I confer upon you the Symphony Badge."
+Items = SUPERPOTION,SUPERPOTION,FULLHEAL,FULLHEAL
+Pokemon = CHIMECHO,27
+	Moves = AROMELODY,SAFEGUARD,HYPNOSIS,EXTRASENSORY
+	Item = LUMBERRY
+	IV = 20
+	Ball = 20
+Pokemon = MARACTUS,28
+	Moves = AROMELODY,LEECHSEED,BOUNCE,ACUPRESSURE
+	Ability = 2
+	Item = METRONOME
+	IV = 20
+	Ball = 20
+Pokemon = LILLIGANT,27
+	Moves= AROMATHERAPY,PETALDANCE,TEETERDANCE,SLEEPPOWDER
+	Ability = 1
+	Item = SITRUSBERRY
+	IV = 20
+	Ball = 20
+Pokemon = TOXTRICITY,28	
+	Moves= TOXIC,AROMELODY,METALSOUND,VENOSHOCK
+	Ability = 0 
+	Item = THROATSPRAY
+	Form = 0
+	IV = 20
+	Ball = 20
+Pokemon = LUDICOLO,29
+	Moves = AROMELODY,TEETERDANCE,SWEETSCENT,BUBBLEBEAM
+	Ability = 2
+	Item = EXPERTBELT
+	IV = 20
+	Ball = 20
+Pokemon = LAPRAS,30
+ 	Moves = AROMELODY,WATERPULSE,BODYSLAM,MUDSHOT
+	Ability = 1
+	Form = 2
+	Item = WIDELENS
+	IV = 20
+	Ball = 20
+#-------------------------------
+[TEAMNULL_M1,Grunt,5]
+LoseText = "Uh huh huh... guess you made me move..."
+Pokemon = TRUBBISH,27
+	Moves = INCINERATE,TARSHOT,FOULPLAY,TOXICSPIKES	
+	Ability = 1
+	Form = 1
+	IV = 12
+Pokemon = GRIMER,28
+	Moves = ACIDSPRAY,SLUDGEBOMB,MUDBOMB,MINIMIZE
+	Ability = 0
+	IV = 12
+#-------------------------------
+[TEAMNULL_M1,Grunt,6]
+LoseText = "Guess our pincer strat didn't sever your will to fight?"
+Pokemon = NUMEL,27
+	Moves = SCARYFACE,LAVAPLUME,MAGNITUDE,YAWN
+	Ability = 1
+	IV = 12
+Pokemon = GOLBAT,28
+	Moves = SCREECH,CONFUSERAY,POISONFANG,ZENHEADBUTT
+	Ability = 1
+	IV = 12
+#-------------------------------
+[LEADER_Maria,Maria,1]
+LoseText = "..."
+Items = SUPERPOTION,SUPERPOTION,FULLHEAL,FULLHEAL
+Pokemon = CHATOT,28
+	Moves = AROMELODY,CHATTER,SING,TAUNT
+	Ability = 1
+	Item = THROATSPRAY
+	IV = 20
+	Ball = 20
+Pokemon = LOUDRED,28	
+	Moves= EXTRASENSORY,FAKETEARS,UPROAR,DISARMINGVOICE
+	Ability = 1
+	Item = STARFBERRY
+	IV = 20
+	Ball = 20
+Pokemon = TOXTRICITY,30	
+	Moves= AROMELODY,POWERUPPUNCH,SPARK,THROATCHOP
+	Ability = 0 
+	Item = ASSAULTVEST
+	Form = 1
+	IV = 20
+	Ball = 20
+#-------------------------------
+[LASS,Hargreaves]
+LoseText = "ARRRGH! Now I'm even more frustrated...!"
+Pokemon = PORYGON,26
+	Moves = THUNDERSHOCK,PSYBEAM,WONDERRUSH,HEADBUTT
+	Ability = 1
+	Item = EVIOLITE
+	IV = 12
+Pokemon = PORYGON2,27
+	Moves = THUNDERSHOCK,PSYBEAM,WONDERRUSH,HEADBUTT
+	Ability = 1
+	Item = EVIOLITE
+	IV = 12
+Pokemon = PORYGONZ,27
+	Moves = THUNDERSHOCK,PSYBEAM,WONDERRUSH,NASTYPLOT
+	Ability = 1
+	Item = DUBIOUSDISC
+	IV = 12
+#-------------------------------
+[RISINGSTAR_Valian,Valian,5]
+LoseText = "Were you paying attention? Did ya notice it?"
+Items = SUPERPOTION
+Pokemon = NIDORINA,28
+	Moves = POISONTAIL,HELPINGHAND,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = CORVISQUIRE,28
+	Moves = DRAGONBREATH,THIEF,SCARYFACE,UTURN
+	Ability = 2
+	Form = 1
+	IV = 20
+Pokemon = WIGGLYTUFF,29
+	Moves = HEALPULSE,SWEETKISS,BOUNCE,WAKEUPSLAP
+	Ability = 2
+	IV = 20
+Pokemon = DUOSION,30
+	Moves = DEFENSECURL,LIFEDEW,ICEBALL,ROLLOUT
+	Ability = 1
+	Item = NEVERMELTICE
+	Form = 1
+	IV = 20
+Pokemon = CRAWDAUNT,30
+	Moves = BEATUP,DRAGONDANCE,FURYATTACK,KNOCKOFF
+	Ability = 2
+	Form = 1
+	Shadow = Yes
+	IV = 20
+Pokemon = MANECTRIC,29
+	Moves = THUNDERFANG,CRUNCH,ICEFANG,THUNDERWAVE
+	Ability = 0
+	Item = BRIGHTPOWDER
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Valian,Valian,6]
+LoseText = "Were you paying attention? Did ya notice it?"
+Items = SUPERPOTION
+Pokemon = NIDORINA,28
+	Moves = POISONTAIL,HELPINGHAND,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = CORVISQUIRE,29
+	Moves = DRAGONBREATH,THIEF,SCARYFACE,UTURN
+	Ability = 2
+	Form = 1
+	IV = 20
+Pokemon = WIGGLYTUFF,29
+	Moves = HEALPULSE,SWEETKISS,BOUNCE,WAKEUPSLAP
+	Ability = 2
+	IV = 20
+Pokemon = FLAAFFY,30
+	Moves = HOTWINDS,SKYDROP,SING,DREAMEATER
+	Ability = 1
+	Item = SHARPBEAK
+	Form = 2
+	IV = 20
+Pokemon = CRAWDAUNT,30
+	Moves = BEATUP,DRAGONDANCE,FURYATTACK,KNOCKOFF
+	Ability = 2
+	Form = 1
+	Shadow = Yes
+	IV = 20
+Pokemon = SLOWBRO,29
+	Moves = ZENHEADBUTT,STOMP,WATERPULSE,FUTURESIGHT
+	Ability = 2
+	Item = QUICKCLAW
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Valian,Valian,7]
+LoseText = "Were you paying attention? Did ya notice it?"
+Items = SUPERPOTION
+Pokemon = NIDORINA,28
+	Moves = POISONTAIL,HELPINGHAND,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = CORVISQUIRE,29
+	Moves = DRAGONBREATH,THIEF,SCARYFACE,UTURN
+	Ability = 2
+	Form = 1
+	IV = 20
+Pokemon = WIGGLYTUFF,29
+	Moves = HEALPULSE,SWEETKISS,BOUNCE,WAKEUPSLAP
+	Ability = 2
+	IV = 20
+Pokemon = PORYGON2,30
+	Moves = COMETPUNCH,MACHPUNCH,BEATDANCE,COUNTER
+	Ability = 1
+	Item = BLACKBELT
+	Form = 1
+	IV = 20
+Pokemon = CRAWDAUNT,30
+	Moves = BEATUP,DRAGONDANCE,FURYATTACK,KNOCKOFF
+	Ability = 2
+	Form = 1
+	Shadow = Yes
+	IV = 20
+Pokemon = LOPUNNY,29
+	Moves = SKYUPPERCUT,ROLLINGKICK,RETURN,FIREPUNCH
+	Ability = 2
+	Item = EXPERTBELT
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Valian,Valian,8]
+LoseText = "Were you paying attention? Did ya notice it?"
+Items = SUPERPOTION
+Pokemon = NIDORINA,28
+	Moves = POISONTAIL,HELPINGHAND,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = CORVISQUIRE,29
+	Moves = DRAGONBREATH,THIEF,SCARYFACE,UTURN
+	Ability = 2
+	Form = 1
+	IV = 20
+Pokemon = WIGGLYTUFF,29
+	Moves = HEALPULSE,SWEETKISS,BOUNCE,WAKEUPSLAP
+	Ability = 2
+	IV = 20
+Pokemon = SYLVEON,30
+	Moves = DRAININGKISS,MISTYTERRAIN,WISH,TERRAINPULSE
+	Ability = 1
+	Item = TERRAINEXTENDER
+	IV = 20
+Pokemon = CRAWDAUNT,30
+	Moves = BEATUP,DRAGONDANCE,FURYATTACK,KNOCKOFF
+	Ability = 2
+	Form = 1
+	Shadow = Yes
+	IV = 20
+Pokemon = ALTARIA,29
+	Moves = DRAGONBREATH,SING,STEELWING,ROOST
+	Ability = 1
+	Item = LEFTOVERS
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Reina,Reina,5]
+LoseText = "Were you paying attention? Did ya notice it?"
+Items = SUPERPOTION
+Pokemon = NIDORINO,28
+	Moves = POISONTAIL,HELPINGHAND,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = CORVISQUIRE,29
+	Moves = DRAGONBREATH,THIEF,SCARYFACE,UTURN
+	Ability = 1
+	Form = 1
+	IV = 20
+Pokemon = CLEFABLE,29
+	Moves = HEALPULSE,SWEETKISS,WAKEUPSLAP,MAGICALLEAF
+	Ability = 2
+	IV = 20
+Pokemon = DUOSION,30
+	Moves = DEFENSECURL,LIFEDEW,ICEBALL,ROLLOUT
+	Ability = 1
+	Item = NEVERMELTICE
+	Form = 1
+	IV = 20
+Pokemon = CRAWDAUNT,30
+	Moves = BEATUP,DRAGONDANCE,FURYATTACK,KNOCKOFF
+	Ability = 2
+	Form = 1
+	Shadow = Yes
+	IV = 20
+Pokemon = MANECTRIC,29
+	Moves = THUNDERFANG,CRUNCH,ICEFANG,THUNDERWAVE
+	Ability = 0
+	Item = BRIGHTPOWDER
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Reina,Reina,6]
+LoseText = "Were you paying attention? Did ya notice it?"
+Items = SUPERPOTION
+Pokemon = NIDORINO,28
+	Moves = POISONTAIL,HELPINGHAND,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = CORVISQUIRE,29
+	Moves = DRAGONBREATH,THIEF,SCARYFACE,UTURN
+	Ability = 1
+	Form = 1
+	IV = 20
+Pokemon = CLEFABLE,29
+	Moves = HEALPULSE,SWEETKISS,WAKEUPSLAP,MAGICALLEAF
+	Ability = 2
+	IV = 20
+Pokemon = FLAAFFY,30
+	Moves = HOTWINDS,SKYDROP,SING,DREAMEATER
+	Ability = 1
+	Item = SHARPBEAK
+	Form = 2
+	IV = 20
+Pokemon = CRAWDAUNT,30
+	Moves = BEATUP,DRAGONDANCE,FURYATTACK,KNOCKOFF
+	Ability = 2
+	Form = 1
+	Shadow = Yes
+	IV = 20
+Pokemon = SLOWBRO,29
+	Moves = ZENHEADBUTT,STOMP,WATERPULSE,FUTURESIGHT
+	Ability = 2
+	Item = QUICKCLAW
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Reina,Reina,7]
+LoseText = "Were you paying attention? Did ya notice it?"
+Items = SUPERPOTION
+Pokemon = NIDORINO,28
+	Moves = POISONTAIL,HELPINGHAND,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = CORVISQUIRE,29
+	Moves = DRAGONBREATH,THIEF,SCARYFACE,UTURN
+	Ability = 1
+	Form = 1
+	IV = 20
+Pokemon = CLEFABLE,29
+	Moves = HEALPULSE,SWEETKISS,WAKEUPSLAP,MAGICALLEAF
+	Ability = 2
+	IV = 20
+Pokemon = PORYGON2,30
+	Moves = COMETPUNCH,MACHPUNCH,BEATDANCE,COUNTER
+	Ability = 1
+	Item = BLACKBELT
+	Form = 1
+	IV = 20
+Pokemon = CRAWDAUNT,30
+	Moves = BEATUP,DRAGONDANCE,FURYATTACK,KNOCKOFF
+	Ability = 2
+	Form = 1
+	Shadow = Yes
+	IV = 20
+Pokemon = LOPUNNY,29
+	Moves = SKYUPPERCUT,ROLLINGKICK,RETURN,FIREPUNCH
+	Ability = 2
+	Item = EXPERTBELT
+	IV = 20
+#-------------------------------
+[RISINGSTAR_Reina,Reina,8]
+LoseText = "Were you paying attention? Did ya notice it?"
+Items = SUPERPOTION
+Pokemon = NIDORINO,28
+	Moves = POISONTAIL,HELPINGHAND,DOUBLEKICK,IRONTAIL
+	Ability = 0
+	IV = 20
+Pokemon = CORVISQUIRE,29
+	Moves = DRAGONBREATH,THIEF,SCARYFACE,UTURN
+	Ability = 1
+	Form = 1
+	IV = 20
+Pokemon = CLEFABLE,29
+	Moves = HEALPULSE,SWEETKISS,WAKEUPSLAP,MAGICALLEAF
+	Ability = 2
+	IV = 20
+Pokemon = SYLVEON,30
+	Moves = DRAININGKISS,MISTYTERRAIN,WISH,TERRAINPULSE
+	Ability = 1
+	Item = TERRAINEXTENDER
+	IV = 20
+Pokemon = CRAWDAUNT,30
+	Moves = BEATUP,DRAGONDANCE,FURYATTACK,KNOCKOFF
+	Ability = 2
+	Form = 1
+	Shadow = Yes
+	IV = 20
+Pokemon = ALTARIA,29
+	Moves = DRAGONBREATH,SING,STEELWING,ROOST
+	Ability = 1
+	Item = LEFTOVERS
+	IV = 20
+#-------------------------------
+[TEAMNULL_F1,Grunt,6]
+LoseText = "You mean... you're not a volunteer at all?!"
+Pokemon = GRIMER,28
+	Moves = MUDBOMB,SLUDGE,SHADOWSNEAK,POWERUPPUNCH
+	Ability = 2
+	IV = 12
+Pokemon = RATICATE,28
+	Moves = SCARYFACE,QUICKATTACK,CRUNCH,HYPERFANG
+	Ability = 1
+	IV = 12
+#-------------------------------
+[TEAMNULL_M1,Grunt,7]
+LoseText = "I still reckon you're lost - the exit is that way!"
+Pokemon = TRUBBISH,28
+	Moves = ACIDSPRAY,STOCKPILE,ROCKBLAST,SWALLOW	
+	Ability = 1
+	IV = 12
+Pokemon = DUSKULL,28
+	Moves = DARKPULSE,PAINSPLIT,WILLOWISP,SHADOWSNEAK
+	Ability = 0 
+	IV = 12
+Pokemon = TRUBBISH,29
+	Moves = AUTOTOMIZE,FIERYTERRAIN,INCINERATE,ACIDSPRAY
+	Ability = 2
+	Form = 1
+	Shadow = Yes
+#-------------------------------
+[TEAMNULL_F1,Grunt,7]
+LoseText = "Our demands fell on deaf ears, apparently."
+Pokemon = PERSIAN,27
+	Moves = HYPNOSIS,ASSURANCE,PAYDAY,COVET
+	Ability = 1
+	Form = 1
+	IV = 12
+Pokemon = LIEPARD,28
+	Moves = PAYDAY,FAKEOUT,PURSUIT,FOULPLAY
+	Ability = 0
+	IV = 12
+#-------------------------------
+[TEAMNULL_F1,Grunt,8]
+LoseText = "Go back from whence you came, demon!"
+Pokemon = SLUGMA,28
+	Moves = CLEARSMOG,FLAMEBURST,ANCIENTPOWER,ACIDARMOR
+	Ability = 1
+	IV = 12
+Pokemon = PHANTUMP,28
+	Moves = SUCKERPUNCH,POWERUPPUNCH,CONFUSERAY,HEX
+	Ability = 1
+	IV = 12
+Pokemon = BONSLY,29
+	Moves = SHELLSMASH,POISONGAS,MAGNETBOMB,IRONDEFENSE
+	Ability = 0
+	Form = 1
+	IV = 12
+#-------------------------------
+[TEAMNULL_M1,Grunt,8]
+LoseText = "So long as they have their Shadows, they'll never stop battling!"
+Pokemon = KOFFING,26
+	Moves = SCREECH,PSYBEAM,ASSURANCE,SLUDGE
+	IV = 12
+Pokemon = KOFFING,27
+	Moves = TOXICSPIKES,PSYBEAM,ASSURANCE,SLUDGE
+	IV = 12
+Pokemon = KOFFING,27
+	Moves = VENOMDRENCH,PSYBEAM,ASSURANCE,SLUDGE
+	IV = 12
+#-------------------------------
+[TEAMNULL_F1,Grunt,9]
+LoseText = "...the machines above, they control the water flow."
+Pokemon = HOUNDOUR,28
+	Moves = FIREFANG,THUNDERFANG,BITE,ROAR
+	Ability = 1
+	IV = 12
+Pokemon = CORVISQUIRE,28
+	Moves = ROOST,DRILLPECK,TAUNT,POWERTRIP
+	Ability = 2 
+	IV = 12
+Pokemon = TENTACOOL,30
+	Moves = OCTAZOOKA,CONFUSERAY,FAINTATTACK,WATERPULSE
+	Ability = 0
+	Form = 1
+	Shadow = Yes
+#-------------------------------
+[TEAMNULL_F1,Grunt,10]
+LoseText = "Without Pokemon I can't stop you. Not like you can go further though..."
+Pokemon = RATICATE,27 
+	Moves = SCARYFACE,CRUNCH,HYPERFANG,REVENGE	
+	Ability = 1
+	IV = 12
+Pokemon = SALANDIT,28
+	Moves = FAKEOUT,KNOCKOFF,DRAGONRAGE,FLAMEBURST
+	Ability = 1
+	IV = 12	
+#-------------------------------
+[TEAMNULL_M1,Grunt,9]
+LoseText = "I couldn't crunch down in time - my fangs are shattered!"
+Pokemon = MIGHTYENA,28
+	Moves = SNARL,THUNDERFANG,FIREFANG,ASSURANCE
+	Ability = 0 
+	IV = 12
+Pokemon = PERSIAN,29
+	Moves = HYPNOSIS,FAINTATTACK,FURYSWIPES,SCREECH
+	Ability = 1
+	IV = 12
+#-------------------------------
+[TEAMNULL_M1,Grunt,10]
+LoseText = "Okay, I fold I fold! I'll tell you!"
+Pokemon = RATICATE,27 
+	Moves = SCARYFACE,CRUNCH,HYPERFANG,REVENGE	
+	Ability = 1
+	Form = 1
+	IV = 12
+Pokemon = LEDYBA,30
+	Moves = COACHING,MEGAPUNCH,DRAGONDANCE,DRAINPUNCH
+	Ability = 2
+	Item = MUSCLEBAND
+	Form = 1
+	Shadow = Yes
+#-------------------------------
+[SCIENTIST,Richard]
+LoseText = "I think it's 2...? Nevermind me!"
+Items = XATTACK
+Pokemon = KLINK,28
+	Moves = GEARGRIND,CHARGEBEAM,BIND,CHARGE
+	Ability = 2
+	IV = 12
+Pokemon = MAGNEMITE,29
+	Moves = METALSOUND,MIRRORSHOT,THUNDERWAVE,ELECTROBALL
+	Ability = 1
+	IV = 12
+Pokemon = ARCHEN,29
+	Moves = STEELWING,BITE,ANCIENTPOWER,PLUCK
+	IV = 12	
+#-------------------------------
+[SCIENTIST,Neil]
+LoseText = "Haven't you heard? They drastically affect the environment!"
+Items = XSPATK
+Pokemon = DOTTLER,28
+	Moves = STICKYWEB,RECOVER,LIGHTSCREEN,STRUGGLEBUG
+	Ability = 2
+	IV = 12
+Pokemon = ORBEETLE,29
+	Moves = BUGBUZZ,PSYBEAM,RECOVER,REFLECT
+	Ability = 2
+	IV = 12
+Pokemon =  TIRTOUGA,29
+	Moves = LIQUIDATION,ANCIENTPOWER,CRUNCH,AQUAJET
+	Ability = 0 
+	IV = 12
+#-------------------------------
+[TEAMNULL_F1,Grunt,11]
+LoseText = "The sludge, the smell! Sickness inducing!"
+Pokemon = SHUPPET,27
+	Moves = WILLOWISP,HEX,SHADOWSNEAK,GUNKSHOT
+	Ability = 2 
+	IV = 12
+Pokemon = SWALOT,30
+	Moves = ACIDARMOR,FLAMEBURST,ACIDSPRAY,TOXIC
+	Ability = 0
+	IV = 12
+#-------------------------------
+[TEAMNULL_M1,Grunt,11]
+LoseText = "You won't let us escort you? Very well."
+Pokemon = LILEEP,27
+	Moves = RAGEPOWDER,FIRSTIMPRESSION,ANCIENTPOWER,FIRESPIN
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = MEOWSTIC,28
+	Moves = YAWN,HELPINGHAND,PSYSHOCK,DISARMINGVOICE
+	Ability = 2
+	IV = 12
+Pokemon = GOURGEIST,28
+	Moves = BULLETSEED,RAZORLEAF,TRICKORTREAT,CONFUSERAY	
+	Ability = 1
+	IV = 12
+#-------------------------------
+[TEAMNULL_M1,Grunt,12]
+LoseText = "You'll just get hurt if you keep at it."
+Pokemon = NUMEL,27
+	Moves = FLAMEBURST,EARTHPOWER,AMNESIA,YAWN	
+	Ability = 1
+	IV = 12
+Pokemon = TREVENANT,28
+	Moves = SHADOWCLAW,LEECHSEED,SCREECH,HORNLEECH
+	Ability = 1
+	IV = 12
+#-------------------------------
+[NULLADMIN_F1,Temera]
+LoseText = "No. I don't accept this defeat at your filthy hands."
+Pokemon = GOLBAT,29
+	Moves = DEFOG,SCREECH,WINGATTACK,POISONFANG
+	Ability = 1
+	IV = 20
+Pokemon = SUDOWOODO,30
+	Moves = OBSTRUCT,POISONGAS,METALSOUND,GYROBALL
+	Ability = 1
+	Form = 1
+	IV = 20
+Pokemon = HOUNDOOM,29
+	Moves = POISONFANG,FIREFANG,BEATUP,HOWL
+	Ability = 2
+	IV = 20
+Pokemon = SLOWKING,31
+	Moves = EERIESPELL,TOXIC,DISABLE,ZENHEADBUTT
+	Ability = 2
+	Form = 1
+	Item = WISEGLASSES
+	IV = 20
+Pokemon = CRADILY,30
+	Moves = ERUPTION,RECOVER,FIRELASH,STEALTHROCK
+	Ability = 1
+	Form = 1
+	Shadow = Yes
+	IV = 15
+#-------------------------------
+[SCIENTIST,Dave]
+LoseText = "Please forgive me Miss Temera, please..."
+Pokemon = VOLTORB,28
+	Moves = LIGHTSCREEN,MAGNETICFLUX,ELECTROBALL,SCREECH
+	Ability = 0 
+	Item = LIGHTCLAY
+	IV = 12
+Pokemon = PHIONE,30
+	Moves = MUDBOMB,SLUDGEBOMB,VENOSHOCK,TOXIC
+	Ability = 0 
+	Form = 1
+	IV = 20
+Pokemon = MAGNETON,30
+	Moves = TRIATTACK,ELECTRICTERRAIN,METALSOUND,MIRRORSHOT
+	Ability = 1
+	IV = 12
+#-------------------------------
+[BUGCATCHER,Jack]
+LoseText = "No? Just me?"
+Pokemon = JOLTIK,28
+	Moves = ROCKCLIMB,CROSSPOISON,THUNDERWAVE,ELECTROWEB
+	Ability = 0
+	IV = 12
+Pokemon = SIZZLIPEDE,29
+	Moves = STRUGGLEBUG,KNOCKOFF,FLAMEWHEEL,COIL
+	Ability = 1
+	IV = 12
+Pokemon = DEWPIDER,28
+	Moves = STICKYWEB,AURORABEAM,INFESTATION,BUBBLEBEAM
+	Ability = 1
+	IV = 12
+Pokemon = CHARJABUG,29
+	Moves = CHARGE,ACROBATICS,CRUNCH,SPARK
+	Ability = 0
+	IV = 12
+#-------------------------------
+[GOODKIN,Lucia]
+LoseText = "My poor Mum... I hope this battle thawed her fear!"
+Pokemon = BRIONNE,29
+	Moves = DISARMINGVOICE,BUBBLEBEAM,ICYWIND,SING
+	Ability = 0
+	IV = 12
+Pokemon = DEERLING,30
+	Moves = JUMPKICK,LEECHSEED,FAINTATTACK,SYNTHESIS
+	Ability = 1
+	IV = 12
+Pokemon = GRANBULL,31
+	Moves = CHARM,THUNDERFANG,CRUNCH,FIREFANG
+	Ability = 1 
+	IV = 12
+#-------------------------------
+[BADKIN,Luiza]
+LoseText = "Well that's over. Back to annoying Dad!"
+Pokemon = TORRACAT,29
+	Moves = FAKEOUT,BODYSLAM,FIREFANG,LICK
+	Ability = 0
+	IV = 12
+Pokemon = DEERLING,30
+	Moves = JUMPKICK,KNOCKOFF,SUCKERPUNCH,LEECHSEED
+	Ability = 0
+	Form = 4
+	IV = 12
+Pokemon = LIEPARD,31
+	Moves = CHARM,YAWN,FAKEOUT,ASSURANCE
+	Ability = 2
+	IV = 12
+#-------------------------------
+[CAMPER,Romeo]
+LoseText = "Why won't she just leave me alone?!"
+Pokemon = PLUSLE,30
+	Moves = ELECTROBALL,THUNDERWAVE,HELPINGHAND,SWIFT
+	Ability = 0 
+	IV = 12
+Pokemon = KLINK,30
+	Moves = COGCRUSH,FLIPTURN,ASSIST,FOLLOWME
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = VOLBEAT,30
+	Moves = TAILGLOW,SIGNALBEAM,CONFUSERAY,MOONLIGHT
+	Ability = 1
+	IV = 12
+#-------------------------------
+[PICNICKER,Juliet]
+LoseText = "Is Romeo playing too? Of course he is! He just doesn't know it."
+Pokemon = MINUN,30
+	Moves = ELECTROBALL,LOVELYKISS,HELPINGHAND,SWIFT
+	Ability = 0 
+	IV = 12
+Pokemon = KLINK,30
+	Moves = COGCRUSH,FLIPTURN,ASSIST,FOLLOWME
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = ILLUMISE,30
+	Moves = BUGBUZZ,MOONLIGHT,CONFUSERAY,STRUGGLEBUG
+	Ability = 1
+	IV = 12
+#-------------------------------
+[TRAINER_Leigh,Jordan]
+LoseText = "Again? ARGHH!"
+Items = SUPERPOTION
+Pokemon = FLETCHINDER,30
+	Moves = FLAMECHARGE,ACROBATICS,TAILWIND,QUICKGUARD
+	Ability = 0
+	IV = 20
+	Ball = 10
+Pokemon = VULPIX,31
+	Moves = EXTRASENSORY,FLAMEBURST,WILLOWISP,FIERYTERRAIN	
+	Ability = 2
+	Item = HEATROCK
+	IV = 20
+	Ball = 10
+Pokemon = LILEEP,32
+	Moves = ROCKSLIDE,TARSHOT,FLAMEBURST,RECOVER	
+	Ability = 1
+	Form = 1
+	IV = 20
+	Ball = 10
+Pokemon = PORYGON2,34
+	Moves = WONDERRUSH,PSYBEAM,SIGNALBEAM,RECOVER
+	Ability = 2
+	IV = 20
+	Ball = 10
+Pokemon = FLAREON,35
+	Moves = ACCELEROCK,INCINERATE,SMACKDOWN,SUNNYDAY
+	Ability = 2
+	Form = 1
+	IV = 20
+	Ball = 10
+#-------------------------------
+[CHANELLER,Mady]
+LoseText = "EIYEEEEEEH! But maybe not."
+Pokemon = HATENNA,29
+	Moves = DISARMINGVOICE,LIFEDEW,PSYBEAM,NUZZLE
+	Ability = 0
+	IV = 12
+Pokemon = MISDREAVUS,30
+	Moves = HEX,PSYBEAM,CURSE,DESTINYBOND
+	IV = 12
+Pokemon = MURKROW,31
+	Moves = ASSURANCE,WINGATTACK,CONFUSERAY,SCREECH
+	Ability = 1
+	IV = 12
+Pokemon = HATENNA,30
+	Moves = DISARMINGVOICE,LIFEDEW,PSYBEAM,NUZZLE
+	Ability = 0
+	IV = 12
+#-------------------------------
+[ENGINEER,Rufus]
+LoseText = "Yikes. The trainers are stronger than the wildlife."
+Pokemon = VOLTORB,28
+	Moves = ELECTROBALL,SELFDESTRUCT,LIGHTSCREEN,CHARGE
+	Ability = 2
+	IV = 12
+Pokemon = VOLTORB,29
+	Moves = ELECTROBALL,SELFDESTRUCT,LIGHTSCREEN,CHARGE
+	Ability = 2
+	IV = 12
+Pokemon = DUGTRIO,30
+	Moves = SHOCKRELAY,EARTHPOWER,ELECTRIFY,SUCKERPUNCH
+	Ability = 0
+	Form = 1
+	IV = 12
+#-------------------------------
+[BLACKBELT,Brian]
+LoseText = "I TRAIN TO BE AS STRONG AS HER!"
+Pokemon = THROH,30
+	Moves = STORMTHROW,CIRCLETHROW,BULKUP,MATBLOCK
+	Ability = 2
+	IV = 12
+Pokemon = CRABRAWLER,29
+	Moves = WIDEGUARD,POWERUPPUNCH,DIZZYPUNCH,PAYBACK	
+	Ability = 2
+	IV = 12
+Pokemon = PRIMEAPE,30
+	Moves = SMELLINGSALTS,CROSSCHOP,ASSURANCE,SEISMICTOSS
+	Ability = 1
+	IV = 12
+#-------------------------------
+[CRUSHGIRL,Briar]
+LoseText = "Strength to accept loss... I have that in spades!"
+Pokemon = SAWK,30
+	Moves = BRICKBREAK,RETALIATE,BULKUP,COUNTER
+	Ability = 2
+	IV = 12
+Pokemon = MANKEY,29
+	Moves = SMELLINGSALTS,CROSSCHOP,ASSURANCE,SEISMICTOSS
+	Ability = 1
+	IV = 12
+Pokemon = FARFETCHD,30
+	Moves = KNOCKOFF,ROCKSMASH,FURYCUTTER,COUNTER
+	Ability = 1
+	Form = 1
+	IV = 12
+#-------------------------------
+[COUNTRYDARLING,Ayla]
+LoseText = "I just wanna impress my idol...!"
+Pokemon = TAILLOW,34
+	Moves = LEAFTORNADO,WINGATTACK,SING,QUICKGUARD
+	Ability = 0 
+	Form = 1
+	IV = 12
+Pokemon = CLEFAIRY,36
+	Moves = SPOTLIGHT,DISARMINGVOICE,WAKEUPSLAP,AROMELODY
+	Ability = 2
+	IV = 12
+Pokemon = SWELLOW,35
+	Moves = AROMATHERAPY,AROMELODY,SING,SEEDBOMB
+	Ability = 0 
+	Form = 1
+	IV  = 12
+#-------------------------------
+[TWINS,Melanie & Haynes]
+LoseText = "You DID attack li'l girls... YOU MONSTER!"
+Pokemon = AIPOM, 32
+	Moves = LEAFAGE,THIEF,POISONPOWDER,FURYSWIPES
+	Ability = 2
+	Form = 1
+	IV = 12
+Pokemon = AIPOM,32
+	Moves = TAILSLAP,SCREECH,BOUNCE,PURSUIT
+	Ability = 2
+	IV = 12
+#-------------------------------
+[OFFICER,Looker]
+LoseText = "Hmm. Perhaps you can help us."
+Pokemon = BOLTUND,30
+	Moves = DISCHARGE,FLAMECHARGE,WORKUP,BITE
+	Ability = 2
+	IV = 12
+Pokemon = RIOLU,30
+	Moves = BLAZEKICK,FORCEPALM,SCREECH,COUNTER
+	Ability = 0
+	IV = 12
+Pokemon = GROWLITHE,32
+	Moves = HELPINGHAND,FLAMEWHEEL,CRUNCH,ROAR
+	Ability = 0
+	IV = 12
+#-------------------------------
+[NULLADMIN_M1,Illisus]
+LoseText = "Sigh. What a pain."
+Pokemon = LEDIAN,28
+	Moves = BURSTPUNCH,POWERUPPUNCH,THUNDERPUNCH,DRAGONDANCE
+	Ability = 0
+	Form = 1
+	IV = 20
+Pokemon = GOLBAT,29
+	Moves = DEFOG,SCREECH,WINGATTACK,POISONFANG
+	Ability = 1
+	IV = 20
+Pokemon = SLOWBRO,30
+	Moves = SHELLSIDEARM,TOXIC,DISABLE,ZENHEADBUTT
+	Ability = 0 
+	Form = 1
+	Item = QUICKCLAW
+	IV = 20
+Pokemon = ARMALDO,30
+	Moves = ROCKRIOT,CROSSPOISON,AQUAJET,METALCLAW
+	Ability = 0
+	Shadow = Yes
+	IV = 15
+#-------------------------------
+[SCIENTIST,Venkman]
+LoseText = "N-no... I've been slimed..."
+Pokemon = GRIMER,29
+	Moves = MINIMIZE,SHADOWSNEAK,SLUDGEBOMB,MUDBOMB
+	Ability = 0
+	IV = 12
+Pokemon = GRIMER,30
+	Moves = MINIMIZE,SHADOWSNEAK,SLUDGEBOMB,MUDBOMB
+	Ability = 0
+	IV = 12
+Pokemon = SLUGMA,30
+	Moves = ICYWIND,HYPNOSIS,ICEBALL,MAGICCOAT
+	Ability = 0
+	Form = 1
+	Item = SNOWBALL
+	IV = 12
+Pokemon = MUK,31
+	Moves = POWERUPPUNCH,SHADOWPUNCH,SLUDGEBOMB,MUDBOMB
+	Ability = 0
+	IV = 12
+#-------------------------------
+[TEAMNULL_F1,Grunt,12]
+LoseText = "Now, we need to make our exit."
+Pokemon = DUSKULL,30
+	Moves = FAINTATTACK,SHADOWSNEAK,CONFUSERAY,WILLOWISP
+	Ability = 0
+	IV = 12
+Pokemon = RATICATE,32
+	Moves = CRUNCH,SUCKERPUNCH,REVENGE,HYPERFANG
+	Ability = 2
+	Form = 1
+	IV = 12
+#-------------------------------
+[SCIENTIST,Peter]
+LoseText = "...the experiment. It fails by default!"
+Pokemon = MAGNEMITE,30
+	Moves = MIRRORSHOT,THUNDERWAVE,LIGHTSCREEN,METALSOUND
+	Ability = 0 
+	IV = 12
+Pokemon = MINIOR,32
+	Moves = AUTOTOMIZE,OMINOUSWIND,POWERGEM,NIGHTSHADE
+	Form = 14
+	IV = 12
+#-------------------------------
+[SCIENTIST,Ket]
+LoseText = "I suppose you can handle clean up."
+Pokemon = PORYGON,31
+	Moves = SIGNALBEAM,PSYBEAM,RECOVER,CONVERSION
+	Ability = 0
+	IV = 12
+Pokemon = SLOWPOKE,32
+	Moves = BELCH,ACIDSPRAY,WATERPULSE,ZENHEADBUTT
+	Ability = 2
+	Form = 1
+	Shadow = Yes
+Pokemon = PHIONE,30
+	Moves = MUDBOMB,SLUDGEBOMB,VENOSHOCK,TOXIC
+	Ability = 0 
+	Form = 1
+	IV = 12
+Pokemon = KLINK,31
+	Moves = AUTOTOMIZE,GEARGRIND,CHARGEBEAM,BIND
+	Ability = 2
+	IV = 12
+#-------------------------------
+[TEAMNULL_M1,Grunt,13]
+LoseText = "The experiment is over now anyhow..."
+Pokemon = SHUPPET,31
+	Moves = WILLOWISP,HEX,SHADOWSNEAK,GUNKSHOT
+	Ability = 2 
+	IV = 12
+Pokemon = DUSKULL,32
+	Moves = FAINTATTACK,SHADOWSNEAK,CONFUSERAY,WILLOWISP
+	Ability = 0
+	IV = 12
+Pokemon = NUMEL,31
+	Moves = FLAMEBURST,EARTHPOWER,AMNESIA,YAWN	
+	Ability = 1
+	IV = 12
+#-------------------------------
+[TEAMNULL_M1,Grunt,14]
+LoseText = "Even a Card Key can't get you past the laser gates."
+Pokemon = POOCHYENA,31
+	Moves = FIREFANG,BITE,HOWL,SWAGGER	
+	Ability = 1
+	IV = 12
+Pokemon = POOCHYENA,30
+	Moves = ICEFANG,BITE,HOWL,SWAGGER	
+	Ability = 1
+	IV = 12
+Pokemon = MIGHTYENA,32
+	Moves = POISONFANG,BITE,HOWL,PLAYROUGH	
+	Ability = 1
+	IV = 12
+#-------------------------------
+[NULLBOSS_1,Genitor]
+LoseText = "Very well. This base will be abandoned and the operation conducted elsewhere."
+Pokemon = MANAPHY,40
+	Moves = NASTYPLOT,LEECHLIFE,SLUDGEBOMB,TOXIC
+	Ability = 1
+	Form = 1
+	Shadow = true
+#-------------------------------
+[CUEBALL,Edgar]
+LoseText = "W-w-wait! Please don't rat me out!"
+Pokemon = SCRAGGY,30
+	Moves = LOWKICK,BRICKBREAK,FIREPUNCH,PAYBACK
+	Ability = 2
+	IV = 12
+Pokemon = ZIGZAGOON,30
+	Moves = KNOCKOFF,PINMISSILE,COUNTER,PARTINGSHOT
+	Ability = 0 
+	Form = 1
+	IV = 12
+Pokemon = LINOONE,32 
+	Moves = KNOCKOFF,PINMISSILE,COUNTER,SNARL
+	Ability = 0 
+	Form = 1
+	IV = 12
+#-------------------------------
+[BIKER,Wesley]
+LoseText = "Rough. I'll dismount, okay?"
+Pokemon = SCRAGGY,30
+	Moves = LOWKICK,BRICKBREAK,THUNDERPUNCH,PAYBACK
+	Ability = 2
+	IV = 12
+Pokemon = VENIPEDE,30
+	Moves = TWINEEDLE,POISONTAIL,PROTECT,ROLLOUT
+	Ability = 2
+	IV = 12
+Pokemon = WHIRLIPEDE,32
+	Moves = TWINEEDLE,POISONTAIL,SCREECH,ROLLOUT
+	Ability = 2
+	IV = 12
+#-------------------------------
+[BIKER,Chad]
+LoseText = "Cough cough COUGH! No YOU wear a mask!"
+Pokemon = SCRAGGY,31
+	Moves = LOWKICK,BRICKBREAK,ICEPUNCH,PAYBACK
+	Ability = 2
+	IV = 12
+Pokemon = EKANS,31
+	Moves = ACIDSPRAY,SCREECH,GLARE,IRONTAIL
+	Ability = 1
+	IV = 12
+Pokemon = ARBOK,33
+	Moves = SUCKERPUNCH,GLARE,SCREECH,POISONTAIL
+	Ability = 2
+	IV = 12
+#-------------------------------
+[BIGBRO,Reese]
+LoseText = "My family... you didn't turn me in. You let me protect them?"
+Pokemon = ARBOK,33
+	Moves = SUCKERPUNCH,SCREECH,MUDBOMB,POISONTAIL
+	Ability = 0 
+	IV = 20
+Pokemon = PORYGON2,32
+	Moves = AGILITY,SIGNALBEAM,RECOVER,PSYBEAM
+	Ability = 1
+	Item = UPGRADE
+	IV = 20
+Pokemon = ELECTRODE,33
+	Moves = ELECTROBALL,LIGHTSCREEN,EERIEIMPULSE,SPARK
+	Ability = 1
+	Item = LIGHTCLAY
+	IV = 20
+Pokemon = SEVIPER,34
+	Moves = THUNDERFANG,ICEFANG,FLIPTURN,ACUPRESSURE
+	Ability = 0
+	Item = QUICKCLAW
+	Form = 1
+	IV = 20
+#-------------------------------
+[BIKER,Jeeves]
+LoseText = "I have asked kindly, now do leave at once!"
+Pokemon = INDEEDEE,32
+	Moves = FAKEOUT,HELPINGHAND,PSYBEAM,DISARMINGVOICE
+	Ability = 1
+	Gender = male
+	IV = 12
+Pokemon = INDEEDEE,32
+	Moves = FAKEOUT,HELPINGHAND,PSYBEAM,DISARMINGVOICE
+	Ability = 1
+	Gender = female
+	IV = 12
+#-------------------------------
+[CUEBALL,Jimin]
+LoseText = "Well, you'll 'ave to deal with her wrath."
+Pokemon = PANCHAM,31
+	Moves = WORKUP,ARMTHRUST,CIRCLETHROW,POWERTRIP
+	Ability = 1
+	IV = 12
+Pokemon = YAMPER,31
+	Moves = HYPERVOICE,CRUNCH,NUZZLE,SANDATTACK
+	Ability = 0 
+	IV = 12
+Pokemon = LINOONE,33 
+	Moves = KNOCKOFF,PINMISSILE,COUNTER,SNARL
+	Ability = 0 
+	Form = 1
+	IV = 12
+#-------------------------------
+[CUEBALL,Jung]
+LoseText = "I just can't 'ack singin' in this style!"
+Pokemon = PANCHAM,32
+	Moves = WORKUP,ARMTHRUST,CIRCLETHROW,POWERTRIP
+	Ability = 1
+	IV = 12
+Pokemon = BUNEARY,32
+	Moves = AROMELODY,LUNARBEAM,ENCORE,FAKEOUT
+	Ability = 0 
+	Form = 2
+	IV = 12
+Pokemon = WHIRLIPEDE,32 
+	Moves = TWINEEDLE,ROLLOUT,SCREECH,POISONTAIL
+	Ability = 0 
+	IV = 12
+#-------------------------------
+[BIKER,Vee]
+LoseText = "Somethin' 'bout money? Family? Eh."
+Pokemon = MACHOP,33
+	Moves = KNOCKOFF,WAKEUPSLAP,VITALTHROW,SEISMICTOSS
+	Ability = 1
+	IV = 12
+Pokemon = MORGREM,30
+	Moves = PSYBEAM,KNOCKOFF,PSYCHOSHIFT,KINESIS
+	Ability = 1
+	IV = 12
+Pokemon = ELECTRODE,32
+	Moves = SCREECH,ROLLOUT,SPARK,SELFDESTRUCT
+	Ability = 2
+	IV = 12
+#-------------------------------
+[BIGSIS,Ava]
+LoseText = "I get it, you didn't turn me in. Pretty impressive, kid."
+Pokemon = ARBOK,33
+	Moves = SUCKERPUNCH,SCREECH,MUDBOMB,POISONTAIL
+	Ability = 0 
+	IV = 20
+Pokemon = MACHOKE,32
+	Moves = COUNTER,FIREPUNCH,KNOCKOFF,REVENGE
+	Ability = 0
+	Item = MUSCLEBAND
+	IV = 20
+Pokemon = DITTO,33
+	Moves = TRANSFORM
+	Ability = 1
+	Item = QUICKPOWDER
+	IV = 20
+Pokemon = SEVIPER,34
+	Moves = THUNDERFANG,ICEFANG,FLIPTURN,ACUPRESSURE
+	Ability = 0
+	Item = QUICKCLAW
+	Form = 1
+	IV = 20
+#-------------------------------
+[RADRIDER,Addie]
+LoseText = "Maybe you are. But not a Viper."
+Pokemon = HOUNDOUR,32
+	Moves = BEATUP,SUCKERPUNCH,FIREFANG,ROAR
+	Ability = 1
+	IV = 12
+Pokemon = MORGREM,32
+	Moves = PSYBEAM,KNOCKOFF,PSYCHOSHIFT,KINESIS
+	Ability = 1
+	IV = 12
+Pokemon = ELECTRODE,32
+	Moves = SCREECH,ROLLOUT,SPARK,SELFDESTRUCT
+	Ability = 2
+	IV = 12
+#-------------------------------
+[RADRIDER,Riley]
+LoseText = "I just gliiiiide towards defeat."
+Pokemon = HOUNDOOM,33
+	Moves = FIRESPIN,SUCKERPUNCH,THUNDERFANG,ROAR
+	Ability = 2
+	IV = 12
+Pokemon = MANECTRIC,33
+	Moves = SHOCKWAVE,CRUNCH,FIREFANG,ROAR
+	Ability = 1
+	IV = 12
+#-------------------------------
+[ECORIDER,Rambo]
+LoseText = "The green just leaves me vibing, man."
+Pokemon = BOLTUND,33
+	Moves = FLAMEWHEEL,CRUNCH,CHARGE,ROAR
+	Ability = 0
+	IV = 12
+Pokemon = TRUMBEAK,33
+	Moves = TAILWIND,ECHOEDVOICE,DRILLPECK,SCREECH
+	Ability = 0
+	IV = 12
+#-------------------------------
+[ECORIDER,Riddick]
+LoseText = "Gloating about your victory would raise your emissions by 28%..."
+Pokemon = YANMA,33
+	Moves = SECRETPOWER,SIGNALBEAM,UPROAR,DETECT
+	Ability = 0
+	IV = 12
+Pokemon = GRIMER,33
+	Moves = POWERUPPUNCH,MINIMIZE,KNOCKOFF,POISONFANG
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = VOLTORB,33
+	Moves = SCREECH,ROLLOUT,SPARK,SELFDESTRUCT
+	Ability = 2
+	IV = 12
+#-------------------------------
+[RADRIDER,Madena]
+LoseText = "We were the ones cut to ribbons on your edges."
+Pokemon = LINOONE,34
+	Moves = KNOCKOFF,PARTINGSHOT,NIGHTSLASH,PINMISSILE
+	Ability = 1
+	Form = 1
+	IV = 12
+Pokemon = LITLEO,29
+	Moves = ICEFANG,YAWN,TAKEDOWN,NOBLEROAR
+	Ability = 2
+	Form = 1
+	IV = 12
+Pokemon = WHIRLIPEDE,33 
+	Moves = TWINEEDLE,ROLLOUT,SCREECH,POISONTAIL
+	Ability = 0 
+	IV = 12
+#-------------------------------
+[SWIMMER_M,Bezos]
+LoseText = "Couldn't you have just pointed us the right way?"
+Pokemon = LUMINEON,32
+	Moves = WHIRLWIND,AIRCUTTER,RAINDANCE,WATERPULSE
+	Ability = 0
+	IV = 12
+Pokemon = CLAUNCHER,31
+	Moves = AQUAJET,SWORDSDANCE,CRABHAMMER,VICEGRIP
+	Ability = 0
+	IV = 12
+Pokemon = LOMBRE,32
+	Moves = BUBBLEBEAM,TICKLE,MEGADRAIN,LEECHSEED
+	Ability = 0
+	IV = 12
+#-------------------------------
+[SWIMMER_F,Sanchez]
+LoseText = "He clearly didn't pay enough, hmph."
+Pokemon = MANTINE,31
+	Moves = WINGATTACK,WIDEGUARD,PSYBEAM,TWISTER
+	Ability = 0
+	IV = 12
+Pokemon = SKRELP,34
+	Moves = PLAYROUGH,POISONTAIL,TOXIC,WATERPULSE
+	Ability = 0
+	IV = 12
+Pokemon = AZUMARILL,31
+	Moves = AQUAJET,PLAYROUGH,ROLLOUT,AQUATAIL
+	Ability = 1
+	IV = 12
+#-------------------------------
+[CUEBALL,Nero]
+LoseText = "My coffee buzz... is... fading..."
+Pokemon = VULLABY,32
+	Moves = STEELWING,PUNISHMENT,PLUCK,ROOST
+	Ability = 2
+	IV = 12
+Pokemon = LUXIO,32
+	Moves = THUNDERFANG,FIREFANG,ROAR,SWAGGER
+	Ability = 1 
+	IV = 12
+Pokemon = LINOONE,32 
+	Moves = KNOCKOFF,PINMISSILE,COUNTER,SNARL
+	Ability = 0 
+	Form = 1
+	IV = 12
+#-------------------------------
+[ENGINEER,Caua]
+LoseText = "That battle was hotter than the mines B3F!"
+Pokemon = EELEKTRIK,34
+	Moves = CRUNCH,DISCHARGE,THUNDERWAVE,MEGADRAIN
+	Ability = 1
+	IV = 12
+Pokemon = JOLTEON,34
+	Moves = HELPINGHAND,THUNDERFANG,PINMISSILE,BABYDOLLEYES
+	Ability = 0
+	IV = 12
+#-------------------------------
+[BADKIN,Nour]
+LoseText = "Eww! You ruined my good mood!"
+Pokemon = IMPIDIMP,30
+	Moves = NUZZLE,SUCKERPUNCH,TORMENT,ASSURANCE
+	Ability = 1
+	IV = 12
+Pokemon = HAUNTER,32
+	Moves = SHADOWBALL,HYPNOSIS,CONFUSERAY,FIREPUNCH
+	IV = 12
+#-------------------------------
+[GOODKIN,Ekhlas]
+LoseText = "Oh no! You'll make me sister wanna go home..."
+Pokemon = MILCERY,30
+	Moves = SWEETKISS,DRAININGKISS,ATTRACT,ACIDARMOR
+	Ability = 1
+	IV = 12
+Pokemon = MIMIKYU,32
+	Moves = BABYDOLLEYES,SHADOWSNEAK,SHOCKWAVE,SLASH
+	IV = 12
+#-------------------------------
+[ROCKCHICK,Ellen]
+LoseText = "Watching your Pokemon... it wasn't very inspiring."
+Pokemon = LOUDRED,33
+	Moves = EXTRASENSORY,UPROAR,SCREECH,AROMELODY
+	Ability = 1 
+	IV = 12
+Pokemon = PERRSERKER,34
+	Moves = IRONHEAD,FAKEOUT,PAYDAY,METALBURST
+	Ability = 2
+	IV = 12
+#-------------------------------
+[BLACKSMITH,Bernard]
+LoseText = "My creations... they're alive!"
+Pokemon = CARKOL,32
+	Moves = INCINERATE,GYROBALL,IRONDEFENSE,SMACKDOWN
+	Ability = 1
+	IV = 12
+Pokemon = DOUBLADE,33
+	Moves = SHADOWSNEAK,SWORDSDANCE,FURYCUTTER,SLASH
+	IV = 12
+Pokemon = HONEDGE,32
+	Moves = PURSUIT,SWORDSDANCE,FURYCUTTER,AERIALACE
+	IV = 12
+#-------------------------------
+[PSYCHIC_F,Marion]
+LoseText = "I didn't see this in my visions!"
+Pokemon = EXEGGCUTE,32
+	Moves = ANCIENTPOWER,SLEEPPOWDER,MOONLIGHT,CONFUSION
+	Ability = 0
+	IV = 12
+Pokemon = BRAIXEN,33
+	Moves = WISH,PSYBEAM,LIGHTSCREEN,FIRESPIN
+	Ability = 0
+	IV = 12
+Pokemon = MEDITITE,32
+	Moves = FIREPUNCH,MINDREADER,FORCEPALM,MEDITATE
+	Ability = 0
+	IV = 12
+#-------------------------------
+[PSYCHIC_M,Seamus]
+LoseText = "It's because- well, maybe it's better for you to wonder."
+Pokemon = MEDITITE,32
+	Moves = THUNDERPUNCH,MINDREADER,FORCEPALM,MEDITATE
+	Ability = 0
+	IV = 12
+Pokemon = BRUXISH,33
+	Moves = CRUNCH,ICEFANG,POISONFANG,PSYWAVE
+	Ability = 0
+	IV = 12
+Pokemon = XATU,33
+	Moves = CONFUSERAY,OMINOUSWIND,ROOST,STOREDPOWER
+	Ability = 2
+	IV = 12
+#-------------------------------
+[LASS,Charlotte,1]
+LoseText = "Oh, bother. Back to the drawing board..."
+Pokemon = CLEFAIRY,29
+	Moves = MAGICALLEAF,LOVELYKISS,FAKETEARS,HEALPULSE
+	Ability = 2 
+	IV = 12
+Pokemon = CLEFABLE,32
+	Moves = AROMELODY,DAZZLINGGLEAM,FOLLOWME,CHARM
+	Ability = 2 
+	IV = 12
+Pokemon = CLEFABLE,34
+	Moves = AROMELODY,WAKEUPSLAP,BELLYDRUM,STOREDPOWER
+	Ability = 2 
+	IV = 12
+#-------------------------------
+[COSPLAYER,Danielle]
+LoseText = "The Lickitung hands you a note that says: 'Oh. No?'"
+Pokemon = LICKITUNG,32
+	Moves = AMNESIA,KNOCKOFF,MUDDYWATER,SLAM
+	Ability = 0 
+	IV = 12
+Pokemon = LICKITUNG,32
+	Moves = CURSE,SLAM,INCINERATE,WRAP
+	Ability = 1 
+	IV = 12
+#-------------------------------
+[COSPLAYER,Caitlyn]
+LoseText = "The Lickitung hands you a note that says: 'I've gotta work on that.'"
+Pokemon = LICKITUNG,32
+	Moves = DISABLE,MAGNITUDE,BUBBLEBEAM,SLAM
+	Ability = 0 
+	IV = 12
+Pokemon = LICKITUNG,32
+	Moves = CURSE,ZENHEADBUTT,SLAM,SUBMISSION
+	Ability = 1 
+	IV = 12
+#-------------------------------
+[COSPLAYER,Paige]
+LoseText = "The Lickitung hands you a note that says: 'You're missing out, buddy.'"
+Pokemon = LICKITUNG,32
+	Moves = POWERUPPUNCH,BODYPRESS,CURSE,LICK
+	Ability = 0 
+	IV = 12
+Pokemon = LICKITUNG,32
+	Moves = WORKUP,WATERPULSE,SHOCKWAVE,LICK
+	Ability = 1 
+	IV = 12
+#-------------------------------
+[COSPLAYER,Mady]
+LoseText = "The Lickitung hands you a note that says: 'GET LOST, LOSER!'"
+Pokemon = LICKITUNG,32
+	Moves = FRUSTRATION,BELLYDRUM,LICK,AQUATAIL
+	Ability = 0 
+	IV = 12
+Pokemon = LICKITUNG,32
+	Moves = FRUSTRATION,WORKUP,LICK,WATERPULSE
+	Ability = 1 
+	IV = 12
+#-------------------------------
+[COSPLAYMANIAC,Pascal]
+LoseText = "The Lickilicky hands you a note that says: 'Welcome to the sticky licky fold!'"
+Pokemon = LICKITUNG,32
+	Moves = RETURN,LICK,ZENHEADBUTT,AQUATAIL
+	Ability = 2 
+	IV = 15
+Pokemon = KECLEON,33
+	Moves = FAKEOUT,SHADOWSNEAK,FAINTATTACK,FOULPLAY
+	Ability = 1
+	IV = 15
+Pokemon = LICKITUNG,34
+	Moves = SPARK,BELLYDRUM,KNOCKOFF,MEGAHORN
+	Ability = 1 
+	Item = SITRUSBERRY
+	Form = 1
+	IV = 15
+Pokemon = LICKILICKY,33
+	Moves = WRINGOUT,ROLLOUT,SLACKOFF,DISABLE
+	Ability = 0 
+	Item = LEFTOVERS
+	IV = 15
+#-------------------------------
+[TRIATHLETE_F,Hailie]
+LoseText = "The calories I burned from this loss make even me a winner!"
+Items = FRESHWATER,FRESHWATER
+Pokemon = MANKEY,33
+	Moves = COACHING,BEATUP,CROSSCHOP,FURYSWIPES
+	Ability = 2
+	IV = 15
+Pokemon = VIGOROTH,34
+	Moves = SLACKOFF,CHIPAWAY,FAINTATTACK,COUNTER
+	IV = 15
+Pokemon = PRIMEAPE,34
+	Moves = COACHING,PURSUIT,CROSSCHOP,SMELLINGSALTS
+	Ability = 2
+	IV = 15
+#-------------------------------
+[TRIATHLETE_M,Digby]
+LoseText = "Is forced exercise morally questionable? Huh. Gotta run!"
+Items = FRESHWATER,FRESHWATER
+Pokemon = TYROGUE,33
+	Moves = FAKEOUT,THUNDERPUNCH,BULLETPUNCH,HELPINGHAND
+	Ability = 1
+	IV = 15
+Pokemon = STEENEE,34
+	Moves = ACUPRESSURE,STOMP,PLAYROUGH,LOWSWEEP
+	Ability = 1
+	IV = 15
+Pokemon = HITMONLEE,34
+	Moves = DOUBLEKICK,TRIPLEAXEL,BEATDANCE,COACHING
+	Ability = 0
+	IV = 15
+Pokemon = KUBFU,33
+	Moves = FOCUSPUNCH,BRICKBREAK,AERIALACE,BEATDANCE
+	IV = 15
+#-------------------------------
+[TRIATHLETE_F,Isabelle]
+LoseText = "Keep running this circuit until you're at your limit!"
+Items = FRESHWATER,FRESHWATER
+Pokemon = TYROGUE,33
+	Moves = FAKEOUT,FIREPUNCH,MACHPUNCH,HELPINGHAND
+	Ability = 1
+	IV = 15
+Pokemon = POLIWHIRL,34
+	Moves = BODYSLAM,ICEBALL,BUBBLEBEAM,MUDSHOT
+	Ability = 2
+	IV = 15
+Pokemon = HITMONCHAN,34
+	Moves = FOCUSPUNCH,BEATDANCE,BURSTPUNCH,COACHING
+	Ability = 1
+	IV = 15
+Pokemon = KUBFU,33
+	Moves = BURSTPUNCH,BRICKBREAK,AERIALACE,BEATDANCE
+	Form = 1
+	IV = 15
+#-------------------------------
+[TRIATHLETE_M,Rayyan]
+LoseText = "I'm still waiting on mind and I'm... outta... steam..."
+Items = FRESHWATER,FRESHWATER
+Pokemon = SAWK,35
+	Moves = COACHING,LOWSWEEP,ICEPUNCH,BEATDANCE
+	Ability = 0
+	IV = 15
+Pokemon = THROH,35
+	Moves = COACHING,STORMTHROW,FIREPUNCH,MATBLOCK
+	Ability = 0
+	IV = 15
+#-------------------------------
+[LEADER_Leyya,Leyya]
+LoseText = "Good job, you kept the beat! We'll work on that footwork next time."
+Items = ULTRAPOTION,ULTRAPOTION,FULLHEAL
+Pokemon = HITMONTOP,33
+	Moves = TRIPLEKICK,TRIPLEAXEL,DETECT,COACHING
+	Ability = 1
+	Item = PAYAPABERRY
+	IV = 20
+	Ball = 23
+Pokemon = LOPUNNY,34
+	Moves = BATONPASS,BEATDANCE,HIGHJUMPKICK,ASSURANCE
+	Ability = 2
+	Item = SITRUSBERRY
+	IV = 20
+	Ball = 23
+Pokemon = ORICORIO,34
+	Moves = COACHING,REVELATIONDANCE,BEATDANCE,HELPINGHAND
+	Ability = 0
+	Form = 1
+	IV = 20
+	Ball = 23
+Pokemon = KANGASKHAN,34
+	Moves = COACHING,CIRCLETHROW,VITALTHROW,MEGAPUNCH
+	Ability = 1
+	Item = LEFTOVERS
+	IV = 20
+	Ball = 23
+Pokemon = UMBREON,35
+	Moves = WORKUP,BATONPASS,MOONLIGHT,FOULPLAY
+	Ability = 0
+	Shiny = yes
+	Item = REDCARD
+	Name = Kovu
+	IV = 20
+	Ball = 0
+Pokemon = HARIYAMA,35
+	Moves = BEATDANCE,BULLETPUNCH,FIREPUNCH,BODYSLAM
+	Ability = 0
+	Item = WEAKNESSPOLICY
+	IV = 20
+	Form = 1
+	Ball = 23
+#-------------------------------
+[TRAINER_Leigh,Jordan,2]
+LoseText = "You think you've extinguished me...?"
+Items = ULTRAPOTION,ULTRAPOTION
+Pokemon = FLETCHINDER,33
+	Moves = FLAMECHARGE,ACROBATICS,TAILWIND,QUICKGUARD
+	Ability = 0
+	IV = 20
+	Ball = 10
+Pokemon = LILEEP,34
+	Moves = ROCKSLIDE,TARSHOT,INCINERATE,FIERYTERRAIN	
+	Ability = 1
+	Form = 1
+	Item = TERRAINEXTENDER
+	IV = 20
+	Ball = 10
+Pokemon = PORYGON2,35
+	Moves = WONDERRUSH,PSYBEAM,BORINGLASER,RECOVER
+	Ability = 1
+	Item = EVIOLITE
+	IV = 20
+	Ball = 10
+Pokemon = FLAREON,35
+	Moves = ACCELEROCK,INCINERATE,SMACKDOWN,SNARL
+	Ability = 1
+	Form = 1
+	IV = 20
+	Ball = 10
+Pokemon = CENTISKORCH,34
+	Moves = DRAGONRUSH,FLAMEWHEEL,COIL,BUGBITE
+	Ability = 1
+	Item = SILVERPOWDER
+	IV = 20
+	Ball = 10
+#-------------------------------
+[SWIMMER_F,Shezu]
+LoseText = "That left me feeling low. Time to jump back in!"
+Pokemon = CHINCHOU,34
+	Moves = PSYBEAM,SIGNALBEAM,SHOCKWAVE,FLASH
+	Ability = 0
+	IV = 12
+Pokemon = OMANYTE,33
+	Moves = BRINE,PROTECT,AURORABEAM,SUPERSONIC
+	Ability = 1
+	IV = 12
+Pokemon = BRUXISH,34
+	Moves = CRUNCH,PSYCHICFANGS,AQUATAIL,THUNDERFANG
+	Ability = 0 
+	IV = 12
+#-------------------------------
+[SWIMMER_M,Shota]
+LoseText = "It's all... gone dark!"
+Pokemon = TENTACOOL,33
+	Moves = ACIDSPRAY,LOVELYKISS,WRAP,WATERPULSE
+	Ability = 0 
+	Form = 1
+	IV = 12
+Pokemon = LANTURN,34
+	Moves = PSYBEAM,SIGNALBEAM,SHOCKWAVE,FLASH
+	Ability = 0
+	IV = 12
+Pokemon = INKAY,34
+	Moves = FLASH,PSYBEAM,SIMPLEBEAM,FOULPLAY
+	Ability = 0
+	IV = 12
+#-------------------------------
+[HIKER,Gio]
+LoseText = "I've conquered Rampard, next up is Barricado!"
+Pokemon = SNORUNT,36
+	Moves = AVALANCHE,ICESHARD,PROTECT,WEATHERBALL
+	Ability = 1
+	IV = 12
+Pokemon = NINETALES,36
+	Moves = DAZZLINGGLEAM,AURORABEAM,HEX,CONFUSERAY
+	Ability = 1
+	IV = 12
+#-------------------------------
+[BEAUTY,Mary]
+LoseText = "It most certainly does work that way! Gosh!"
+Pokemon = CHIMECHO,33
+	Moves = HEALBELL,SAFEGUARD,HYPNOSIS,EXTRASENSORY
+	IV = 20
+Pokemon = ORICORIO,33
+	Moves = BEATDANCE,FEATHERDANCE,HELPINGHAND,AIRSLASH
+	Form = 2
+	IV = 12
+Pokemon = BRIONNE,36
+	Moves = HYPERVOICE,AROMELODY,AQUAJET,SING
+	Ability = 1
+	IV = 12
+#-------------------------------
+[YOUNGSTER,Garret]
+LoseText = "This will delay my trip a bit... sorry, Mum."
+Pokemon = FLAAFFY,34
+	Moves = BODYSLAM,POWERGEM,THUNDERWAVE,ELECTROBALL
+	Ability = 0
+	IV = 12
+Pokemon = KIRLIA,32
+	Moves = DISARMINGVOICE,DRAININGKISS,PSYCHIC,HEALPULSE
+	Ability = 1
+	IV = 12
+Pokemon = MRMIME,33
+	Moves = TRIPLEAXEL,PSYBEAM,HYPNOSIS,DAZZLINGGLEAM
+	Ability = 1
+	IV = 12
+#-------------------------------
+[TRIATHLETE_F,Abigail]
+LoseText = "Clearly my luck has failed the test."
+Items = FRESHWATER,FRESHWATER
+Pokemon = FLETCHINDER,32
+	Moves = QUICKGUARD,TAILWIND,FLAMEBURST,ROOST
+	Ability = 0
+	IV = 12
+Pokemon = VOLTORB,34
+	Moves = EERIEIMPULSE,LIGHTSCREEN,ELECTROBALL,SWIFT
+	Ability = 0
+	IV = 12
+Pokemon = LEDIAN,33
+	Moves = STORMTHROW,SCREECH,BURSTPUNCH,DRAINPUNCH
+	Ability = 0
+	Form = 1
+	IV = 12
+#-------------------------------
+[MAGICALGIRL,Florence]
+LoseText = "There's something in the very air..."
+Pokemon = MEOWSTIC,33
+	Moves = QUICKGUARD,LIGHTSCREEN,REFLECT,PSYSHOCK
+	Ability = 2
+	Gender = male
+	IV = 12
+Pokemon = ILLUMISE,33
+	Moves = GROWTH,CONFUSERAY,STRUGGLEBUG,ZENHEADBUTT
+	Ability = 2
+	IV = 12
+Pokemon = SABLEYE,33
+	Moves = SUCKERPUNCH,FLATTER,SHADOWCLAW,DETECT
+	Ability = 2
+	IV = 12
+#-------------------------------
+[CHANELLER,Eila]
+LoseText = "The voices, they cheer for your victory...!"
+Pokemon = SPIRITOMB,36
+	Moves = SUCKERPUNCH,HYPNOSIS,DREAMEATER,SHADOWSNEAK
+	Ability = 0
+	IV = 12
+Pokemon = BEWEAR,35
+	Moves = WRAP,SCREECH,SHADOWPUNCH,PAINSPLIT
+	Ability = 1
+	Form = 1
+	IV = 12
+#-------------------------------
+[MAGICALGIRL,Salma]
+LoseText = "Your aura shows you're not destined to be lost in this place."
+Pokemon = LIEPARD,34
+	Moves = ENCORE,YAWN,ASSURANCE,ASSIST
+	Ability = 2
+	IV = 12
+Pokemon = VOLBEAT,32
+	Moves = TAILGLOW,CONFUSERAY,SIGNALBEAM,ZENHEADBUTT
+	Ability = 2
+	IV = 12
+Pokemon = MORGREM,34
+	Moves = NUZZLE,SWAGGER,SUCKERPUNCH,FALSESURRENDER
+	Ability = 2
+	IV = 12
+Pokemon = GIRAFARIG,32
+	Moves = HYPERVOICE,HEALBELL,LUNARBEAM,SWEETKISS
+	Ability = 1
+	Form = 1
+	IV = 12
+#-------------------------------
+[TUBER_F,Rosa]
+LoseText = "Can you help me find my way out?"
+Pokemon = DUCKLETT,31
+	Moves = AQUAJET,LUCKYCHANT,WATERPULSE,AIRSLASH
+	Ability = 1
+	IV = 12
+Pokemon = CORPHISH,32
+	Moves = RAZORSHELL,NIGHTSLASH,PROTECT,ENDEAVOR
+	Ability = 0
+	IV = 12
+Pokemon = WARTORTLE,32
+	Moves = FLAMECHARGE,SCALD,FAKEOUT,SHELLTRAP
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = WAILMER,31
+	Moves = ZENHEADBUTT,WATERSPOUT,BODYSLAM,AQUARING
+	Ability = 2
+	IV = 12
+#-------------------------------
+[TRIATHLETE_M,Rogan]
+LoseText = "It feels like I'm going in circles, but these GAINS!"
+Pokemon = SMEARGLE,36
+	Moves = AGILITY,LIGHTSHOWER,SWAGGER,BRICKBREAK
+	Ability = 0
+	IV = 12
+Pokemon = ELECTABUZZ,36
+	Moves = THUNDERPUNCH,SWIFT,LIGHTSCREEN,ROLLINGKICK
+	Ability = 0 
+	IV = 12
+#-------------------------------
+[PICNICKER,Shannon]
+LoseText = "How can I choose landmarks when all the trees look the same?!"
+Pokemon = EEVEE,33
+	Moves = BABYDOLLEYES,TAKEDOWN,BITE,QUICKATTACK
+	Ability = 1 
+	IV = 12
+Pokemon = PIKACHU,33
+	Moves = DIZZYPUNCH,TAILWIND,AERIALACE,FAKEOUT
+	Ability = 1
+	Form = 1
+	IV = 12
+Pokemon = LEAFEON,34
+	Moves = TICKLE,RAZORLEAF,SWORDSDANCE,HELPINGHAND
+	Ability = 1
+	IV = 12
+#-------------------------------
+[ENGINEER,Paulo]
+LoseText = "This is what happens when you try and help, y'know?"
+Pokemon = MINUN,32
+	Moves = NUZZLE,ELECTROBALL,THUNDERWAVE,HELPINGHAND
+	Ability = 0 
+	IV = 12
+Pokemon = PLUSLE,32
+	Moves = NUZZLE,ELECTROBALL,THUNDERWAVE,HELPINGHAND
+	Ability = 0 
+	IV = 12
+Pokemon = KLANG,35
+	Moves = GEARGRIND,BIND,CHARGE,CHARGEBEAM
+	Ability = 0 
+	IV = 12
+Pokemon = CHARJABUG,32
+	Moves = CHARGE,SPARK,ACROBATICS,CRUNCH
+	Ability = 0
+	IV = 12
+#-------------------------------
+[SIMULATION_M,Valian]
+LoseText = "..."
+Pokemon = AUDINO,25
+	Moves = HEALINGWISH
+	Ability = 0
+	IV = 31
+Pokemon = AUDINO,25
+	Moves = HEALINGWISH
+	Ability = 0
+	IV = 31
+Pokemon = AUDINO,25
+	Moves = HEALINGWISH
+	Ability = 0
+	IV = 31
+#-------------------------------
+[SIMULATION_F,Reina]
+LoseText = "..."
+Pokemon = AUDINO,25
+	Moves = HEALINGWISH
+	Ability = 0
+	IV = 31
+Pokemon = AUDINO,25
+	Moves = HEALINGWISH
+	Ability = 0
+	IV = 31
+Pokemon = AUDINO,25
+	Moves = HEALINGWISH
+	Ability = 0
+	IV = 31
+#-------------------------------
+[SIMULATION_M,Valian,1]
+LoseText = "..."
+Pokemon = AUDINO,30
+	Moves = HEALINGWISH
+	Ability = 0
+	IV = 31
+Pokemon = AUDINO,30
+	Moves = HEALINGWISH
+	Ability = 0
+	IV = 31
+Pokemon = AUDINO,30
+	Moves = HEALINGWISH
+	Ability = 0
+	IV = 31
+#-------------------------------
+[SIMULATION_F,Reina,1]
+LoseText = "..."
+Pokemon = AUDINO,30
+	Moves = HEALINGWISH
+	Ability = 0
+	IV = 31
+Pokemon = AUDINO,30
+	Moves = HEALINGWISH
+	Ability = 0
+	IV = 31
+Pokemon = AUDINO,30
+	Moves = HEALINGWISH
+	Ability = 0
+	IV = 31
+#-------------------------------
+[BLACKSMITH,Brandon,1]
+LoseText = "At least the mines are still burning!"
+Pokemon = MACHOP,33
+	Moves = FIREPUNCH,KNOCKOFF,MEDITATE,KARATECHOP
+	Ability = 0
+	IV = 12
+Pokemon = CARKOL,34
+	Moves = RAPIDSPIN,GYROBALL,ANCIENTPOWER,FLAMECHARGE
+	Ability = 1 
+	IV = 12	
+Pokemon = MAGMAR,34
+	Moves = MACHPUNCH,FAINTATTACK,CONFUSERAY,FIREPUNCH
+	Ability = 0
+	IV = 12
+#-------------------------------
+[BLACKSMITH,Ricardo,1]
+LoseText = "It's time for my potential pilgrimage to go elsewhere."
+Pokemon = TREVENANT,34
+	Moves = WILLOWISP,HEX,SUCKERPUNCH,SCREECH
+	Ability = 0
+	IV = 12
+Pokemon = MAKUHITA,32
+	Moves = ARMTHRUST,FIREPUNCH,BODYSLAM,WORKUP
+	Ability = 1
+	Form = 1
+	IV = 12
+Pokemon = CARKOL,34
+	Moves = RAPIDSPIN,GYROBALL,ANCIENTPOWER,FLAMECHARGE
+	Ability = 1
+	IV = 12
+#-------------------------------
+[TEAMNULL_F1,Grunt,13]
+LoseText = "Why do you insist on being a nuiscance?!"
+Pokemon = CORVISQUIRE,28
+	Moves = TAILWIND,PLUCK,POWERTRIP,WORKUP
+	Ability = 1 
+	IV = 10
+Pokemon = RATICATE,28
+	Moves = SCARYFACE,QUICKATTACK,ASSURANCE,SWORDSDANCE
+	Ability = 1
+	IV = 10
+Pokemon = SQUIRTLE,25
+	Moves = FAKEOUT,HEATWAVE,RAZORSHELL,IRONDEFENSE
+	Ability = 0
+	Form = 1
+	IV = 10
+#-------------------------------
+[TEAMNULL_F1,Grunt,14]
+LoseText = "Heh, it's almost ready. Did you think this was over?"
+Pokemon = CORVISQUIRE,33
+	Moves = TAILWIND,DRILLPECK,POWERTRIP,WORKUP
+	Ability = 1 
+	IV = 10
+Pokemon = RATICATE,33
+	Moves = SCARYFACE,HYPERFANG,ASSURANCE,SWORDSDANCE
+	Ability = 1
+	IV = 10
+Pokemon = LINOONE,33
+	Moves = QUICKGUARD,NIGHTSLASH,SNARL,LICK
+	Ability = 0 
+	Form = 1
+	IV = 12
+Pokemon = SQUIRTLE,30
+	Moves = FAKEOUT,HEATWAVE,RAZORSHELL,FRUSTRATION
+	Ability = 0
+	Happiness = 0
+	Form = 1
+	Item = STICKYBARB
+	IV = 10
+#-------------------------------
+[COOLTRAINER_M,Samuel]
+LoseText = "I knew it! Your passion in battle was driven by hunger, no?"
+Pokemon = FLAPPLE,36
+	Moves = AROMELODY,GRAVAPPLE,DRAGONDANCE,RECYCLE
+	Ability = 0
+	Item = SITRUSBERRY 
+	IV = 12
+Pokemon = SLURPUFF,36
+	Moves = DRAININGKISS,AROMATHERAPY,ENERGYBALL,FAKETEARS
+	Ability = 0 
+	IV = 12
+#-------------------------------
+[COOLTRAINER_M,Samuel,1]
+LoseText = "I knew it! Your passion in battle was driven by hunger, no?"
+Pokemon = APPLETUN,36
+	Moves = AROMELODY,APPLEACID,LEECHSEED,RECYCLE
+	Ability = 0
+	Item = SITRUSBERRY 
+	IV = 12
+Pokemon = SLURPUFF,36
+	Moves = DRAININGKISS,AROMATHERAPY,ENERGYBALL,FAKETEARS
+	Ability = 0 
+	IV = 12
+#-------------------------------
+[OAKAIDE,Leonard]
+LoseText = "Wait - I have an idea!"
+Pokemon = EXEGGCUTE,33
+	Moves = SYNTHESIS,LEECHSEED,SOLARBEAM,REFLECT
+	Ability = 0
+	IV = 12
+Pokemon = DITTO,34
+	Moves = THUNDERWAVE,GYROBALL,STICKYWEB,ROLLOUT
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = IVYSAUR,34
+	Moves = PARABOLICCHARGE,LEECHSEED,SYNTHESIS,MEGADRAIN
+	Ability = 1
+	Form = 1
+	IV = 12
+#-------------------------------
+[OAKAIDE,Leonard,1]
+LoseText = "Sunny Day! Aren't Pokemon the most amazing things?"
+Pokemon = VULPIX,33
+	Moves = NASTYPLOT,WILLOWISP,HEX,FLAMEBURST
+	Ability = 2
+	IV = 12
+Pokemon = DITTO,34
+	Moves = THUNDERWAVE,GYROBALL,STICKYWEB,ROLLOUT
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = EXEGGCUTE,33
+	Moves = SYNTHESIS,LEECHSEED,SOLARBEAM,SUNNYDAY
+	Ability = 0
+	Item = HEATROCK
+	IV = 12
+Pokemon = IVYSAUR,34
+	Moves = PARABOLICCHARGE,LEECHSEED,SYNTHESIS,MEGADRAIN
+	Ability = 1
+	Form = 1
+	IV = 12
+#-------------------------------
+[LEADER_Adrian,Adrian,1]
+LoseText = "Simulation... exit."
+Pokemon = ELECTRODE,50
+	Moves = ALCHEMISE,LIGHTSCREEN,ELECTROBALL,EERIEIMPULSE
+	Ability = 2 
+	Item = REDCARD
+	IV = 20
+	Ball = 25
+Pokemon = GARBODOR,50
+	Moves = ALCHEMISE,AUTOTOMIZE,TOXICSPIKES,SLUDGEBOMB
+	Ability = 1
+	Item = SITRUSBERRY
+	IV = 20
+	Ball = 25
+Pokemon = CONKELDURR,50
+	Moves = DRAINPUNCH,POWERUPPUNCH,BULKUP,FIREPUNCH
+	Ability = 2
+	Item = FIGHTINGGEM
+	IV = 20
+	Ball = 25
+Pokemon = MAGNETON,50
+	Moves = MAGNETBOMB,LIGHTSCREEN,THUNDERBOLT,TRIATTACK
+	Ability = 1 
+	Item = EVIOLITE
+	IV = 20
+	Ball = 25
+Pokemon = CINCCINO,50
+	Moves = ALCHEMISE,TAILSLAP,BULLETSEED,SLACKOFF
+	Ability = 0
+	Item = NORMALGEM
+	IV = 20
+	Ball = 25
+Pokemon = EEVEE,50
+	Moves = MYSTICALFIRE,AQUAJET,WONDERRUSH,PLAYROUGH
+	Ability = 0
+	Form = 1
+	Item = EONCOLLAR
+	IV = 20
+	Ball = 25
+#-------------------------------
+[LEADER_Maria,Maria,2]
+LoseText = "Simulation... exit."
+Pokemon = AUDINO,50
+	Moves = AROMELODY,HEALBELL,MOONBLAST,HEALPULSE
+	Ability = 0
+	Item = LUMBERRY
+	IV = 20
+	Ball = 20
+Pokemon = LUDICOLO,50
+	Moves = AROMELODY,TEETERDANCE,FAKEOUT,SPLASHSERENADE
+	Ability = 0
+	Item = DAMPROCK
+	IV = 20
+	Ball = 20
+Pokemon = MARACTUS,50
+	Moves = AROMELODY,LEECHSEED,SUCKERPUNCH,SPIKYSHIELD
+	Ability = 2
+	Item = METRONOME
+	IV = 20
+	Ball = 20
+Pokemon = LILLIGANT,50
+	Moves= AROMATHERAPY,PETALDANCE,TEETERDANCE,SLEEPPOWDER
+	Ability = 1
+	Item = LUMBERRY
+	IV = 20
+	Ball = 20
+Pokemon = TOXTRICITY,50	
+	Moves= TOXIC,OVERDRIVE,METALSOUND,VENOSHOCK
+	Ability = 0 
+	Item = THROATSPRAY
+	Form = 0
+	IV = 20
+	Ball = 20
+Pokemon = LAPRAS,50
+ 	Moves = AROMELODY,MUDDYWATER,BODYSLAM,FLORALHEALING
+	Ability = 1
+	Form = 2
+	Item = LEFTOVERS
+	IV = 20
+	Ball = 20
+#-------------------------------
+[LEADER_Leyya,Leyya,1]
+LoseText = "Simulation... exit."
+Pokemon = HITMONTOP,50
+	Moves = TRIPLEKICK,TRIPLEAXEL,DETECT,COACHING
+	Ability = 1
+	Item = PAYAPABERRY
+	IV = 20
+	Ball = 23
+Pokemon = LOPUNNY,50
+	Moves = BATONPASS,BEATDANCE,HIGHJUMPKICK,SUDDENSTART
+	Ability = 2
+	Item = SITRUSBERRY
+	IV = 20
+	Ball = 23
+Pokemon = KOMMOO,50
+	Moves = COACHING,CLANGINGSCALES,SCREECH,THUNDERCLAP
+	Ability = 1
+	Item = LIFEORB
+	IV = 20
+	Ball = 23
+Pokemon = KANGASKHAN,50
+	Moves = COACHING,CIRCLETHROW,WIDEGUARD,CHIPAWAY
+	Ability = 0
+	Item = LEFTOVERS
+	IV = 20
+	Ball = 23
+Pokemon = UMBREON,50
+	Moves = WORKUP,BATONPASS,MOONLIGHT,FOULPLAY
+	Ability = 0
+	Shiny = yes
+	Item = REDCARD
+	Name = Kovu
+	IV = 20
+	Ball = 23
+Pokemon = HARIYAMA,50
+	Moves = BEATDANCE,BULLETPUNCH,FIREPUNCH,HEAVYSLAM
+	Ability = 0
+	Item = WEAKNESSPOLICY
+	IV = 20
+	Form = 1
+	Ball = 23
+#-------------------------------
+[COORDINATOR_Hughes,Dylan,1]
+LoseText = "Simulation... exit."
+Pokemon = EXEGGUTOR,50
+	Moves = DRAGONHAMMER,WOODHAMMER,EGGBOMB,EARTHQUAKE
+	Ability = 1 
+	Item = CHOICESCARF
+	Form = 1
+	IV = 20
+Pokemon = MISMAGIUS,50
+	Moves = DARKALLURE,PHANTOMFORCE,POISONCREEP,PSYSTRIKE
+	Ability = 0 
+	Item = POWERHERB
+	IV = 20
+Pokemon = WAILORD,50
+	Moves = WATERSPOUT,AQUARING,NOBLEROAR,HURRICANE
+	Ability = 1 
+	Item = LEFTOVERS
+	IV = 20 
+Pokemon = SNORLAX,50
+	Moves = EARTHQUAKE,SLACKOFF,BODYSLAM,RECYCLE
+	Ability = 0 
+	Item = SITRUSBERRY
+	Name = Snorey
+	Form = 1
+	IV = 20
+Pokemon = UMBREON,50 
+	Moves = HELPINGHAND,PROTECT,TOXIC,FOULPLAY
+	Ability = 0 
+	Item = AIRBALLOON
+	IV = 20 
+Pokemon = DRAGONITE,50
+	Moves = EXTREMESPEED,AQUAJET,DRACOMETEOR,EARTHQUAKE
+	Ability = 1
+	Item = LIFEORB
+	IV = 20
+#-------------------------------
+[OAKAIDE,Shilae,1]
+LoseText = "You've grown so much! The Professor will be proud!"
+Pokemon = RAICHU,36
+	Moves = WEATHERBALL,RAINDANCE,BOUNCE,FAKEOUT
+	Ability = 1
+	Form = 1
+	IV= 15
+Pokemon = NOCTOWL,36
+	Moves = FUTURESIGHT,EXTRASENSORY,AIRSLASH,PSYCHOSHIFT
+	Ability = 0
+	IV= 15
+#-------------------------------
+[RESEARCHER,Rebecca,1]
+LoseText = "Did you see it? The Beedrill... so glorious!"
+Pokemon = METAPOD,34
+	Moves = POISONSTING,STRINGSHOT,BUGBITE
+	Ability = 0
+	IV= 15
+Pokemon = FLAAFFY,34
+	Moves = SING,DREAMEATER,HOTWINDS,COTTONGUARD
+	Ability = 0
+	Form = 2
+	IV= 15
+Pokemon = BEEDRILL,35
+	Moves = IRONEEDLE,FIRSTIMPRESSION,FELLSTINGER,STEELWING
+	Ability = 0
+	Form = 1
+	IV= 15
+#-------------------------------
+[OAKAIDE,Smith,1]
+LoseText = "Further study is needed to evaluate your abilities!"
+Pokemon = WORMADAM,34
+	Moves = QUIVERDANCE,SUCKERPUNCH,HIDDENPOWER,PSYBEAM
+	Ability = 0
+	IV= 15
+Pokemon = DUOSION,34
+	Moves = LIFEDEW,MIRRORSHOT,ICYWIND,GYROBALL
+	Ability = 0
+	Form = 1
+	IV= 15
+Pokemon = BUTTERFREE,35
+	Moves = HOTWINDS,SILVERWIND,EXTRASENSORY,CONFUSERAY
+	Ability = 0
+	Form = 1
+	IV= 15
+#-------------------------------
+[OAKAIDE,Sheldon,1]
+LoseText = "I'm not sure your power level is high enough yet..."
+Pokemon = SWELLOW,33
+	Moves = STEELWING,WHIRLWIND,WINGATTACK,DOUBLETEAM
+	Ability = 0
+	IV= 15
+Pokemon = PORYGON2,33
+	Moves = BEATDANCE,COUNTER,WIDECHOP,COMETPUNCH
+	Ability = 2 
+	Form = 1
+	IV= 15
+Pokemon = ORBEETLE,37
+	Moves = FLASHCANNON,DAZZLINGGLEAM,STRUGGLEBUG,MAGICCOAT
+	Ability = 0
+	IV= 15
+#-------------------------------
+[POKEMANIAC,Bebe,1]
+LoseText = "I bet you still can't believe it, huh?"
+Pokemon = QUAGSIRE,35
+	Moves = BODYPRESS,GLARE,SLUDGE,IRONDEFENSE
+	Ability = 0
+	Form = 1
+	IV= 15
+Pokemon = PACHIRISU,33
+	Moves = NUZZLE,IRONTAIL,QUICKATTACK,COVET
+	Ability = 2
+	IV= 15
+Pokemon = PACHIRISU,34
+	Moves = SEEDBOMB,SUPERFANG,WORKUP,COVET
+	Ability = 2
+	Form = 1
+	IV= 15
+#-------------------------------
+[FISHERMAN,Costas,1]
+LoseText = "My luck on the line just keeps getting better!"
+Pokemon = DRATINI,34
+	Moves = WATERSPORT,DRAGONBREATH,AQUAJET,DRAGONTAIL
+	Ability = 0
+	IV= 15
+Pokemon = FEEBAS,32
+	Moves = SPLASH,TACKLE,GRUDGE
+	Ability = 1
+	Form = 1
+	IV= 15
+Pokemon = MILOTIC,36
+	Moves = WATERPULSE,DRAGONBREATH,AQUARING,RECOVER
+	Ability = 1
+	IV= 15
+#-------------------------------
+[TRAINER_Haydn,???]
+LoseText = "Aaaaaah yes...! Why did we battle again?"
+Items = MOOMOOMILK,MOOMOOMILK,FULLHEAL
+Pokemon = MUNCHLAX,35
+	Moves = MEGAPUNCH,RECOVER,ROCKTHROW,ICEFANG
+	Ability = 1
+	Item = FESTIVEWREATH
+	Form = 1
+	IV = 20
+	Ball = 24
+Pokemon = SLAKOTH,35
+	Moves = CRUSHCLAW,NIGHTSLASH,SLACKOFF,COUNTER
+	Ability = 1
+	Item = LEFTOVERS
+	IV = 20
+	Ball = 24
+Pokemon = TEDDIURSA,36
+	Moves = BELLYDRUM,CHIPAWAY,SLACKOFF,THUNDERPUNCH
+	Ability = 1
+	Shiny = yes
+	Item = SITRUSBERRY
+	IV = 20
+	Ball = 24
+#-------------------------------
+[TECHIE,Bradlee]
+LoseText = "You pay me enough, I'll fix anything."
+Pokemon = ELEKID,34
+	Moves = ROLLINGKICK,THUNDERPUNCH,LIGHTSCREEN,FIREPUNCH
+	Ability = 1 
+	IV = 12
+Pokemon = METANG,35
+	Moves = ZENHEADBUTT,BULLETPUNCH,TAKEDOWN,SCARYFACE
+	Ability = 1
+	IV = 12
+Pokemon = PORYGON2,36
+	Moves = BORINGLASER,MAGNETRISE,SHOCKWAVE,MAGICCOAT
+	Ability = 0 
+	IV = 12
+#-------------------------------
+[CRUSHGIRL,Valencia]
+LoseText = "A paycheque is a paycheque. I lost, but I still win yeah?"
+Pokemon = CROAGUNK,34
+	Moves = ACUPRESSURE,MUDBOMB,SUCKERPUNCH,REVENGE
+	Ability = 0 
+	IV = 12
+Pokemon = GURDURR,36
+	Moves = BULKUP,ROCKSLIDE,WAKEUPSLAP,LOWKICK
+	Ability = 0
+	IV = 12
+Pokemon = SEISMITOAD,36
+	Moves = MUDDYWATER,AQUARING,MUDSHOT,SUPERSONIC
+	Ability = 0
+	IV = 12
+#-------------------------------
+[COLLECTOR,Domas]
+LoseText = "Anyone would do what I'm doing for rare Pokemon!"
+Pokemon = MURKROW,36
+	Moves = ROOST,FOULPLAY,ASSURANCE,WINGATTACK
+	Ability = 1 
+	IV = 12
+Pokemon = QWILFISH,36
+	Moves = BOUNCE,UPROAR,BUBBLEBEAM,POISONGAS
+	Ability = 2
+	Form = 1
+	IV = 12
+Pokemon = LUMINEON,35
+	Moves = BOUNCE,SIGNALBEAM,AQUARING,SKYDROP
+	Ability = 2 
+	Shadow = yes
+#-------------------------------
+[ENGINEER,Berat]
+LoseText = "The tech here is so old it'll fall apart if you touch it again..."
+Pokemon = CHARJABUG,35
+	Moves = CHARGE,SPARK,XSCISSOR,ELECTROWEB
+	Ability = 1
+	IV = 12
+Pokemon = STUNFISK,35
+	Moves = DISCHARGE,MUDSPORT,MUDBOMB,BOUNCE
+	Ability = 0
+	IV = 12
+Pokemon = MINUN,35
+	Moves = QUICKGUARD,HELPINGHAND,DAZZLINGGLEAM,PSYBEAM
+	Ability = 1
+	Form = 1
+	IV = 12
+#-------------------------------
+[SUPERNERD,Brogur]
+LoseText = "Now they won't let me tag along..."
+Pokemon = SANDYGAST,37
+	Moves = GIGADRAIN,BULLDOZE,SANDTOMB,HYPNOSIS
+	Ability = 0
+	IV = 12
+Pokemon = LICKITUNG,37
+	Moves = ASSURANCE,THUNDERWAVE,SPARK,DRILLRUN
+	Ability = 0
+	Form = 1
+	IV = 12
+#-------------------------------
+[SCIENTIST,Oxy]
+LoseText = "Without the boss, this operation is a failure!"
+Pokemon = DITTO,36
+	Moves = TRANSFORM
+	Ability = 1
+	Item = QUICKPOWDER
+	IV = 12
+Pokemon = MAGNETON,35
+	Moves = TRIATTACK,MAGNETBOMB,SPARK,LIGHTSCREEN
+	Ability = 0
+	IV = 12
+Pokemon = DHELMISE,35
+	Moves = ANCHORSHOT,DEEPFOG,GIGADRAIN,METALSOUND
+	Ability = 1
+	Shadow = yes
+Pokemon = QUAGSIRE,36
+	Moves = FAKETEARS,IRONDEFENSE,MUDBOMB,BODYPRESS
+	Ability = 2
+	Form = 1
+	IV = 12
+#-------------------------------
+[IMITATOR,Wakin]
+LoseText = "Well... that's my cue to exit."
+Pokemon = CRAWDAUNT, 35
+	Moves = DOUBLEHIT,NIGHTSLASH,KNOCKOFF,RAZORSHELL
+	Ability = 2
+	IV = 20
+	Ball = 12
+Pokemon = GLOOM, 36
+	Moves = TICKLE,STRENGTHSAP,GIGADRAIN,SLEEPPOWDER
+	Ability = 1
+	IV = 20
+	Ball = 12
+Pokemon = WEEZING, 36
+	Moves = POISONGAS,SLUDGE,SMOKESCREEN,TOXICSPIKES
+	Ability = 1
+	IV = 20
+	Ball = 12
+Pokemon = LOMBRE, 36
+	Moves = TOXICSPIKES,FIERYDANCE,DRAGONDANCE,FURYSWIPES
+	Ability = 2
+	Form = 1
+	Item = SHELLBELL
+	Shadow = Yes
+	Ball = 12
+Pokemon = TOXICROAK,37
+	Moves = SHOREUP,SANDTOMB,SLUDGE,REVENGE
+	Ability = 0
+	Form = 1
+	Item = BLACKSLUDGE
+	IV = 20
+#-------------------------------
+[OFFICER,Belton]
+LoseText = "Err, you're here on Oak's request? Apologies."
+Pokemon = DUGTRIO,37
+	Moves = SUCKERPUNCH,METALSOUND,SHOCKWAVE,EARTHPOWER
+	Ability = 1
+	Form = 1
+	IV = 12
+Pokemon = HERDIER,37
+	Moves = PSYCHICFANGS,HELPINGHAND,TAKEDOWN,WORKUP
+	Ability = 0
+	IV = 12
+#-------------------------------
+[TRAINER_Haydn,Haydn]
+LoseText = "..."
+Items = MOOMOOMILK,MOOMOOMILK,FULLHEAL
+Pokemon = MUNCHLAX,36
+	Moves = MEGAPUNCH,RECOVER,ROCKTHROW,ICEFANG
+	Ability = 1
+	Item = FESTIVEWREATH
+	Form = 1
+	IV = 20
+	Ball = 24
+Pokemon = SLAKOTH,36
+	Moves = CRUSHCLAW,NIGHTSLASH,SLACKOFF,COUNTER
+	Ability = 1
+	Item = LEFTOVERS
+	IV = 20
+	Ball = 24
+Pokemon = TEDDIURSA,36
+	Moves = BELLYDRUM,CHIPAWAY,SLACKOFF,THUNDERPUNCH
+	Ability = 1
+	Shiny = yes
+	Item = SITRUSBERRY
+	IV = 20
+	Ball = 24
+#-------------------------------
+[NULLBOSS_2,Docere]
+LoseText = "As I expected. Now, will you please follow me?"
+Pokemon = HYPNO,37
+	Moves = WAKEUPSLAP,HYPNOSIS,PSYCHOCUT,ASSURANCE
+	Ability = 0
+	Item = WIDELENS
+	IV = 20
+Pokemon = DUSTOX,38
+	Moves = SLEEPPOWDER,LUNARBEAM,MOONBLAST,MOONLIGHT
+	Ability = 1
+	Item = LIGHTCLAY
+	Form = 1
+	IV = 20
+Pokemon = NOCTOWL,38
+	Moves = HYPNOSIS,DREAMEATER,AIRSLASH,MEANLOOK
+	Ability = 1
+	IV = 20
+Pokemon = MUSHARNA,37
+	Moves = SLUMBERMIST,DREAMEATER,NIGHTMARE,ZENHEADBUTT
+	Ability = 0
+	Item = LEFTOVERS
+	IV = 20
+Pokemon = TYPHLOSION,39
+	Moves = ENERGYBALL,MISTBALL,COSMICPOWER,STOREDPOWER
+	Ability = 0
+	Item = SITRUSBERRY
+	Form = 1
+	IV = 20
+#-------------------------------
+[BLACKBELT,Gaer]
+LoseText = "...the bottom path scares me though."
+Pokemon = RUFFLET,35
+	Moves = DUALWINGBEAT,TAILWIND,ASSURANCE,BULKUP
+	Ability = 1
+	IV = 12
+Pokemon = DURANT,36
+	Moves = INFESTATION,VICEGRIP,BEATUP,STOCKPILE
+	Ability = 1
+	IV = 12
+Pokemon = HITMONTOP,36
+	Moves = TRIPLEKICK,HELPINGHAND,RAPIDSPIN,WIDEGUARD
+	Ability = 0
+	IV = 12
+#-------------------------------
+[TRIATHLETE_M,Lowe]
+LoseText = "The challenge it appears, is apt for you."
+Pokemon = KOMALA,35
+	Moves = STOCKPILE,SUCKERPUNCH,SLAM,SLACKOFF
+	Ability = 0
+	IV = 12
+Pokemon = MAROWAK,36
+	Moves = BONERUSH,SCREECH,HEADBUTT,BRICKBREAK
+	Ability = 2
+	IV = 12
+Pokemon = GURDURR,36
+	Moves = POWERUPPUNCH,ROCKSLIDE,DYNAMICPUNCH,SLAM
+	Ability = 2
+	IV = 12
+#-------------------------------
+[RADRIDER,Joy]
+LoseText = "Say, where are my kids? They were right behind me..."
+Pokemon = TOXTRICITY,36
+	Moves = ACIDSPRAY,VENOSHOCK,NOBLEROAR,TOXIC
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = DODUO,36
+	Moves = BONEMERANG,ACUPRESSURE,WINGATTACK,ASSURANCE
+	Ability = 0
+	IV = 12
+Pokemon = DITTO,37
+	Moves = SNAPTRAP,SHELLTRAP,AQUACHARGE,ELECTROBALL
+	Ability = 0
+	Form = 1
+	IV = 12
+#-------------------------------
+[GOODKIN,Bernie]
+LoseText = "Me and my sis got to bond at least! Guess we should head back now."
+Pokemon = PLUSLE,36
+	Moves = HELPINGHAND,TAILGLOW,LIGHTSHOWER,MAGICALLEAF
+	Ability = 1
+	Form = 1
+	IV = 12
+Pokemon = KINGLER,36
+	Moves = SLACKOFF,LEAFBLADE,POLLENPUFF,CLAMP
+	Ability = 0 
+	Form = 1
+	IV = 12
+#-------------------------------
+[BADKIN,Kevva]
+LoseText = "Me and my sister don't get along though. Guess we should head back now."
+Pokemon = MINUN,36
+	Moves = HELPINGHAND,COSMICPOWER,SWEETKISS,PSYBEAM
+	Ability = 0
+	Form = 1
+	IV = 12
+Pokemon = CORPHISH,36
+	Moves = SPARK,KNOCKOFF,TAUNT,DRAGONDANCE
+	Ability = 0
+	Form = 1
+	IV = 12
+#-------------------------------
+[BIRDKEEPER,Roshaye]
+LoseText = "Why do the birbs go... flap flap?"
+Pokemon = PIDGEY,34
+	Moves = FEATHERDANCE,UPROAR,WINGATTACK,HEATWAVE
+	Ability = 0
+	IV = 12
+Pokemon = HOOTHOOT,34
+	Moves = ROOST,MOONBLAST,REFLECT,EXTRASENSORY
+	Ability = 1
+	IV = 12
+Pokemon = ROOKIDEE,34
+	Moves = POWERTRIP,DEFOG,DRILLPECK,WORKUP
+	Ability = 1
+	IV = 12
+Pokemon = PIKIPEK,34
+	Moves = FURYATTACK,BULLETSEED,SUPERSONIC,PLUCK
+	Ability = 1
+	IV = 12
+#-------------------------------
+[MAGICALGIRL,Roro]
+LoseText = "The mysterious energies... they sleep."
+Pokemon = MISDREAVUS,36
+	Moves = STRANGESTEAM,ICYWIND,HEALBELL,COLDSNAP
+	Ability = 1
+	Form = 1
+	IV = 12
+Pokemon = VILEPLUME,37
+	Moves = PETALBLIZZARD,TICKLE,GROWTH,ACIDSPRAY
+	Ability = 1
+	IV = 12
+Pokemon = KIRLIA,36
+	Moves = DRAININGKISS,LIFEDEW,CALMMIND,PSYBEAM
+	Ability = 2
+	IV = 12
+#-------------------------------
+[ECORIDER,Melan]
+LoseText = "Not for me though, I stick to the path!"
+Pokemon = GRAVELER,37
+	Moves = THUNDERPUNCH,ROCKBLAST,STEAMROLLER,HEAVYSLAM
+	Ability = 1
+	Form = 1
+	IV = 12
+Pokemon = ROTOM,37
+	Moves = THUNDERWAVE,HEX,ELECTROBALL,AIRSLASH
+	Ability = 1
+	Form = 4 
+	IV = 12
+#-------------------------------
+[RUINMANIAC,Jesiah]
+LoseText = "You don't have to be so salty about it!"
+Pokemon = CARBINK,35
+	Moves = LIGHTSCREEN,ROCKSLIDE,LIGHTSCREEN,DAZZLINGGLEAM
+	Ability = 0 
+	Item = LIGHTCLAY
+	IV = 12
+Pokemon = SIGILYPH,35
+	Moves = AIRSLASH,COSMICPOWER,WONDERRUSH,HIDDENPOWER
+	Ability = 0
+	IV = 12
+Pokemon = COFAGRIGUS,36
+	Moves = HEX,WILLOWISP,NIGHTSHADE,DISABLE
+	Ability = 0
+	IV = 12
+#-------------------------------
+[BURGLAR,Hassan]
+LoseText = "Arrrgh... this was supposed to be an easy gig!"
+Pokemon = SABLEYE,36
+	Moves = SHADOWSNEAK,NIGHTSHADE,MOONLIGHT,SUCKERPUNCH
+	Ability = 0 
+	IV = 12
+Pokemon = MAGMAR,36
+	Moves = SMOKESCREEN,BURNINGJEALOUSY,CONFUSERAY,SMOG
+	Ability = 1
+	IV = 12
+#-------------------------------
+[BURGLAR,Hassan,1]
+LoseText = "Stolen Pokemon don't fight as well as bonded ones..."
+Pokemon = SABLEYE,36
+	Moves = SHADOWSNEAK,NIGHTSHADE,MOONLIGHT,SUCKERPUNCH
+	Ability = 0 
+	IV = 12
+Pokemon = MAGMAR,37
+	Moves = SMOKESCREEN,BURNINGJEALOUSY,CONFUSERAY,SMOG
+	Ability = 1
+	IV = 12
+Pokemon = PELIPPER,37
+	Moves = DEFOG,FLY,PRESENT,TAILWIND
+	Ability = 0
+	IV = 12
+#-------------------------------
+[BURGLAR,Harris]
+LoseText = "How did you even see us? Dirty tricks for sure!"
+Pokemon = EXCADRILL,36
+	Moves = SMARTSTRIKE,SPIKES,SMOKESCREEN,FAINTATTACK
+	Ability = 2
+	Form = 1
+	IV = 12
+Pokemon = PALOSSAND,37
+	Moves = HYPNOSIS,GIGADRAIN,SANDATTACK,SANDTOMB
+	Ability = 1
+	IV = 12
+#-------------------------------
+[BURGLAR,Hamza]
+LoseText = "Kekeke... I might have lost, but so did you!"
+Pokemon = KLEFKI,35
+	Moves =  METALSOUND,WISH,THIEF,DRAININGKISS
+	Ability = 0
+	Shadow = yes
+	IV = 12
+Pokemon = LIEPARD,36
+	Moves = FAKEOUT,DOUBLETEAM,BURNINGJEALOUSY,SUCKERPUNCH
+	Ability = 1
+	IV = 12
+Pokemon = KECLEON,36
+	Moves = THIEF,SHADOWSNEAK,SLASH,POWERUPPUNCH
+	Ability = 0
+	IV = 12
+Pokemon = GRENINJA,37
+	Moves = WATERSHURIKEN,AQUACHARGE,BOUNCE,SHADOWSNEAK
+	Ability = 1
+	Item = BRIGHTPOWDER
+	IV = 12
+	

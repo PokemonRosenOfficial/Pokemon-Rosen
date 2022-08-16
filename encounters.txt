@@ -1,0 +1,929 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[076] # Advent Shrine
+Land,20
+    60,CATERPIE,2,3
+    20,MUNNA,3,4
+    10,WOOPER,2,4
+    5,METAPOD,7
+    5,PICHU_1,2,5
+LandNight,20
+    60,WEEDLE,2,3
+    20,MUNNA,3,4
+    10,WOOPER,2,4
+    5,KAKUNA,7
+    5,PICHU_1,2,5
+#-------------------------------
+[002] # Route 1
+Water,10
+    70,WOOPER,6,8
+    25,QUAGSIRE,10,12
+    5,SQUIRTLE,5,7
+OldRod
+    95,FEEBAS,10
+    5,SQUIRTLE,10
+HeadbuttLow
+    80,HOOTHOOT,7,10
+    10,BURMY,6,9
+    5,BUTTERFREE_1,10,12
+    5,BEEDRILL_1,10,12
+HeadbuttHigh
+    60,HOOTHOOT,7,10
+    20,BURMY,6,9
+    10,BUTTERFREE_1,10,12
+    10,BEEDRILL_1,10,12
+Land,20
+    30,CATERPIE,3,4
+    30,ZIGZAGOON_1,3,4
+    20,LOTAD,4,5
+    10,MUNNA,4,5
+    5,WOOPER,7
+    5,PACHIRISU_1,5,6
+LandNight,20
+    30,WEEDLE,3,4
+    30,ZIGZAGOON_1,3,4
+    20,LOTAD,4,5
+    10,MUNNA,4,5
+    5,WOOPER,7
+    5,PACHIRISU_1,5,6
+#-------------------------------
+[182] # Route 1 (West)
+Water,10
+    70,TYMPOLE,4,5
+    20,PALPITOAD,8,12
+    10,SQUIRTLE,5,6
+OldRod
+    95,TYMPOLE,10
+    5,SQUIRTLE,10
+RockSmash
+    60,WOOPER,4,7
+    25,QUAGSIRE,8,12
+    10,DITTO_1,10
+    5,SHUCKLE,8,12
+#-------------------------------
+[184] # Advent Earth
+Cave,10
+    30,MEOWTH_2,30,32
+    20,WOOPER,29,31
+    20,CROAGUNK,27,30
+    10,GOLETT,27,31
+    10,DRILBUR_1,31,33
+    5,UNOWN,24,27
+    5,KLINK,25,30
+RockSmash
+    60,WOOPER,29,31
+    25,GOLETT,27,31
+    10,QUAGSIRE,33,35
+    5,SHUCKLE,28,30
+#-------------------------------
+[003] # Enigma Town
+Water,10 
+    40,CARVANHA,6,7
+    40,TENTACOOL_1,4,5
+    10,WINGULL,5,7
+    10,FRILLISH,6,8
+OldRod
+    90,CARVANHA,10
+    10,BRUXISH,10
+Land,20
+    30,ZIGZAGOON_1,3,4
+    20,LOTAD,4,5
+    20,MUNNA,4,5
+    10,KLINK_1,6,8
+    10,TRUBBISH,5,8
+    5,KOFFING,5,8
+    5,UNOWN,6,8
+#-------------------------------
+[015] # Jaboca Town
+Water,10
+    40,CARVANHA,6,7
+    40,TENTACOOL_1,4,5
+    10,WINGULL,5,7
+    10,FRILLISH,6,8
+OldRod
+    90,CARVANHA,10
+    10,CLAMPERL,10 
+Land,20
+    25,TAILLOW_1,7,12
+    20,CHEWTLE,8,13
+    15,KRABBY_1,10,14
+    15,RATTATA,9,11
+    10,CRABRAWLER,5,7
+    10,HOPPIP,9,13
+    5,SANDSHREW,9,12
+LandNight,20
+    40,KRABBY_1,10,14
+    20,CHEWTLE,8,13
+    20,CRABRAWLER,5,7
+    15,RATTATA,9,11
+    5,SANDSHREW,9,12
+#-------------------------------
+[027] # Route 3 (Left)
+Water,10
+    40,CARVANHA,6,7
+    30,TENTACOOL_1,4,5
+    10,WINGULL,5,7
+    10,FRILLISH,6,8
+    5,OMANYTE,10,11
+    5,TENTACRUEL_1,13
+OldRod
+    90,CARVANHA,10
+    10,OMANYTE,10
+RockSmash
+    60,SANDSHREW,24,27
+    25,GEODUDE_1,22,28
+    10,KABUTO,25,28
+    5,SHUCKLE,25
+Land,20
+    25,TAILLOW_1,7,12
+    20,BUNNELBY,11,16
+    15,SKIDDO,12,14
+    15,RATTATA,13,16
+    10,NIDORANmA,12,15
+    10,NIDORANfE,12,15
+    5,LITLEO,10,16
+LandNight,20
+    25,WOOBAT,7,12
+    20,BUNNELBY,11,16
+    15,SKIDDO,12,14
+    15,RATTATA,13,16
+    10,NIDORANmA,12,15
+    10,NIDORANfE,12,15
+    5,AUDINO,10,16
+#-------------------------------
+[028] # Route 3 (Right)
+Water,10
+    40,CARVANHA,6,7
+    30,TENTACOOL_1,4,5
+    10,WINGULL,5,7
+    10,FRILLISH,6,8
+    5,OMANYTE,10,11
+    5,TENTACRUEL_1,13
+OldRod
+    90,CARVANHA,10
+    10,OMANYTE,10
+RockSmash
+    60,SANDSHREW,24,27
+    25,GRAVELER_1,22,28
+    10,KABUTO,25,28
+    5,SHUCKLE,25
+Land,20
+    25,TAILLOW_1,26,29
+    20,BUNNELBY,24,28
+    15,SKIDDO,27,29
+    15,RATICATE,27,30
+    10,NIDORINA,25,29
+    10,NIDORINO,25,29
+    5,LITLEO,26,28
+LandNight,20
+    25,WOOBAT,26,29
+    20,BUNNELBY,24,28
+    15,SKIDDO,27,29
+    15,RATICATE,27,30
+    10,NIDORINA,25,29
+    10,NIDORINO,25,29
+    5,YAMASK,26,28
+#-------------------------------
+[030] # Excavation Tunnel (Main Path)
+Water,10
+    50,WOOBAT,12,14
+    45,SHELLOS,13,16
+    5,OMANYTE,10,11
+OldRod
+    90,SHELLOS,10
+    10,OMANYTE,10
+RockSmash
+    60,SANDSHREW,24,27
+    25,DWEBBLE,22,28
+    10,KABUTO,25,28
+    5,DWEBBLE_1,25
+Cave,10
+    30,ROGGENROLA,10,15
+    20,WOOBAT,12,14
+    20,TIMBURR,13,16
+    10,DWEBBLE,14,15
+    10,MEOWTH_2,12,14
+    5,ONIX,15,17
+    5,NOIBAT,14,16
+#-------------------------------
+[031] # Excavation Tunnel (Old Path)
+Water,10
+    50,WOOBAT,12,14
+    25,SHELLOS,13,16
+    25,OMANYTE,10,11
+OldRod
+    70,SHELLOS,10
+    30,OMANYTE,10
+RockSmash
+    60,KABUTO,24,27
+    25,DWEBBLE,22,28
+    10,SANDSHREW,25,28
+    5,DWEBBLE_1,25
+Cave,10
+    30,KABUTO,10,15
+    30,OMANYTE,12,14
+    20,TIMBURR,13,16
+    10,MEOWTH_2,12,14
+    5,ONIX,15,17
+    5,NOIBAT,14,16
+#-------------------------------
+[034] # Excavation Tunnel (Relic Lake)
+Water,10
+    50,WOOBAT,12,14
+    25,SHELLOS,13,16
+    20,OMANYTE,10,11
+    5,RELICANTH,15
+OldRod
+    70,SHELLOS,10
+    30,OMANYTE,10
+RockSmash
+    60,KABUTO,24,27
+    25,DWEBBLE,22,28
+    10,SANDSHREW,25,28
+    5,DWEBBLE_1,25
+Cave,10
+    30,KABUTO,10,15
+    30,OMANYTE,12,14
+    20,TIMBURR,13,16
+    10,MEOWTH_2,12,14
+    5,ONIX,15,17
+    5,NOIBAT,14,16
+#-------------------------------
+[035] # Searing Cave
+RockSmash
+    40,SLUGMA,13
+    30,SLUGMA,14
+    20,SLUGMA,15
+    5,SLUGMA,20
+    5,DWEBBLE_1,25
+Cave,10 
+    40,SLUGMA,13
+    30,SLUGMA,14
+    20,SLUGMA,15
+    5,SLUGMA,20
+    5,MAGBY,15,17
+#-------------------------------
+[054] # Kee Mines B1F
+RockSmash
+    60,ROLYCOLY,24,27
+    35,SLUGMA,22,28
+    5,DWEBBLE_1,25
+Cave,10
+    30,SLUGMA,15,16
+    20,ROLYCOLY,14,17
+    20,KOFFING,15,16
+    10,TIMBURR,14,18
+    10,MEOWTH_2,14,18
+    5,LILEEP_1,15,17
+    5,CARKOL,18,20
+#-------------------------------
+[052] # Kee Mines B2F
+RockSmash
+    60,ROLYCOLY,24,27
+    35,SLUGMA,22,28
+    5,DWEBBLE_1,25
+Cave,10
+    30,SLUGMA,15,16
+    20,ROLYCOLY,14,17
+    20,KOFFING,15,16
+    10,TIMBURR,14,18
+    10,LILEEP_1,15,16
+    5,MEOWTH_2,14,18
+    5,CARKOL,18,20
+#-------------------------------
+[053] # Kee Mines B3F
+RockSmash
+    60,ROLYCOLY,24,27
+    35,SLUGMA,22,28
+    5,DWEBBLE_1,25
+Cave,10
+    30,LILEEP_1,15,16
+    20,SLUGMA,15,16
+    20,ROLYCOLY,15,16
+    10,KOFFING,17,19
+    10,CARKOL,18,20
+    5,MEOWTH_2,15,17
+    5,TIMBURR,18,20
+#-------------------------------
+[202] # Tranquility Forest
+Water,10
+    60,PSYDUCK,20,22
+    30,SLOWPOKE_1,21,24
+    10,GOLDUCK,24,27
+OldRod
+    70,SLOWPOKE_1,10
+    30,BRUXISH,10
+HeadbuttLow
+    60,WURMPLE,19,20
+    10,SILCOON,20,21
+    10,CASCOON,20,21
+    10,WORMADAM,22,23
+    5,BEAUTIFLY,24,26
+    5,DUSTOX,24,26
+HeadbuttHigh
+    30,WURMPLE,19,20
+    20,SILCOON,20,21
+    20,CASCOON,20,21
+    10,WORMADAM,22,23
+    10,BEAUTIFLY,24,26
+    10,DUSTOX,24,26
+DirtyGrass,20
+    50,FOONGUS_1,18,23
+    25,GULPIN,22,23
+    20,GRIMER,21,24
+    5,SLOWPOKE_1,22,25
+Land,20
+    20,BOUNSWEET,17,19
+    20,PARAS,16,20
+    20,DROWZEE,17,21
+    10,DEERLING_2,16,19
+    10,SLAKOTH,15,17
+    10,INDEEDEE,19,20
+    5,AIPOM,18,21
+    5,BONSLY,12,14
+LandNight,20
+    30,MORELULL,17,19
+    20,PARAS,16,20
+    20,DROWZEE,17,21
+    10,BONSLY,12,14
+    10,INDEEDEE,19,20
+    5,AIPOM,18,21
+    5,SLAKOTH,15,17
+#-------------------------------
+[201] # Deep Tranquility Forest
+Land,20
+    20,BOUNSWEET,17,19
+    20,PARAS,16,20
+    20,DROWZEE,17,21
+    10,DEERLING_2,16,19
+    10,SLAKOTH,15,17
+    10,INDEEDEE,19,20
+    5,AIPOM,18,21
+    5,BONSLY,12,14
+LandNight,20
+    30,MORELULL,17,19
+    20,PARAS,16,20
+    20,DROWZEE,17,21
+    10,BONSLY,12,14
+    10,INDEEDEE,19,20
+    5,AIPOM,18,21
+    5,SLAKOTH,15,17
+#-------------------------------
+[059] # Route 5
+Water,10
+    60,PSYDUCK,20,22
+    30,SLOWPOKE_1,21,24
+    10,FARFETCHD,24,27
+OldRod
+    70,PSYDUCK,10
+    30,REMORAID,10
+HeadbuttLow
+    60,HOOTHOOT,19,20
+    25,LEDYBA_1,16,20
+    10,NOCTOWL,21,24
+    5,AIPOM,18,21
+HeadbuttHigh
+    50,HOOTHOOT,19,20
+    25,LEDYBA_1,16,20
+    20,NOCTOWL,21,24
+    5,AIPOM,18,21
+Land,20
+    30,BOUNSWEET,17,19
+    20,LEDYBA_1,16,20
+    20,RATTATA,17,21
+    15,GULPIN,16,19
+    10,STEENEE,15,17
+    5,FARFETCHD,18,21
+LandNight,20
+    30,HOOTHOOT,17,19
+    20,LEDYBA_1,16,20
+    20,GLAMEOW,17,21
+    15,GULPIN,16,19
+    10,NOCTOWL,15,17
+    5,FARFETCHD,18,21
+#-------------------------------
+[060] # Route 5
+Water,10
+    60,PSYDUCK,20,22
+    30,SLOWPOKE_1,21,24
+    10,FARFETCHD,24,27
+OldRod
+    70,PSYDUCK,10
+    30,REMORAID,10
+HeadbuttLow
+    60,HOOTHOOT,19,20
+    25,LEDYBA_1,16,20
+    10,NOCTOWL,21,24
+    5,AIPOM,18,21
+HeadbuttHigh
+    50,HOOTHOOT,19,20
+    25,LEDYBA_1,16,20
+    20,NOCTOWL,21,24
+    5,AIPOM,18,21
+Land,20
+    30,BOUNSWEET,17,19
+    20,LEDYBA_1,16,20
+    20,RATTATA,17,21
+    15,GULPIN,16,19
+    10,STEENEE,15,17
+    5,FARFETCHD,18,21
+LandNight,20
+    30,HOOTHOOT,17,19
+    20,LEDYBA_1,16,20
+    20,GLAMEOW,17,21
+    15,GULPIN,16,19
+    10,NOCTOWL,15,17
+    5,FARFETCHD,18,21
+#-------------------------------
+[061] # Route 5
+Water,10
+    60,PSYDUCK,20,22
+    30,SLOWPOKE_1,21,24
+    10,FARFETCHD,24,27
+OldRod
+    70,PSYDUCK,10
+    30,REMORAID,10
+HeadbuttLow
+    60,HOOTHOOT,19,20
+    25,LEDYBA_1,16,20
+    10,NOCTOWL,21,24
+    5,AIPOM,18,21
+HeadbuttHigh
+    50,HOOTHOOT,19,20
+    25,LEDYBA_1,16,20
+    20,NOCTOWL,21,24
+    5,AIPOM,18,21
+Land,20
+    30,BOUNSWEET,17,19
+    20,LEDYBA_1,16,20
+    20,RATTATA,17,21
+    15,GULPIN,16,19
+    10,STEENEE,15,17
+    5,FARFETCHD,18,21
+LandNight,20
+    30,HOOTHOOT,17,19
+    20,LEDYBA_1,16,20
+    20,GLAMEOW,17,21
+    15,GULPIN,16,19
+    10,NOCTOWL,15,17
+    5,FARFETCHD,18,21
+#-------------------------------
+[072] # Rindo City (West)
+DirtyGrass,20
+    50,TRUBBISH_1,18,23
+    25,GRIMER,22,23
+    20,SALANDIT,21,24
+    5,LOTAD_1,22,25
+Land,20
+    25,PIDOVE,18,20
+    20,SEEDOT,21,23
+    15,RATTATA,19,24
+    15,SNUBBULL,20,23
+    10,NUZLEAF,22,23
+    10,TRANQUILL,21,25
+    5,SHELLOS,23,26
+LandNight,20
+    25,GLAMEOW,18,20
+    20,SEEDOT,21,23
+    15,SKITTY,19,24
+    15,SNUBBULL,20,23
+    10,NUZLEAF,22,23
+    10,MURKROW,21,25
+    5,SHELLOS,23,26
+#-------------------------------
+[073] # Rindo City (East)
+DirtyGrass,20
+    50,TRUBBISH_1,18,23
+    25,GRIMER,22,23
+    20,SALANDIT,21,24
+    5,LOTAD_1,22,25
+Land,20
+    25,PIDOVE,18,20
+    20,SEEDOT,21,23
+    15,RATTATA,19,24
+    15,SNUBBULL,20,23
+    10,NUZLEAF,22,23
+    10,TRANQUILL,21,25
+    5,SHELLOS,23,26
+LandNight,20
+    25,GLAMEOW,18,20
+    20,SEEDOT,21,23
+    15,SKITTY,19,24
+    15,SNUBBULL,20,23
+    10,NUZLEAF,22,23
+    10,MURKROW,21,25
+    5,SHELLOS,23,26
+#-------------------------------
+[092] # Berry Grand Hotel
+Cave
+    60,DUNSPARCE,20,30
+    30,WOOBAT,22,25
+    10,SWOOBAT,25,27
+#-------------------------------
+[093] # Strange Cave
+Cave
+    60,DUNSPARCE,20,30
+    30,WOOBAT,22,25
+    5,SWOOBAT,25,27
+    5,DUNSPARCE_1,32,35
+#-------------------------------
+[117] # Route 23
+Water,10
+    60,PSYDUCK,23,24
+    30,CLOBBOPUS,25,26
+    10,FARFETCHD,24,27
+OldRod
+    60,PSYDUCK,10
+    30,CLOBBOPUS,10
+    10,REMORAID,10
+HeadbuttLow
+    60,HOOTHOOT,20,22
+    20,APPLIN,20
+    10,KARRABLAST,18,23
+    5,NOCTOWL,23,25
+    5,WORMADAM,24,26
+HeadbuttHigh
+    40,HOOTHOOT,20,22
+    30,APPLIN,20
+    20,KARRABLAST,18,23
+    5,NOCTOWL,23,25
+    5,PINECO,20,25
+Land,20
+    25,SPEAROW,20,22
+    20,ESPURR,19,23
+    15,PLUSLE,21,23
+    15,MINUN,21,23
+    10,CHATOT,23,25
+    10,FEAROW,22,26
+    5,ORICORIO_1,20,25
+LandNight,20
+    25,HOOTHOOT,20,22
+    20,ESPURR,19,23
+    15,PLUSLE,21,23
+    15,MINUN,21,23
+    10,DITTO,23,25
+    10,NOCTOWL,22,26
+    5,ORICORIO_1,20,25
+#-------------------------------
+[118] # Route 23
+Water,10
+    60,PSYDUCK,23,24
+    30,CLOBBOPUS,25,26
+    10,FARFETCHD,24,27
+OldRod
+    60,PSYDUCK,10
+    30,CLOBBOPUS,10
+    10,REMORAID,10
+HeadbuttLow
+    60,HOOTHOOT,20,22
+    20,APPLIN,20
+    10,KARRABLAST,18,23
+    5,NOCTOWL,23,25
+    5,WORMADAM,24,26
+HeadbuttHigh
+    40,HOOTHOOT,20,22
+    30,APPLIN,20
+    20,KARRABLAST,18,23
+    5,NOCTOWL,23,25
+    5,PINECO,20,25
+Land,20
+    25,SPEAROW,20,22
+    20,ESPURR,19,23
+    15,PLUSLE,21,23
+    15,MINUN,21,23
+    10,CHATOT,23,25
+    10,FEAROW,22,26
+    5,ORICORIO_1,20,25
+LandNight,20
+    25,HOOTHOOT,20,22
+    20,ESPURR,19,23
+    15,PLUSLE,21,23
+    15,MINUN,21,23
+    10,DITTO,23,25
+    10,NOCTOWL,22,26
+    5,ORICORIO_1,20,25
+#-------------------------------
+[152] # Cycling Road
+RockSmash
+    60,GEODUDE_1,23,28
+    25,HELIOPTILE,24,28
+    10,GRAVELER_1,26,29
+    5,TYNAMO,15
+Land,20
+    30,GEODUDE_1,23,28
+    30,VENIPEDE,23,28
+    10,VOLTORB_1,23,25
+    10,SPOINK_1,24,27
+    10,DODUO,24,26
+    5,WHIRLIPEDE,27,30
+    5,PIKACHU,25,28
+LandNight,20
+    30,GEODUDE_1,23,28
+    30,VENIPEDE,23,28
+    10,VOLTORB,23,25
+    10,SPOINK_1,24,27
+    10,KRICKETOT,24,26
+    5,WHIRLIPEDE,27,30
+    5,PIKACHU,25,28
+#-------------------------------
+[146] # Route 4
+Water,10
+    60,FINNEON,24,28
+    30,DEWPIDER,24,28
+    10,AZURILL,17,21
+OldRod
+    90,FINNEON,10
+    10,QWILFISH,10
+Land,20
+    30,SWABLU,26,28
+    30,WOOLOO,23,25
+    10,FEAROW,27,31
+    10,SKITTY,23,25
+    10,CHERUBI,26,29
+    5,MIMEJR,18,22
+    5,DUBWOOL,27,30
+LandNight,20
+    30,CUTIEFLY,26,28
+    30,ODDISH,23,25
+    10,NOCTOWL,27,31
+    10,SPINDA,23,25
+    10,EKANS,26,29
+    5,MIMEJR,18,22
+    5,AUDINO,27,30
+#-------------------------------
+[148] # Route 4
+Water,10
+    60,FINNEON,24,28
+    30,DEWPIDER,24,28
+    10,AZURILL,17,21
+OldRod
+    90,REMORAID,10
+    10,QWILFISH,10
+Land,20
+    30,SWABLU,26,28
+    30,WOOLOO,23,25
+    10,FEAROW,27,31
+    10,SPINDA,23,25
+    10,CHERUBI,26,29
+    5,MIMEJR,18,22
+    5,DUBWOOL,27,30
+LandNight,20
+    30,CUTIEFLY,26,28
+    30,ODDISH,23,25
+    10,NOCTOWL,27,31
+    10,SKITTY,23,25
+    10,EKANS,26,29
+    5,MIMEJR,18,22
+    5,AUDINO,27,30
+#-------------------------------
+[147] # Route 4 Cave
+Water,10
+    60,WOOBAT,20,30
+    30,BARBOACH,25,26
+    10,SWOOBAT,30,32
+OldRod
+    70,BARBOACH,10
+    30,CHINCHOU,10
+Cave,10
+    30,GEODUDE_1,25,28
+    20,WOOBAT,23,26
+    20,DIGLETT,20,30
+    10,GRAVELER_1,26,30
+    10,SWOOBAT,26,30
+    10,STUNFISK,28,31
+#-------------------------------
+[177] # Purple Room Expedition - Mt. Rampard
+Land,20
+    50,MISDREAVUS,25,30
+    50,MISDREAVUS_1,25,30
+#-------------------------------
+[163] # Kee Mines B1F
+RockSmash
+    60,ROLYCOLY,24,27
+    35,SLUGMA,22,28
+    5,DWEBBLE_1,25
+Cave,10
+    30,SLUGMA,25,26
+    20,CARKOL,26,30
+    20,KOFFING,25,26
+    10,TIMBURR,24,28
+    10,MEOWTH_2,24,28
+    5,MAGBY,15,17
+    5,MAKUHITA,28,29
+#-------------------------------
+[165] # Kee Mines B2F
+RockSmash
+    60,ROLYCOLY,24,27
+    35,SLUGMA,22,28
+    5,DWEBBLE_1,25
+Cave,10
+    30,SLUGMA,25,26
+    20,CARKOL,26,30
+    20,KOFFING,25,26
+    10,TIMBURR,24,28
+    10,MAGBY,15,17
+    5,MAKUHITA,28,29
+    5,MAGMAR,30
+#-------------------------------
+[164] # Kee Mines B3F
+RockSmash
+    60,ROLYCOLY,24,27
+    35,SLUGMA,22,28
+    5,DWEBBLE_1,25
+Cave,10
+    30,CARKOL,26,30
+    30,SLUGMA,25,26
+    20,KOFFING,27,29
+    10,MAGBY,18,20
+    5,HARIYAMA,30,32
+    5,MAGMAR,30
+#-------------------------------
+[173] # Harmony Woods
+Water,10
+    60,FINNEON,24,28
+    20,BARBOACH,25,26
+    10,AZURILL,17,21
+    10,DEWPIDER,24,28
+OldRod
+    50,REMORAID,10
+    30,CHINCHOU,10
+    20,BRUXISH,10
+Land,20
+    20,BLIPBUG,25,28
+    20,BUNEARY_2,27,30
+    20,GLOOM,28,30
+    10,DOTTLER,28,31
+    10,FOMANTIS,27,28
+    10,CHINGLING,22,26
+    5,IMPIDIMP,29,31
+    5,ABRA,30
+LandNight,20
+    20,BLIPBUG,25,28
+    20,PHANTUMP,27,30
+    20,GLOOM,28,30
+    10,DOTTLER,28,31
+    10,SHIINOTIC,30,32
+    10,SABLEYE,33,35
+    5,IMPIDIMP,29,31
+    5,ABRA,30
+#-------------------------------
+[204] # Route 22
+Water,10
+    40,CARVANHA,23,30
+    30,TENTACOOL_1,25,28
+    10,PELIPPER,27,31
+    10,FRILLISH,24,29
+    5,CORSOLA,28,30
+    5,TENTACRUEL_1,33
+OldRod
+    95,CARVANHA,10
+    5,CORSOLA,10
+DirtyGrass,20
+    50,SLOWPOKE,27,28
+    25,PELIPPER,27,31
+    15,EXEGGCUTE,26,28
+    5,ORICORIO,27,30
+    5,KINGLER_1,31,33
+Land,20
+    20,SPEAROW,24,27
+    20,SUNKERN,24,27
+    20,KRABBY_1,26,28
+    15,EXEGGCUTE,26,28
+    10,SMEARGLE,30
+    10,COMFEY,29,31
+    5,CHARMANDER,27,30
+LandNight,20
+    20,MEOWTH_1,24,27
+    20,GRUBBIN,24,27
+    20,KRABBY_1,26,27
+    15,EXEGGCUTE,26,28
+    10,SMEARGLE,30
+    10,MINIOR,29,31
+    5,CHARMANDER,27,30
+    5,CHARMANDER,27,30
+#-------------------------------
+[205] # Route 22
+Water,10
+    40,CARVANHA,23,30
+    30,TENTACOOL_1,25,28
+    10,PELIPPER,27,31
+    10,FRILLISH,24,29
+    5,CORSOLA,28,30
+    5,TENTACRUEL_1,33
+OldRod
+    95,CARVANHA,10
+    5,CORSOLA,10
+DirtyGrass,20
+    50,SLOWPOKE,27,28
+    25,PELIPPER,27,31
+    15,EXEGGCUTE,26,28
+    5,ORICORIO,27,30
+    5,KINGLER_1,31,33
+Land,20
+    20,SPEAROW,24,27
+    20,SUNKERN,24,27
+    20,KRABBY_1,26,28
+    15,EXEGGCUTE,26,28
+    10,SMEARGLE,30
+    10,COMFEY,29,31
+    5,CHARMANDER,27,30
+LandNight,20
+    20,MEOWTH_1,24,27
+    20,GRUBBIN,24,27
+    20,KRABBY_1,26,27
+    15,EXEGGCUTE,26,28
+    10,SMEARGLE,30
+    10,MINIOR,29,31
+    5,CHARMANDER,27,30
+#-------------------------------
+[206] # Route 22
+Water,10
+    40,CARVANHA,23,30
+    30,TENTACOOL_1,25,28
+    10,PELIPPER,27,31
+    10,FRILLISH,24,29
+    5,CORSOLA,28,30
+    5,TENTACRUEL_1,33
+OldRod
+    95,CARVANHA,10
+    5,CORSOLA,10
+DirtyGrass,20
+    50,SLOWPOKE,27,28
+    25,PELIPPER,27,31
+    15,EXEGGCUTE,26,28
+    5,ORICORIO,27,30
+    5,KINGLER_1,31,33
+Land,20
+    20,SPEAROW,24,27
+    20,SUNKERN,24,27
+    20,KRABBY_1,26,28
+    15,EXEGGCUTE,26,28
+    10,SMEARGLE,30
+    10,COMFEY,29,31
+    5,CHARMANDER,27,30
+LandNight,20
+    20,MEOWTH_1,24,27
+    20,GRUBBIN,24,27
+    20,KRABBY_1,26,27
+    15,EXEGGCUTE,26,28
+    10,SMEARGLE,30
+    10,MINIOR,29,31
+    5,CHARMANDER,27,30
+#-------------------------------
+[207] # Route 22
+Water,10
+    40,CARVANHA,23,30
+    30,TENTACOOL_1,25,28
+    10,PELIPPER,27,31
+    10,FRILLISH,24,29
+    5,CORSOLA,28,30
+    5,TENTACRUEL_1,33
+OldRod
+    95,CARVANHA,10
+    5,CORSOLA,10
+DirtyGrass,20
+    50,SLOWPOKE,27,28
+    25,PELIPPER,27,31
+    15,EXEGGCUTE,26,28
+    5,ORICORIO,27,30
+    5,KINGLER_1,31,33
+Land,20
+    20,SPEAROW,24,27
+    20,SUNKERN,24,27
+    20,KRABBY_1,26,28
+    15,EXEGGCUTE,26,28
+    10,SMEARGLE,30
+    10,COMFEY,29,31
+    5,CHARMANDER,27,30
+LandNight,20
+    20,MEOWTH_2,24,27
+    20,GRUBBIN,24,27
+    20,KRABBY_1,26,27
+    15,EXEGGCUTE,26,28
+    10,SMEARGLE,30
+    10,MINIOR,29,31
+    5,CHARMANDER,27,30
+#-------------------------------
+[211] # Grumble Ruins
+Cave,10
+    90,UNOWN,25,30
+    10,YAMASK,28,31
+#-------------------------------
+[212] # Route 22
+Cave,10
+    50,MEOWTH_2,24,27
+    45,SWOOBAT,25,30
+    5,KRABBY,25,27
+Water,10
+    40,CARVANHA,23,30
+    30,TENTACOOL_1,25,28
+    10,SWOOBAT,27,31
+    10,FRILLISH,24,29
+    5,CORSOLA,28,30
+    5,TENTACRUEL_1,33
+OldRod
+    85,CARVANHA,10
+    10,CORSOLA,10
+    5,KRABBY,10
+#-------------------------------
+
